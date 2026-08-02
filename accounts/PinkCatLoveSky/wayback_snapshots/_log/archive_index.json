@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T15:13:05",
+  "last_updated": "2026-08-02T15:13:26",
   "html": {
     "https://web.archive.org/web/20260725134742if_/https://twitter.com/PinkCatLoveSky/status/2081013524609056788": {
       "status": "done",
@@ -10914,9 +10914,9 @@
       "referenced_by": [
         "20260727004708_twitter_com_PinkCatLoveSky_status_2081541866349273463.json"
       ],
-      "last_updated": "2026-08-02T15:07:02",
+      "last_updated": "2026-08-02T15:13:26",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260727004708if_/https://pbs.twimg.com/profile_images/2080457301291421697/JBfeRm87_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png": {
       "status": "done",
@@ -11363,9 +11363,9 @@
         "20260728113405_twitter_com_PinkCatLoveSky_status_2082067061489238196.json",
         "20260729162746_twitter_com_PinkCatLoveSky_status_2082503357382697314.json"
       ],
-      "last_updated": "2026-08-02T15:07:02",
+      "last_updated": "2026-08-02T15:13:26",
       "last_reason": "无法识别 profile pid",
-      "miss_count": 2
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2071883716473860097/sS4wAe1E_normal.jpg": {
       "status": "done",
