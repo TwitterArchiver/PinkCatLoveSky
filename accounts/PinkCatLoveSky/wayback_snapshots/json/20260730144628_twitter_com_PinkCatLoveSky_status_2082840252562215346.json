@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082799826304164101",
+    "created_at": "2026-07-30T14:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082840252562215346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069160672672546816",
+          "start": 0,
+          "username": "BlackCrow1966"
+        },
+        {
+          "end": 25,
+          "id": "2073809123616182272",
+          "start": 15,
+          "username": "qian68069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082840252562215346",
+    "in_reply_to_user_id": "2069160672672546816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082839631008288884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackCrow1966 @qian68069 有意思喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082799826304164101",
+        "created_at": "2026-07-30T14:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082840252562215346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069160672672546816",
+              "start": 0,
+              "username": "BlackCrow1966"
+            },
+            {
+              "end": 25,
+              "id": "2073809123616182272",
+              "start": 15,
+              "username": "qian68069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082840252562215346",
+        "in_reply_to_user_id": "2069160672672546816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082839631008288884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackCrow1966 @qian68069 有意思喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069160672672546816",
+        "conversation_id": "2082799826304164101",
+        "created_at": "2026-07-30T14:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082839631008288884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2073809123616182272",
+              "start": 0,
+              "username": "qian68069"
+            },
+            {
+              "end": 26,
+              "id": "1320354023451496450",
+              "start": 11,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082839631008288884",
+        "in_reply_to_user_id": "2073809123616182272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082805332376715287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian68069 @PinkCatLoveSky 我会把ai当辩手用（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 2066,
+          "like_count": 62163,
+          "listed_count": 1,
+          "media_count": 278,
+          "tweet_count": 3605
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "我知道我在欺骗你 我仍然孤立无依",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "docuchina.cn",
+                "end": 23,
+                "expanded_url": "http://www.docuchina.cn/",
+                "start": 0,
+                "url": "https://t.co/xIdrdm9T1G"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "location": "沙坪坝",
+        "name": "胃烧书🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079296225107718144/1QX1LcKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 545,
+          "like_count": 2907,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/xIdrdm9T1G",
+        "username": "BlackCrow1966",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T16:41:25.000Z",
+        "description": "无糖MtX（F？）半家長黨 | 泛性恋 | 它/it \n本體@qian67068 简中/繁中/EN\n姐姐：@LianQiNian\n不ban真人 互联网攻受可切的触手娘\n愛所有人，但不会愛人\n学习🎹ing，爱鱼韵、回春丹，研究各种电子软硬件。1.77m57kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "qian67068"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "LianQiNian"
+              }
+            ]
+          }
+        },
+        "id": "2073809123616182272",
+        "name": "🏳️‍🌈Qian小千🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454574501642241/jdqNnQrK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 188,
+          "like_count": 543,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "qian68069",
+        "verified": false
+      }
+    ]
+  }
+}

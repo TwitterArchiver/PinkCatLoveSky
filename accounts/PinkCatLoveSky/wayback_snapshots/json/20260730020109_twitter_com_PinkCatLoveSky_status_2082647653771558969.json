@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082604751225794901",
+    "created_at": "2026-07-30T02:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082647653771558969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566669758174486529",
+          "start": 0,
+          "username": "cruthousindream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082647653771558969",
+    "in_reply_to_user_id": "1566669758174486529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082646320423338117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cruthousindream 強強"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082604751225794901",
+        "created_at": "2026-07-30T02:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082647653771558969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566669758174486529",
+              "start": 0,
+              "username": "cruthousindream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082647653771558969",
+        "in_reply_to_user_id": "1566669758174486529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082646320423338117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cruthousindream 強強"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566669758174486529",
+        "conversation_id": "2082604751225794901",
+        "created_at": "2026-07-30T01:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082646320423338117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082646320423338117",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082604751225794901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 家里的就平板都被小时候的我拆了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 2041,
+          "like_count": 60425,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 3454
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-05T06:09:23.000Z",
+        "description": "偶尔会写故事，偶尔会聊天，偶尔会见到那个自己，偶尔想展示一些我，偶尔寻找着平静。\nJust so so in English | まだ日本語を勉強中\n不过最重要的，未来，过去，还有现在～",
+        "id": "1566669758174486529",
+        "location": "Maybe in Wonderland?",
+        "name": "Yukey",
+        "pinned_tweet_id": "2082505765341049271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071883716473860097/sS4wAe1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 64,
+          "like_count": 751,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 989
+        },
+        "url": "",
+        "username": "cruthousindream",
+        "verified": true
+      }
+    ]
+  }
+}

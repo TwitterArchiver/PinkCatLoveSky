@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082395081076777135",
+    "created_at": "2026-07-29T10:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082413999170486642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 28,
+          "id": "1935221058489171971",
+          "start": 17,
+          "username": "mngxiaohan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082413999170486642",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082395081076777135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 @mngxiaohan 真的很感謝你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2082394502833283072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYmxG-aoAAiedr.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082394530742210560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYmyu8bEAAGAMr.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082394548781932544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYmzyJbYAAoq2n.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082395081076777135",
+        "created_at": "2026-07-29T10:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082413999170486642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 28,
+              "id": "1935221058489171971",
+              "start": 17,
+              "username": "mngxiaohan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082413999170486642",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082395081076777135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @mngxiaohan 真的很感謝你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082394502833283072",
+            "3_2082394530742210560",
+            "3_2082394548781932544"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082395081076777135",
+        "created_at": "2026-07-29T09:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082395081076777135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjZ9CKv3D4",
+              "end": 171,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+              "media_key": "3_2082394502833283072",
+              "start": 148,
+              "url": "https://t.co/GjZ9CKv3D4"
+            },
+            {
+              "display_url": "pic.x.com/GjZ9CKv3D4",
+              "end": 171,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+              "media_key": "3_2082394530742210560",
+              "start": 148,
+              "url": "https://t.co/GjZ9CKv3D4"
+            },
+            {
+              "display_url": "pic.x.com/GjZ9CKv3D4",
+              "end": 171,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082395081076777135/photo/1",
+              "media_key": "3_2082394548781932544",
+              "start": 148,
+              "url": "https://t.co/GjZ9CKv3D4"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2040824335661941010",
+              "start": 172,
+              "url": "https://t.co/1sNChCBLew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082395081076777135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这家喜欢绑架性少数的扭转机构也掉了，\n教官账号私密，场地搬空。\n人员清空了\n😁\n因为这群➗生成功让我\n意识到只救几个人没意义\n我救一个他们能绑十个\n 直接把我打出二阶段来了\n \n现在你王可不是要几个人，老老实实放人就完事了\n \n要你死的、要你倒闭的，\n出手就要你一个校区二三百个孩子全都清空的。\n\n开扭转机构的别睡太死，别哪天突然发现身边的教官都是我的人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1869,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040824335661941010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这家喜欢绑架性少数的扭转机构也掉了，\n教官账号私密，场地搬空。\n人员清空了\n😁\n因为这群➗生成功让我\n意识到只救几个人没意义\n我救一个他们能绑十个\n 直接把我打出二阶段来了\n \n现在你王可不是要几个人，老老实实放人就完事了\n \n要你死的、要你倒闭的，\n出手就要你一个校区二三百个孩子全都清空的。 https://t.co/GjZ9CKv3D4 https://t.co/1sNChCBLew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 2023,
+          "like_count": 59124,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 3132
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6496,
+          "following_count": 3337,
+          "like_count": 4016,
+          "listed_count": 19,
+          "media_count": 511,
+          "tweet_count": 3562
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-18T06:20:36.000Z",
+        "description": "可爱的小猫很乖的，可投喂喵，已有主，超级喜欢郑爸爸，生于2008/165 105g/无证含糖🍥MTF友跨，互fo/中度抑郁/",
+        "id": "1935221058489171971",
+        "name": "萌小涵🍥",
+        "pinned_tweet_id": "2076674151755207087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051659548260446208/z8hEgdq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 82,
+          "like_count": 36,
+          "listed_count": 5,
+          "media_count": 20,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "mngxiaohan",
+        "verified": true
+      }
+    ]
+  }
+}

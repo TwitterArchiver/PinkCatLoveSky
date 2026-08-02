@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082480985812435148",
+    "created_at": "2026-07-29T15:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082482340304146747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927018923649564674",
+          "start": 0,
+          "username": "dddddd10792941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082482340304146747",
+    "in_reply_to_user_id": "1927018923649564674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082480985812435148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddd10792941 我沒想過能談到對象\n我有自知之明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082480985812435148",
+        "created_at": "2026-07-29T15:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082482340304146747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927018923649564674",
+              "start": 0,
+              "username": "dddddd10792941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082482340304146747",
+        "in_reply_to_user_id": "1927018923649564674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082480985812435148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddd10792941 我沒想過能談到對象\n我有自知之明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927018923649564674",
+        "conversation_id": "2082480985812435148",
+        "created_at": "2026-07-29T14:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082480985812435148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082480985812435148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟家长勇敢出柜了 我也想到了最坏的结局 可她给的答复是\n同意并接受\n我确实没想到 但她说过她遇见过这种事情 不过她说这种关系都会因为性格不合和一些事情而分开\n我觉得她说的比较对 现在快餐式的爱情搞的即使是男女也很难1+1=1 真爱在现在真的太少了 更别说同性了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 2029,
+          "like_count": 59621,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 3231
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T15:08:23.000Z",
+        "description": "一个无建模，无经济，无背景的外道魔像\n马上就死了，互fo过的想取关的我不会拦着的\n不再渴求爱\n希望下辈子变成腿白，身材不胖建模好，声音中性的男生然后穿上女装当男娘\n希望之后会倒在自己的血泊中无人在意\n我讨厌谎言 我这辈子最他妈讨厌的就是他妈的谎言……\n我绝不会原谅背着爱人对外卖身的家伙，一辈子也不会…下辈子也不会原谅！",
+        "id": "1927018923649564674",
+        "location": "红色的“液体床”",
+        "name": "就以死亡来救赎哥布林那“绝望”的心灵吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082011179296436224/_bdaooXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 201,
+          "like_count": 1383,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "dddddd10792941",
+        "verified": false
+      }
+    ]
+  }
+}

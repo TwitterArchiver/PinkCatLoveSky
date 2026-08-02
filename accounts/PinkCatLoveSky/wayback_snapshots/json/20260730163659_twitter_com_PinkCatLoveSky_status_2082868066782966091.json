@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082868066782966091",
+    "created_at": "2026-07-30T16:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082868066782966091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Carla20Martin/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Carla20Martin/status/2082864791849156628",
+          "start": 10,
+          "url": "https://t.co/JqjMcnNnkS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082868066782966091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082864791849156628",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加速器會翻車嗎喵？ https://t.co/JqjMcnNnkS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082868066782966091",
+        "created_at": "2026-07-30T16:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082868066782966091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Carla20Martin/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Carla20Martin/status/2082864791849156628",
+              "start": 10,
+              "url": "https://t.co/JqjMcnNnkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082868066782966091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082864791849156628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加速器會翻車嗎喵？ https://t.co/JqjMcnNnkS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "824158009",
+        "conversation_id": "2082864651361235016",
+        "created_at": "2026-07-30T16:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082864791849156628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082864791849156628",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082864651361235016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 粉魔爪居然變煮麵工具了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 2074,
+          "like_count": 62441,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 3657
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2012-09-14T23:07:23.000Z",
+        "description": "最近一直在用这款稳定 VPN，体验确实不错。各位哥哥支持一下，下载入口放下面啦👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/QP0YmEo3zC"
+              }
+            ]
+          }
+        },
+        "id": "824158009",
+        "name": "奶瑶安利VPN加速器",
+        "pinned_tweet_id": "714575476493254656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082522087520919552/Ih8bLibR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 103,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2681
+        },
+        "url": "https://t.co/QP0YmEo3zC",
+        "username": "Carla20Martin",
+        "verified": false
+      }
+    ]
+  }
+}

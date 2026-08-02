@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082799826304164101",
+    "created_at": "2026-07-30T12:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082806901650415919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2073809123616182272",
+          "start": 0,
+          "username": "qian68069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082806901650415919",
+    "in_reply_to_user_id": "2073809123616182272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082805332376715287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian68069 喵還不用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082799826304164101",
+        "created_at": "2026-07-30T12:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082806901650415919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2073809123616182272",
+              "start": 0,
+              "username": "qian68069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082806901650415919",
+        "in_reply_to_user_id": "2073809123616182272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082805332376715287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian68069 喵還不用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073809123616182272",
+        "conversation_id": "2082799826304164101",
+        "created_at": "2026-07-30T12:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082805332376715287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082805332376715287",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082799826304164101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 用了就意味着失去一部分独自思考的能力，不可避免，但是ai有时候也挺能疏导和帮助人的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 2063,
+          "like_count": 61656,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 3569
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-05T16:41:25.000Z",
+        "description": "无糖MtX（F？）半家長黨 | 泛性恋 | 它/it \n本體@qian67068 简中/繁中/EN\n姐姐：@LianQiNian\n不ban真人 互联网攻受可切的触手娘\n愛所有人，但不会愛人\n学习🎹ing，爱鱼韵、回春丹，研究各种电子软硬件。1.77m57kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "qian67068"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "LianQiNian"
+              }
+            ]
+          }
+        },
+        "id": "2073809123616182272",
+        "name": "🏳️‍🌈Qian小千🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454574501642241/jdqNnQrK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 188,
+          "like_count": 531,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "qian68069",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2081378103297974629",
+    "created_at": "2026-07-26T14:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081379623259304005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2077747796849856513",
+          "start": 0,
+          "username": "Kir4uha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081379623259304005",
+    "in_reply_to_user_id": "2077747796849856513",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081378809475899498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kir4uha Well, it's not that important, so it's fine that you don't have one."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2081378103297974629",
+        "created_at": "2026-07-26T14:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081379623259304005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2077747796849856513",
+              "start": 0,
+              "username": "Kir4uha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081379623259304005",
+        "in_reply_to_user_id": "2077747796849856513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081378809475899498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kir4uha Well, it's not that important, so it's fine that you don't have one."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077747796849856513",
+        "conversation_id": "2081378103297974629",
+        "created_at": "2026-07-26T13:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081378809475899498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081378809475899498",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081378103297974629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky I can't even get a blue checkmark because I can't pay."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/兩個人格共存  (她睡著了,什麼時候會醒？)\n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "台qwq      問喵問題！➡",
+        "name": "粉天藍貓☁️",
+        "pinned_tweet_id": "2075940046356832565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 2329,
+          "like_count": 54833,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 2650
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-16T13:32:03.000Z",
+        "description": "I love everyone in this world, But no one loves me.\nTg:@Kir4ur Discord:@slon_begushih\nstem: https://t.co/HhggEf7EZi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "Kir4ur"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "slon_begushih"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/98845/",
+                "end": 115,
+                "expanded_url": "https://steamcommunity.com/id/98845/",
+                "start": 92,
+                "url": "https://t.co/HhggEf7EZi"
+              }
+            ]
+          }
+        },
+        "id": "2077747796849856513",
+        "location": "Россия Курск",
+        "name": "Kiruha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080704363723419648/xIjggg-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 234,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 890
+        },
+        "url": "",
+        "username": "Kir4uha",
+        "verified": false
+      }
+    ]
+  }
+}

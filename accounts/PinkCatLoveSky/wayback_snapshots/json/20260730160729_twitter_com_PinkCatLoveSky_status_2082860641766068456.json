@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082860641766068456",
+    "created_at": "2026-07-30T16:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082860641766068456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PinkCatLoveSky…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2082859407357174174",
+          "start": 37,
+          "url": "https://t.co/DaaTsWZaD5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082860641766068456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082859407357174174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依舊含服喵\n還有昨天喝的酒是不是還沒代謝完喵\n第二瓶喝一半而已頭就痛了喵 https://t.co/DaaTsWZaD5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2082859379402141696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfNkfJa8AA7sUf.jpg",
+        "width": 2252
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2082859396942675968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfNlgfaQAAtTw5.jpg",
+        "width": 2252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082860641766068456",
+        "created_at": "2026-07-30T16:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082860641766068456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2082859407357174174",
+              "start": 37,
+              "url": "https://t.co/DaaTsWZaD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082860641766068456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082859407357174174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依舊含服喵\n還有昨天喝的酒是不是還沒代謝完喵\n第二瓶喝一半而已頭就痛了喵 https://t.co/DaaTsWZaD5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082859379402141696",
+            "3_2082859396942675968"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082859407357174174",
+        "created_at": "2026-07-30T16:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082859407357174174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtSIkghdLi",
+              "end": 29,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2082859407357174174/photo/1",
+              "media_key": "3_2082859379402141696",
+              "start": 6,
+              "url": "https://t.co/ZtSIkghdLi"
+            },
+            {
+              "display_url": "pic.x.com/ZtSIkghdLi",
+              "end": 29,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2082859407357174174/photo/1",
+              "media_key": "3_2082859396942675968",
+              "start": 6,
+              "url": "https://t.co/ZtSIkghdLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082859407357174174",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "YOLO! https://t.co/ZtSIkghdLi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 2073,
+          "like_count": 62317,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 3642
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      }
+    ]
+  }
+}

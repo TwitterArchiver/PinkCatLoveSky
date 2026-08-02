@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2081439685629600196",
+    "created_at": "2026-07-27T08:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081660612082639340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055995252771860480",
+          "start": 0,
+          "username": "qxq5ho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081660612082639340",
+    "in_reply_to_user_id": "2055995252771860480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081660077342384230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qxq5ho 老吳↗\n哈！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2081439685629600196",
+        "created_at": "2026-07-27T08:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081660612082639340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055995252771860480",
+              "start": 0,
+              "username": "qxq5ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081660612082639340",
+        "in_reply_to_user_id": "2055995252771860480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081660077342384230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qxq5ho 老吳↗\n哈！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055995252771860480",
+        "conversation_id": "2081439685629600196",
+        "created_at": "2026-07-27T08:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081660077342384230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081660077342384230",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081439685629600196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 老吴老吴（哈气）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/兩個人格共存  (她睡著了,什麼時候會醒？)\n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☁️",
+        "pinned_tweet_id": "2081399286999519562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 2347,
+          "like_count": 56418,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 2807
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T12:54:55.000Z",
+        "description": "07/在校高中生/成分复杂/基本无雷点/接陪聊陪玩/可以约线下/私信只要没被X隐藏我都会回/欢迎互fo扩列/提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%BA%A2%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%BA%A2%E5%8F%B6",
+                "start": 0,
+                "url": "https://t.co/7BHkcxrOoI"
+              }
+            ]
+          }
+        },
+        "id": "2055995252771860480",
+        "location": "你心里",
+        "name": "🍁红叶",
+        "pinned_tweet_id": "2074857987387392047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081275270716334080/_Wo55q9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 385,
+          "like_count": 7592,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/7BHkcxrOoI",
+        "username": "qxq5ho",
+        "verified": false
+      }
+    ]
+  }
+}

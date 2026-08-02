@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082476063058526400",
+    "created_at": "2026-07-29T17:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082516527136510135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1792161919429996544",
+          "start": 0,
+          "username": "suki_kawaii_no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082516527136510135",
+    "in_reply_to_user_id": "1792161919429996544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082516174026539223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suki_kawaii_no 對我自己沒用 我還沒有要垮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082476063058526400",
+        "created_at": "2026-07-29T17:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082516527136510135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1792161919429996544",
+              "start": 0,
+              "username": "suki_kawaii_no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082516527136510135",
+        "in_reply_to_user_id": "1792161919429996544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082516174026539223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suki_kawaii_no 對我自己沒用 我還沒有要垮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792161919429996544",
+        "conversation_id": "2082476063058526400",
+        "created_at": "2026-07-29T17:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082516174026539223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082516174026539223",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082476063058526400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 謝謝你同情別人\n謝謝你幫助別人\n但請你審視自己\n是否快被壓垮了呢\n\n好好休息喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 2031,
+          "like_count": 59928,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 3347
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T11:56:45.000Z",
+        "description": "你好！陌生人祝你天天开心^_^",
+        "id": "1792161919429996544",
+        "location": "中国",
+        "name": "纳纳芙",
+        "pinned_tweet_id": "2080684152534585592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071072393679011840/GIZTHZlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 355,
+          "like_count": 7202,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1979
+        },
+        "url": "",
+        "username": "suki_kawaii_no",
+        "verified": true
+      }
+    ]
+  }
+}

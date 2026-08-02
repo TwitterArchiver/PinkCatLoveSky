@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081633214343548928",
+        "13_2081633602878763008"
+      ]
+    },
+    "author_id": "1320354023451496450",
+    "conversation_id": "2081633775625306389",
+    "created_at": "2026-07-27T06:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081633775625306389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zdx5SGHyrs",
+          "end": 28,
+          "expanded_url": "https://x.com/PinkCatLoveSky/status/2081633775625306389/video/1",
+          "media_key": "13_2081633214343548928",
+          "start": 5,
+          "url": "https://t.co/zdx5SGHyrs"
+        },
+        {
+          "display_url": "pic.x.com/zdx5SGHyrs",
+          "end": 28,
+          "expanded_url": "https://x.com/PinkCatLoveSky/status/2081633775625306389/video/1",
+          "media_key": "13_2081633602878763008",
+          "start": 5,
+          "url": "https://t.co/zdx5SGHyrs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081633775625306389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "轟隆隆~ https://t.co/zdx5SGHyrs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10666,
+        "height": 1920,
+        "media_key": "13_2081633214343548928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081633214343548928/img/gr5jbaU2o9Ub9Rnp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081633214343548928/vid/avc1/480x852/gpsFTvR-EKHCzXgI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081633214343548928/pl/BLNqJCv4UwLNdYJy.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081633214343548928/vid/avc1/1080x1920/p409jHAOVOA_M9dd.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081633214343548928/vid/avc1/320x568/iPN2r6qGrb2BitYJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081633214343548928/vid/avc1/720x1280/mJ0vm0JmUVuTY2vM.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 6869,
+        "height": 1920,
+        "media_key": "13_2081633602878763008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081633602878763008/img/0-r3rMaFFJ_plUwc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081633602878763008/vid/avc1/720x1280/fMSCE994rdYnVoIu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081633602878763008/pl/WBtrMuXc2bFm0EdE.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081633602878763008/vid/avc1/480x852/_1h269sb78-la1xJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081633602878763008/vid/avc1/1080x1920/jNYJxVFHVyDF1Xpd.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081633602878763008/vid/avc1/320x568/hYG7fBpM3IdAsZnE.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081633214343548928",
+            "13_2081633602878763008"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "conversation_id": "2081633775625306389",
+        "created_at": "2026-07-27T06:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081633775625306389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zdx5SGHyrs",
+              "end": 28,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2081633775625306389/video/1",
+              "media_key": "13_2081633214343548928",
+              "start": 5,
+              "url": "https://t.co/zdx5SGHyrs"
+            },
+            {
+              "display_url": "pic.x.com/zdx5SGHyrs",
+              "end": 28,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2081633775625306389/video/1",
+              "media_key": "13_2081633602878763008",
+              "start": 5,
+              "url": "https://t.co/zdx5SGHyrs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081633775625306389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "轟隆隆~ https://t.co/zdx5SGHyrs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/兩個人格共存  (她睡著了,什麼時候會醒？)\n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☁️",
+        "pinned_tweet_id": "2081399286999519562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 2347,
+          "like_count": 56197,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2797
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      }
+    ]
+  }
+}

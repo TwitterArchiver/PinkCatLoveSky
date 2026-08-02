@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082077064782586278",
+    "created_at": "2026-07-28T12:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082077064782586278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1965572243335053312",
+          "start": 3,
+          "username": "ashasw1919810"
+        },
+        {
+          "end": 138,
+          "id": "1981638054688501760",
+          "start": 125,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082077064782586278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082070302138482854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashasw1919810: 我活了，之前的号因为手贱复制粘贴了一下啊 啊啊啊啊啊！好爽！爽 ！ 现在1点03分一个在宿舍床上不穿内内正在偷偷自慰中 高潮了11次 要视频的 点赞扣111 我给你送 点赞扣111秒回！！！然后被封了\n\n目前大号@ashasw114514正…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ashasw114514].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ashasw114514",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ashasw114514"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082077064782586278",
+        "created_at": "2026-07-28T12:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082077064782586278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1965572243335053312",
+              "start": 3,
+              "username": "ashasw1919810"
+            },
+            {
+              "end": 138,
+              "id": "1981638054688501760",
+              "start": 125,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082077064782586278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082070302138482854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashasw1919810: 我活了，之前的号因为手贱复制粘贴了一下啊 啊啊啊啊啊！好爽！爽 ！ 现在1点03分一个在宿舍床上不穿内内正在偷偷自慰中 高潮了11次 要视频的 点赞扣111 我给你送 点赞扣111秒回！！！然后被封了\n\n目前大号@ashasw114514正…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965572243335053312",
+        "conversation_id": "2082070302138482854",
+        "created_at": "2026-07-28T11:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082070302138482854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 119,
+              "id": "1981638054688501760",
+              "start": 106,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082070302138482854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我活了，之前的号因为手贱复制粘贴了一下啊 啊啊啊啊啊！好爽！爽 ！ 现在1点03分一个在宿舍床上不穿内内正在偷偷自慰中 高潮了11次 要视频的 点赞扣111 我给你送 点赞扣111秒回！！！然后被封了\n\n目前大号@ashasw114514正在申诉中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/兩個人格共存（她失蹤了）\n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☁️",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 2137,
+          "like_count": 57758,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 2970
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T00:25:35.000Z",
+        "description": "人生自古谁无死，遗憾地，此人无法再与您进行互动",
+        "id": "1965572243335053312",
+        "name": "搞耍潮娘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082067365706293248/clpHT62Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 207,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "ashasw1919810",
+        "verified": false
+      }
+    ]
+  }
+}

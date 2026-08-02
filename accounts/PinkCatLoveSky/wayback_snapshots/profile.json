@@ -1,0 +1,20 @@
+{
+  "name": "粉天藍貓☀️☁️🌙",
+  "username": "@PinkCatLoveSky",
+  "bio": "04起/迷戀天空/mtx/貓/友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了）  垃圾桶: @TrashcanCats",
+  "location": "0.1km        在台       問喵問題！➡",
+  "link": "https://ngl.link/pinkcatouo",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 64,
+        "start": 51,
+        "username": "TrashcanCats"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg"
+}

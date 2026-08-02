@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2083575597285224959",
+    "created_at": "2026-08-01T15:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083579138108186991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045797662478286848",
+          "start": 0,
+          "username": "yuer0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083579138108186991",
+    "in_reply_to_user_id": "2045797662478286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083575597285224959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuer0721 那只不過是跨圈的刻板印象\n不是符合刻板印象才能被稱作跨啊..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2083575597285224959",
+        "created_at": "2026-08-01T15:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083579138108186991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045797662478286848",
+              "start": 0,
+              "username": "yuer0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083579138108186991",
+        "in_reply_to_user_id": "2045797662478286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083575597285224959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuer0721 那只不過是跨圈的刻板印象\n不是符合刻板印象才能被稱作跨啊..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045797662478286848",
+        "conversation_id": "2083575597285224959",
+        "created_at": "2026-08-01T15:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083575597285224959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuer0721/statu…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/yuer0721/status/2083574598344568877",
+              "start": 112,
+              "url": "https://t.co/CiLihwC6A7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083575597285224959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083574598344568877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过，我看起来确实不像跨\n\n我没有能坚持下去的兴趣爱好，我对大多数跨感兴趣的内容不感兴趣\n\n我到底是来干什么的……？\n\n或许厌恶自己身体也是假的，只是我的大脑深处编制的一段虚假故事\n而它被当真了\n\n………………我要怎么办呢 https://t.co/CiLihwC6A7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 2097,
+          "like_count": 65085,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 3993
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T09:33:19.000Z",
+        "description": "我可爱的老婆@wu31878 | 喜欢的熊@A_Asystem | 我亲爱的宝宝@subdronexyn | 主人@huihui_mikumi | 闺蜜@qiancongxyn | 大号/梗图号@yuerQwQ | ——这里是小白羽的生活号qwq，无意义的碎碎念将会发布在这里awa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "wu31878"
+              },
+              {
+                "end": 31,
+                "start": 21,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 105,
+                "start": 97,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "2045797662478286848",
+        "location": "最后的思绪",
+        "name": "白羽儿yuer🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060940291872546816/_ia-IVk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 58,
+          "like_count": 353,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "yuer0721",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082898924952760444",
+    "created_at": "2026-07-30T18:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082899832642085000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "358369854",
+          "start": 0,
+          "username": "juanpabloomer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082899832642085000",
+    "in_reply_to_user_id": "358369854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082899119274619359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juanpabloomer 操你媽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082898924952760444",
+        "created_at": "2026-07-30T18:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082899832642085000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "358369854",
+              "start": 0,
+              "username": "juanpabloomer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082899832642085000",
+        "in_reply_to_user_id": "358369854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082899119274619359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juanpabloomer 操你媽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "358369854",
+        "conversation_id": "2082898924952760444",
+        "created_at": "2026-07-30T18:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082899119274619359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082899119274619359",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082898924952760444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 心情不好喝點可以，但別真奔著猝死去啊，發生啥了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 2079,
+          "like_count": 62537,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 3695
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-19T20:26:55.000Z",
+        "description": "想安心上网，这款 VPN 我已经用了很久，下载入口就在下方👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/6ijvaYLu2k"
+              }
+            ]
+          }
+        },
+        "id": "358369854",
+        "name": "媛媛体验用VPN加速器",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082454532991090688/DbxJ0AU5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 108,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/6ijvaYLu2k",
+        "username": "juanpabloomer",
+        "verified": false
+      }
+    ]
+  }
+}

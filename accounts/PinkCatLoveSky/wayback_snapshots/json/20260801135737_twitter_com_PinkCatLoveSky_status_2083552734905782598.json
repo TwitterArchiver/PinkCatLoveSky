@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2083491427829604397",
+    "created_at": "2026-08-01T13:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083552734905782598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927018923649564674",
+          "start": 0,
+          "username": "dddddd10792941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083552734905782598",
+    "in_reply_to_user_id": "1927018923649564674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083550913768370302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddd10792941 他不看這兩個"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2083491427829604397",
+        "created_at": "2026-08-01T13:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083552734905782598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927018923649564674",
+              "start": 0,
+              "username": "dddddd10792941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083552734905782598",
+        "in_reply_to_user_id": "1927018923649564674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083550913768370302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddd10792941 他不看這兩個"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927018923649564674",
+        "conversation_id": "2083491427829604397",
+        "created_at": "2026-08-01T13:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083550913768370302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083550913768370302",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083491427829604397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 还好我天生颜值和建模不行 无法选中这一块哈哈哈…呜呜呜～QwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 2097,
+          "like_count": 64982,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 3975
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T15:08:23.000Z",
+        "description": "一个无建模，无经济，无背景的外道魔像，推上的好宝宝都不要死\n不敢主动去爱了…会有人真心救我爱我吗\n希望下辈子变成腿白，身材不胖建模好，声音中性的男生然后穿上女装当南梁\n疯癫到最后…一朵千疮百孔的空心玫瑰挂在了那个夜晚的绳索\n我这辈子最讨厌的就是他妈的谎言\n绝不会原谅背着爱人对外卖身的家伙，一辈子也不会…下辈子也不会原谅",
+        "id": "1927018923649564674",
+        "location": "红色的“液体床”",
+        "name": "疯掉的哥布林渴望真心实意的钥匙解开内心的小孩",
+        "pinned_tweet_id": "2083126388782166465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082011179296436224/_bdaooXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 205,
+          "like_count": 1447,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 759
+        },
+        "url": "",
+        "username": "dddddd10792941",
+        "verified": false
+      }
+    ]
+  }
+}

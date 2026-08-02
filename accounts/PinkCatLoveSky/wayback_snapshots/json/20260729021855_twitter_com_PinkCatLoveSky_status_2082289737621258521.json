@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2078850366087852211",
+    "created_at": "2026-07-29T02:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082289737621258521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2062853463160279040",
+          "start": 0,
+          "username": "Andras_waw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082289737621258521",
+    "in_reply_to_user_id": "2062853463160279040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078850366087852211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andras_waw 🩷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 603,
+        "media_key": "3_2078850323515572224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmPWuJaAAAjlFE.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2078850366087852211",
+        "created_at": "2026-07-29T02:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082289737621258521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2062853463160279040",
+              "start": 0,
+              "username": "Andras_waw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082289737621258521",
+        "in_reply_to_user_id": "2062853463160279040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078850366087852211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andras_waw 🩷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078850323515572224"
+          ]
+        },
+        "author_id": "2062853463160279040",
+        "conversation_id": "2078850366087852211",
+        "created_at": "2026-07-19T14:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078850366087852211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GaT9C1NCgB",
+              "end": 39,
+              "expanded_url": "https://x.com/Andras_waw/status/2078850366087852211/photo/1",
+              "media_key": "3_2078850323515572224",
+              "start": 16,
+              "url": "https://t.co/GaT9C1NCgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078850366087852211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵(ᐡ т  ̫ т ᐡ) https://t.co/GaT9C1NCgB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 2036,
+          "like_count": 58274,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 3011
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T11:07:21.000Z",
+        "description": "是一只想着扮猫娘的小男娘呀waw\n喵呜~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Andras_waw",
+                "end": 23,
+                "expanded_url": "http://telegram.me/Andras_waw",
+                "start": 0,
+                "url": "https://t.co/uf86n1z5w5"
+              }
+            ]
+          }
+        },
+        "id": "2062853463160279040",
+        "location": "Ohio",
+        "name": "Andras",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062853990543720448/QiKf7fj2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 17,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/uf86n1z5w5",
+        "username": "Andras_waw",
+        "verified": false
+      }
+    ]
+  }
+}

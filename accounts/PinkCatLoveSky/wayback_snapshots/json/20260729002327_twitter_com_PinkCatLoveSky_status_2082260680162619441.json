@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082256601504002320",
+    "created_at": "2026-07-29T00:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082260680162619441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1794569354597793792",
+          "start": 0,
+          "username": "lockloveovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082260680162619441",
+    "in_reply_to_user_id": "1794569354597793792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082257669465989545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lockloveovo 買不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082256601504002320",
+        "created_at": "2026-07-29T00:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082260680162619441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1794569354597793792",
+              "start": 0,
+              "username": "lockloveovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082260680162619441",
+        "in_reply_to_user_id": "1794569354597793792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082257669465989545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lockloveovo 買不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794569354597793792",
+        "conversation_id": "2082256601504002320",
+        "created_at": "2026-07-29T00:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082257669465989545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082257669465989545",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082256601504002320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 摸摸，要不去买点枇杷膏啥的喝喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/兩個人格共存（她失蹤了）\n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☁️",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 2071,
+          "like_count": 58082,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 2993
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-26T03:21:00.000Z",
+        "description": "男｜zh-cn🇨🇳｜准初三｜进步保守主义（建制？)｜爱玩三角洲和看少女乐队番｜喜怒无常乐子人|友跨🏳️‍⚧️\nqq空间（bushi）：https://t.co/lUzu6rW4L0\n老婆🥰@Venti718\n好朋友😋@Wesley10032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "Venti718"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "Wesley10032"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/locklove947",
+                "end": 90,
+                "expanded_url": "https://telegram.me/locklove947",
+                "start": 67,
+                "url": "https://t.co/lUzu6rW4L0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lockloveovo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/lockloveovo",
+                "start": 0,
+                "url": "https://t.co/YnKeIlxkHT"
+              }
+            ]
+          }
+        },
+        "id": "1794569354597793792",
+        "location": "你家",
+        "name": "不知道起啥名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075495501156290560/d4HzXytJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 253,
+          "like_count": 1299,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/YnKeIlxkHT",
+        "username": "lockloveovo",
+        "verified": true
+      }
+    ]
+  }
+}

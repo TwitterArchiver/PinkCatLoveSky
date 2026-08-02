@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2081415383790342571",
+    "created_at": "2026-07-26T16:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081415987795222761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070425110218194944",
+          "start": 0,
+          "username": "AZX_wuxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081415987795222761",
+    "in_reply_to_user_id": "2070425110218194944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081415904940929340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AZX_wuxi 為什麼🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2081415383790342571",
+        "created_at": "2026-07-26T16:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081415987795222761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070425110218194944",
+              "start": 0,
+              "username": "AZX_wuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081415987795222761",
+        "in_reply_to_user_id": "2070425110218194944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081415904940929340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AZX_wuxi 為什麼🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070425110218194944",
+        "conversation_id": "2081415383790342571",
+        "created_at": "2026-07-26T16:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081415904940929340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081415904940929340",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081415383790342571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 聽自己的聲音會吐掉的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/兩個人格共存  (她睡著了,什麼時候會醒？)\n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "台qwq      問喵問題！➡",
+        "name": "粉天藍貓☁️",
+        "pinned_tweet_id": "2081399286999519562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 2336,
+          "like_count": 55257,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 2698
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T08:34:24.000Z",
+        "description": "天天就在x閑逛  平時就在小破站 好想成為香香軟軟的xnn啊  /含糖 現已停/雙性戀/hcm 主要是日鐵\n出廠日期9/19 不知道生日禮物會是什麼呢🤤想努力做好自己  也想和周圍人搞好關係😿 可互fo 只爲能多聊一些天😾",
+        "id": "2070425110218194944",
+        "location": "咱無處不在喵",
+        "name": "AZX_吴夕🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073413265242349568/Hgg6nMdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 75,
+          "like_count": 639,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 353
+        },
+        "url": "",
+        "username": "AZX_wuxi",
+        "verified": false
+      }
+    ]
+  }
+}

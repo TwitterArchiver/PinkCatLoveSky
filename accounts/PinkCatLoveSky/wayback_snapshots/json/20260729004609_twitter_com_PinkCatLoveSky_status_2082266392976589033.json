@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082266372118343680",
+        "3_2082266378804105216",
+        "3_2082266387201040384"
+      ]
+    },
+    "author_id": "1320354023451496450",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1254792182738808833",
+          "name": "Technoblade"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1254792182738808833",
+          "name": "Technoblade"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1254792182738808833",
+          "name": "Technoblade"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "136",
+          "name": "Video Game Personality "
+        },
+        "entity": {
+          "id": "1254792182738808833",
+          "name": "Technoblade"
+        }
+      }
+    ],
+    "conversation_id": "2082266392976589033",
+    "created_at": "2026-07-29T00:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082266392976589033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9KCZdETrSl",
+          "end": 107,
+          "expanded_url": "https://x.com/PinkCatLoveSky/status/2082266392976589033/photo/1",
+          "media_key": "3_2082266372118343680",
+          "start": 84,
+          "url": "https://t.co/9KCZdETrSl"
+        },
+        {
+          "display_url": "pic.x.com/9KCZdETrSl",
+          "end": 107,
+          "expanded_url": "https://x.com/PinkCatLoveSky/status/2082266392976589033/photo/1",
+          "media_key": "3_2082266378804105216",
+          "start": 84,
+          "url": "https://t.co/9KCZdETrSl"
+        },
+        {
+          "display_url": "pic.x.com/9KCZdETrSl",
+          "end": 107,
+          "expanded_url": "https://x.com/PinkCatLoveSky/status/2082266392976589033/photo/1",
+          "media_key": "3_2082266387201040384",
+          "start": 84,
+          "url": "https://t.co/9KCZdETrSl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082266392976589033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因為可愛 而且知道她的時候正好需要一個精神支柱\n\n我很想念technoblade 在我心中沒有人能夠取代他\n\n找不到她了 但總覺得她還存在著 回家試試喝酒能不能喚出來 https://t.co/9KCZdETrSl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2131,
+        "media_key": "3_2082266372118343680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWyO63a8AA9gAz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2131,
+        "media_key": "3_2082266378804105216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWyPTxbkAAXxAa.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2131,
+        "media_key": "3_2082266387201040384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWyPzDaoAA3M3c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082266372118343680",
+            "3_2082266378804105216",
+            "3_2082266387201040384"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          }
+        ],
+        "conversation_id": "2082266392976589033",
+        "created_at": "2026-07-29T00:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082266392976589033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KCZdETrSl",
+              "end": 107,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2082266392976589033/photo/1",
+              "media_key": "3_2082266372118343680",
+              "start": 84,
+              "url": "https://t.co/9KCZdETrSl"
+            },
+            {
+              "display_url": "pic.x.com/9KCZdETrSl",
+              "end": 107,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2082266392976589033/photo/1",
+              "media_key": "3_2082266378804105216",
+              "start": 84,
+              "url": "https://t.co/9KCZdETrSl"
+            },
+            {
+              "display_url": "pic.x.com/9KCZdETrSl",
+              "end": 107,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2082266392976589033/photo/1",
+              "media_key": "3_2082266387201040384",
+              "start": 84,
+              "url": "https://t.co/9KCZdETrSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082266392976589033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為可愛 而且知道她的時候正好需要一個精神支柱\n\n我很想念technoblade 在我心中沒有人能夠取代他\n\n找不到她了 但總覺得她還存在著 回家試試喝酒能不能喚出來 https://t.co/9KCZdETrSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/兩個人格共存（她失蹤了）\n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☁️",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 2072,
+          "like_count": 58146,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      }
+    ]
+  }
+}

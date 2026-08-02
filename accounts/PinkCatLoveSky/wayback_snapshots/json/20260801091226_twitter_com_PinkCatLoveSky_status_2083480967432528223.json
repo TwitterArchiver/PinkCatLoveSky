@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2069338221138579785",
+    "created_at": "2026-08-01T09:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083480967432528223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083480967432528223",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069338221138579785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo ..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_2069338215337881600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfEJJ1a8AAaEdf.jpg",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2069338221138579785",
+        "created_at": "2026-08-01T09:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083480967432528223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083480967432528223",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069338221138579785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo ..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069338215337881600"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "conversation_id": "2069338221138579785",
+        "created_at": "2026-06-23T08:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069338221138579785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1skMJKVPPi",
+              "end": 156,
+              "expanded_url": "https://x.com/YuwenMewo/status/2069338221138579785/photo/1",
+              "media_key": "3_2069338215337881600",
+              "start": 133,
+              "url": "https://t.co/1skMJKVPPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069338221138579785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以下是一个15岁的存在主义者，重度抑郁，重度焦虑患者，对生命的一些思考：\n\n因为痛苦或因为抑郁失衡造成的判断力缺失 有可能会成为某些人自杀的理由\n\n痛苦达到阈值时，大脑就会想办法解脱，结束\n这个想法并不一定代表一个人真正想死，而是在寻找一个能让痛苦立刻停止的方案。\n\n而死亡实际上也解脱和结束不了任何事情\n你在时它便不在，它临时你已离去\n我们无法体会死亡是什么感觉 正如我们无法体会出生之前的感觉\n\n痛苦吗？\n不痛苦，你感觉不到，死亡不属于你，你最后的意识也是死前一刻 不是死亡本身\n\n解脱吗\n没解脱，你只是提前抹除了你作为你存在的机会 你生命最后一刻的痛苦不会因为死亡缓解\n\n从任何科学研究都可以得出\n死了啥也没有\n\n你所谓的意识只是大脑通过潜意识和记忆以及早期童年建立的对世界的认知加上一步步完善超级复杂的对外界数据和内部作出反应，索引的工具\n\n它只是预设了太多可能，并不是自由的，就像早期siri和现在的大模型 本质都是在猜应该怎么做\n\n只是大脑的效率格外高，格外复杂\n\n我们死了 大脑不工作了 所谓的自由意志 和灵魂也会烟消云散\n所以我很讨厌灵魂和肉体的说法，我爱你的肉体就够了 你没有灵魂\n\n我从不怕鬼 也不怕什么上天有眼 做恶终报\n 因为我知道如果我见到鬼就说明我死后有去处 有葬身之地\n我祈求着，哪怕我遭到一点报应 即便此生倒霉，也能证明苍天有眼\n\n可是可悲的是 这些年，我做过了无数恶事，无数丑事，无数糗事\n\n在大家的见证下，我犯下了无数的错误\n我骂人，疑似指导他人自杀，魔怔，精神病，甚至把自己的那玩意儿切了吃掉\n\n我从未遭到任何审判\n\n可是悲哀的是 这些年我路过了无数佛堂，无数神冢 无数墓地\n\n在没人看见的地方，我持续尝试做一些愚蠢的行为\n我对着逝者竖中指，踩踏神明们的肩膀，在玉皇殿前野战，寻欢，做爱\n\n但我从未有任何报应\n\n我惶恐，祈祷，哀求，咒骂\n但我从未有任何回应\n神也许不在乎我，也许就根本没有什么神\n\n好在生活是漫长的，琐碎的，往前进行的\n它会带着我一步步走向死亡，也会带着我一点点体验我的人生\n我可以沉浸在研究充电宝的型号 可以在被窝里抱住赤身裸体的爱人，肌肤相接，可以为考试忙得焦头烂额 可以为吃一顿大餐，开心许久\n我每天很多时候都会想到死亡\n但我感谢这个世界，他还能让我再想到别的东西\n\n我觉得我的人生很美好\n\n但我觉得我们的人生总的来说，是没意义的\n宇宙会毁灭，太阳会爆炸\n也就是说，如果我的客观存在没有意义\n那么我的主观体验将是我人生唯一的意义，唯一的价值\n我只要活成自己 活成让自己快乐的自己，就是功德圆满，价值无量\n我的价值可能就是获得大家的注意 把人生过得开心无憾，永远珍视自己的生命和他人，永远热爱这个世界吧\n\n距今为止，我为我所做的还没有后悔，可能未来会后悔吧，我相信即便没有什么神明的审判，如果我真正做了让自己内心难受的事情，也会承受一辈子的罪与罚\n\n虽然我的生命我认为是珍贵的\n\n但我觉得我们不能指责自杀者，我们不能对自杀者说，你放弃了以后的所有美好，因为我们能说出这句话，就本身说明我们的旅程没有走完\n\n我们连自己的旅程好不好都还未知晓，我们怎么能评价一个完全不同的旅程呢？\n\n这是我的想法，但我却完全放不下一个个珍贵的生命\n看到Akiball死的时候我无法坐视不管\n看到索瑟尔死的时候我无法不掩面哭泣\n看到17死的时候我无法不做干预\n任何事情都可以麻木和厌倦，但我对生命本身的珍视和热爱，完全没有办法停止\n\n我会想尽一切妥善，疯狂，遗憾，无奈的方法\n用尽一切快速，卑劣，无耻的手段\n让他们哪怕一天 一小时 一秒也要多感受这个世界\n我所深爱着的世界\n\n写到这里，我真的好伤心啊\n为什么要把我最爱的东西从我这里拿走呢？\n虽然拿的真的好慢啊\n但就不能把这唯一的东西留给我吗？\n我享受夸奖 享受谩骂 享受活着的每一秒\n为什么我还是要去死啊？\n\n但我又想，死亡是公平的\n我所向往的温柔的特质，能照亮他人的特质\n基本精通这些的人，最后也都死掉了呀\n\n我试图说服自己，但我每天都没有办法 ,每天我都未虑胜，先虑败\n但我其实还有很多很多年呢\n\n但人生就是这样啊,说好的事情，一点希望都不会给的\n\n只能进行下去了,生命本身是世界的馈赠,我还给它，理所应当\n我会尽力过好每一天\n我会享受你们的谩骂的\n我爱这个世界，我爱这蓝天，我爱你们每一个人\n \n​其实我有时候还是会祈祷，我希望真的有个什么天堂地狱一类的地方\n\n谁知道呢？\n\n​我的朋友，晚安"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 3698,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "以下是一个15岁的存在主义者，重度抑郁，重度焦虑患者，对生命的一些思考：\n\n因为痛苦或因为抑郁失衡造成的判断力缺失 有可能会成为某些人自杀的理由\n\n痛苦达到阈值时，大脑就会想办法解脱，结束\n这个想法并不一定代表一个人真正想死，而是在寻找一个能让痛苦立刻停止的方案。 https://t.co/1skMJKVPPi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 2108,
+          "like_count": 64600,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 3934
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2083438750978429349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 92,
+          "like_count": 184,
+          "listed_count": 5,
+          "media_count": 610,
+          "tweet_count": 1948
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

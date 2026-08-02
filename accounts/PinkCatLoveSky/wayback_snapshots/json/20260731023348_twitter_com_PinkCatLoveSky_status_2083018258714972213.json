@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082868066782966091",
+    "created_at": "2026-07-31T02:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083018258714972213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048331424504463360",
+          "start": 0,
+          "username": "Com0loquieras"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083018258714972213",
+    "in_reply_to_user_id": "2048331424504463360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083018115903094980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Com0loquieras 氣笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082868066782966091",
+        "created_at": "2026-07-31T02:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083018258714972213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048331424504463360",
+              "start": 0,
+              "username": "Com0loquieras"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083018258714972213",
+        "in_reply_to_user_id": "2048331424504463360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083018115903094980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Com0loquieras 氣笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048331424504463360",
+        "conversation_id": "2082868066782966091",
+        "created_at": "2026-07-31T02:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083018115903094980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Docker is a platform designed to help developers build, share, and run container applications. We handle the tedious setup, so you can focus on the code.",
+              "display_url": "docker.io",
+              "end": 47,
+              "expanded_url": "http://docker.io",
+              "images": [
+                {
+                  "height": 580,
+                  "url": "https://pbs.twimg.com/news_img/2082533664928550913/4C7sAJ61?format=jpg&name=orig",
+                  "width": 1110
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082533664928550913/4C7sAJ61?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Docker: Accelerated Container Application Development",
+              "unwound_url": "https://www.docker.com/",
+              "url": "https://t.co/zgK13GZ0eQ"
+            },
+            {
+              "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+              "display_url": "google.com",
+              "end": 74,
+              "expanded_url": "http://google.com",
+              "start": 51,
+              "status": 200,
+              "title": "Google",
+              "unwound_url": "http://www.google.com/",
+              "url": "https://t.co/79nTPa5P2J"
+            },
+            {
+              "description": "Go is an open source programming language that makes it simple to build secure, scalable systems.",
+              "display_url": "go.dev",
+              "end": 104,
+              "expanded_url": "http://go.dev",
+              "images": [
+                {
+                  "height": 313,
+                  "url": "https://pbs.twimg.com/news_img/2083018119115845632/BagKhXPf?format=jpg&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083018119115845632/BagKhXPf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "The Go Programming Language",
+              "unwound_url": "https://go.dev/",
+              "url": "https://t.co/BssKDgFp2x"
+            },
+            {
+              "description": "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+              "display_url": "github.com",
+              "end": 137,
+              "expanded_url": "http://github.com",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2080631538983534592/nPyYNmNi?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080631538983534592/nPyYNmNi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "GitHub · Change is constant. GitHub keeps you ahead.",
+              "unwound_url": "https://github.com/",
+              "url": "https://t.co/sOOfv8eS3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083018115903094980",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083017499151618345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 有多死妈呢\n下载https://t.co/zgK13GZ0eQ 超时\nhttps://t.co/79nTPa5P2J 根本打不开\nhttps://t.co/BssKDgFp2x 速度跟妈死了一样\nhttps://t.co/sOOfv8eS3i 你都怀疑是你路由器不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 2081,
+          "like_count": 62660,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 3722
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,前端,网络,西班牙语A1\n性格特点：直球的堪比西班牙人 拉美大手子 图灵的诅咒 梦到什么说什么 \"Reino de 炫压抑\" 谈崩专家不善言辞 在线求操",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Tortillas111",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Tortillas111",
+                "start": 0,
+                "url": "https://t.co/wa6FNzZMeH"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "location": "大哥伦比亚",
+        "name": "Simón Bolívar🇪🇸🇲🇽🇨🇴🇦🇷🇨🇱",
+        "pinned_tweet_id": "2082657036920328668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073259657762848768/-8GxQ6y8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 190,
+          "like_count": 6800,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 3137
+        },
+        "url": "https://t.co/wa6FNzZMeH",
+        "username": "Com0loquieras",
+        "verified": true
+      }
+    ]
+  }
+}

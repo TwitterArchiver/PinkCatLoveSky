@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082391979011559497",
+    "created_at": "2026-07-29T09:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082392293320110538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1901101174339891203",
+          "start": 0,
+          "username": "Rikka8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082392293320110538",
+    "in_reply_to_user_id": "1901101174339891203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082391979011559497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka8964 這是真的... 只會推看過的類似主題\n還好我看的都是老片 推給我的也是老片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082391979011559497",
+        "created_at": "2026-07-29T09:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082392293320110538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1901101174339891203",
+              "start": 0,
+              "username": "Rikka8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082392293320110538",
+        "in_reply_to_user_id": "1901101174339891203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082391979011559497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka8964 這是真的... 只會推看過的類似主題\n還好我看的都是老片 推給我的也是老片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901101174339891203",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2082391979011559497",
+        "created_at": "2026-07-29T09:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082391979011559497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2082376750059905289",
+              "start": 16,
+              "url": "https://t.co/ZuEIJKohrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082391979011559497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082376750059905289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "youtube推送好无聊... https://t.co/ZuEIJKohrb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 2016,
+          "like_count": 58994,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 3117
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-16T02:40:29.000Z",
+        "description": "准高二 | 生产日期 2010.3.3 ♓ | 不涉政\n在学网络安全，偶尔vibe coding ☕\n半个Google粉 | INFP | 求fo～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rikka-8964.github.io",
+                "end": 23,
+                "expanded_url": "https://rikka-8964.github.io/",
+                "start": 0,
+                "url": "https://t.co/mjuKwCmQMc"
+              }
+            ]
+          }
+        },
+        "id": "1901101174339891203",
+        "name": "Rikka🇹🇼🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901101234679148545/Q-icoBkL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 187,
+          "like_count": 3387,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 1437
+        },
+        "url": "https://t.co/mjuKwCmQMc",
+        "username": "Rikka8964",
+        "verified": false
+      }
+    ]
+  }
+}

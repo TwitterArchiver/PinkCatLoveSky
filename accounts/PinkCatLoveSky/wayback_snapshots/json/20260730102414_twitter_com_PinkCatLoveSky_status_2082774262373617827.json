@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082763066660544907",
+    "created_at": "2026-07-30T10:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082774262373617827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055228634710065152",
+          "start": 0,
+          "username": "Ruai_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082774262373617827",
+    "in_reply_to_user_id": "2055228634710065152",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082774078314914063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruai_0324 Don't blame yourself too hard"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082763066660544907",
+        "created_at": "2026-07-30T10:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082774262373617827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055228634710065152",
+              "start": 0,
+              "username": "Ruai_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082774262373617827",
+        "in_reply_to_user_id": "2055228634710065152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082774078314914063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruai_0324 Don't blame yourself too hard"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055228634710065152",
+        "conversation_id": "2082763066660544907",
+        "created_at": "2026-07-30T10:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082774078314914063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082774078314914063",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082773102228902021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky Um... thanks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 2056,
+          "like_count": 61342,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 3539
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T10:08:54.000Z",
+        "description": "@Xiaoyi_0324 简中繁中混用｜这个号只有一些负面情绪和碎碎念 酌情观看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Xiaoyi_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/mApcFzl8Sm"
+              }
+            ]
+          }
+        },
+        "id": "2055228634710065152",
+        "location": "来玩提问箱吧求求你了😭",
+        "name": "Ruai_🍥",
+        "pinned_tweet_id": "2077303624611557386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055229295052935168/EYY7LEmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 97,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/mApcFzl8Sm",
+        "username": "Ruai_0324",
+        "verified": false
+      }
+    ]
+  }
+}

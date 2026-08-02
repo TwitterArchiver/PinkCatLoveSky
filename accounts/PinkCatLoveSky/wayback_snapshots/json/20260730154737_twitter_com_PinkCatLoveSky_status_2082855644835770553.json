@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082855644835770553",
+    "created_at": "2026-07-30T15:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082855644835770553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kir4uha/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Kir4uha/status/2082848267461677057",
+          "start": 14,
+          "url": "https://t.co/hSsazc6Ltl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082855644835770553",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082848267461677057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Literally me. https://t.co/hSsazc6Ltl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 543,
+        "media_key": "3_2082848253196771328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfDc2zWIAAqaCC.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082855644835770553",
+        "created_at": "2026-07-30T15:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082855644835770553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kir4uha/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Kir4uha/status/2082848267461677057",
+              "start": 14,
+              "url": "https://t.co/hSsazc6Ltl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082855644835770553",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082848267461677057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Literally me. https://t.co/hSsazc6Ltl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082848253196771328"
+          ]
+        },
+        "author_id": "2077747796849856513",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082848267461677057",
+        "created_at": "2026-07-30T15:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082848267461677057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWNIvlr35T",
+              "end": 208,
+              "expanded_url": "https://x.com/Kir4uha/status/2082848267461677057/photo/1",
+              "media_key": "3_2082848253196771328",
+              "start": 185,
+              "url": "https://t.co/zWNIvlr35T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082848267461677057",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "This type of pain is when ,You've been through a lot and you want to be with someone. To share and express, but you don't want to bother anyone and you start to drown in your thoughts. https://t.co/zWNIvlr35T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 2072,
+          "like_count": 62238,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 3634
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-16T13:32:03.000Z",
+        "description": "I love everyone in this world, But no one loves me.\nTg:@Kir4ur Discord:@slon_begushih\nstem: https://t.co/HhggEf7EZi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "Kir4ur"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "slon_begushih"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/98845/",
+                "end": 115,
+                "expanded_url": "https://steamcommunity.com/id/98845/",
+                "start": 92,
+                "url": "https://t.co/HhggEf7EZi"
+              }
+            ]
+          }
+        },
+        "id": "2077747796849856513",
+        "location": "Россия Курск",
+        "name": "Kiruha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082527021138100224/ZLW0aJZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 239,
+          "like_count": 1637,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1085
+        },
+        "url": "",
+        "username": "Kir4uha",
+        "verified": false
+      }
+    ]
+  }
+}

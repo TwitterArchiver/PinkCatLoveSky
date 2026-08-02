@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2082043391379185902",
+    "created_at": "2026-07-28T11:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082064887052923048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566669758174486529",
+          "start": 0,
+          "username": "cruthousindream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082064887052923048",
+    "in_reply_to_user_id": "1566669758174486529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082063685808525770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cruthousindream 我很脆弱\n所以我開始發推\n這是我唯一可以自由宣洩情緒的地方\n但還是影響到他人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082043391379185902",
+        "created_at": "2026-07-28T11:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082064887052923048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566669758174486529",
+              "start": 0,
+              "username": "cruthousindream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082064887052923048",
+        "in_reply_to_user_id": "1566669758174486529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082063685808525770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cruthousindream 我很脆弱\n所以我開始發推\n這是我唯一可以自由宣洩情緒的地方\n但還是影響到他人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566669758174486529",
+        "conversation_id": "2082043391379185902",
+        "created_at": "2026-07-28T11:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082063685808525770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082063685808525770",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082061887651598366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 确实啊，苦难压在身上很痛的。\n或许坚强不是被苦难铸造的，但坚强啊，肯定是独属于你的品质。\n你喜欢的事，喜欢的人，身边能感受到的生机，他们能成为你的力量，陪你，学会你的坚强吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/兩個人格共存（她失蹤了）\n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☁️",
+        "pinned_tweet_id": "2080665738055188814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 2135,
+          "like_count": 57663,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 2957
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-05T06:09:23.000Z",
+        "description": "偶尔会写故事，偶尔会聊天，偶尔会见到那个自己，偶尔想展示一些我，偶尔寻找着平静。\nJust so so in English | まだ日本語を勉強中\n不过最重要的，未来，过去，还有现在～",
+        "id": "1566669758174486529",
+        "location": "Maybe in Wonderland?",
+        "name": "Yukey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071883716473860097/sS4wAe1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 60,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 891
+        },
+        "url": "",
+        "username": "cruthousindream",
+        "verified": true
+      }
+    ]
+  }
+}
