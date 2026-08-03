@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2083763479346098422",
+    "created_at": "2026-08-03T00:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T01:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084079867239535091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942038222886031360",
+          "start": 0,
+          "username": "yuchuance1963"
+        },
+        {
+          "end": 31,
+          "id": "1676572709742944259",
+          "start": 15,
+          "username": "Technology80420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084079867239535091",
+    "in_reply_to_user_id": "1942038222886031360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084078535216611538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuchuance1963 @Technology80420 人不是狗 她不是狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2083763479346098422",
+        "created_at": "2026-08-03T00:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084079867239535091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942038222886031360",
+              "start": 0,
+              "username": "yuchuance1963"
+            },
+            {
+              "end": 31,
+              "id": "1676572709742944259",
+              "start": 15,
+              "username": "Technology80420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084079867239535091",
+        "in_reply_to_user_id": "1942038222886031360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084078535216611538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuchuance1963 @Technology80420 人不是狗 她不是狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942038222886031360",
+        "conversation_id": "2083763479346098422",
+        "created_at": "2026-08-03T00:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084078535216611538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 32,
+              "id": "1320354023451496450",
+              "start": 17,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084078535216611538",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083800493512679502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @PinkCatLoveSky 巧克力吃不够可以吃💩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx/貓/友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 2127,
+          "like_count": 66861,
+          "listed_count": 2,
+          "media_count": 294,
+          "tweet_count": 4541
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T01:49:50.000Z",
+        "description": "我叫余传策，是一个对中共不满、想说点真话的老人，艰难翻墙讲述反共故事，最爱最亲的孙子 @Kiyoshiaufzju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiyoshiaufzju"
+              }
+            ]
+          }
+        },
+        "id": "1942038222886031360",
+        "name": "余传策（湖北白纸运动）",
+        "pinned_tweet_id": "2081939629771743409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082497645780905984/8uy55vn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 74,
+          "like_count": 310,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "yuchuance1963",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her🏳️‍⚧️\n\n小号：@tinyspacefomomo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "tinyspacefomomo"
+              }
+            ]
+          }
+        },
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 3239,
+          "like_count": 90214,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 7554
+        },
+        "url": "",
+        "username": "Technology80420",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2083834136113082488",
+    "created_at": "2026-08-02T22:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084048899560620241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224020250733268995",
+          "start": 0,
+          "username": "appleneko2001"
+        },
+        {
+          "end": 24,
+          "id": "2075277404361347072",
+          "start": 15,
+          "username": "Aurvsnow"
+        },
+        {
+          "end": 38,
+          "id": "1545782617240653825",
+          "start": 25,
+          "username": "Orange_Chr1s"
+        },
+        {
+          "end": 54,
+          "id": "1688792465292374016",
+          "start": 39,
+          "username": "unitedly_37400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084048899560620241",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084047792419549661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@appleneko2001 @Aurvsnow @Orange_Chr1s @unitedly_37400 我知道自己喜歡看風景 但這兩週工作要忙死我..."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084047792419549661].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084047792419549661",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084047792419549661"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2083834136113082488",
+        "created_at": "2026-08-02T22:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084048899560620241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 24,
+              "id": "2075277404361347072",
+              "start": 15,
+              "username": "Aurvsnow"
+            },
+            {
+              "end": 38,
+              "id": "1545782617240653825",
+              "start": 25,
+              "username": "Orange_Chr1s"
+            },
+            {
+              "end": 54,
+              "id": "1688792465292374016",
+              "start": 39,
+              "username": "unitedly_37400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084048899560620241",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084047792419549661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @Aurvsnow @Orange_Chr1s @unitedly_37400 我知道自己喜歡看風景 但這兩週工作要忙死我..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx/貓/友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 2126,
+          "like_count": 66689,
+          "listed_count": 2,
+          "media_count": 294,
+          "tweet_count": 4530
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/5CNGBqFNCw"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋夜星吃芒果",
+        "pinned_tweet_id": "2081264628445979049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082828677990191104/YOW-0eqb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 290,
+          "like_count": 118411,
+          "listed_count": 3,
+          "media_count": 1777,
+          "tweet_count": 18558
+        },
+        "url": "https://t.co/5CNGBqFNCw",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T17:55:26.000Z",
+        "description": "一個很了解自己但又愛沉溺在幻想的人\n輕微抑郁/互of\n可以加V m0506mn\n可以倾听你的所有烦恼和伤心事\n问问题→ https://t.co/XcUpR0NFOH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurvsnow",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aurvsnow",
+                "start": 60,
+                "url": "https://t.co/XcUpR0NFOH"
+              }
+            ]
+          }
+        },
+        "id": "2075277404361347072",
+        "location": "广东伦敦",
+        "name": "雪还会落下",
+        "pinned_tweet_id": "2079607383693963732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075979333148237824/wJiW5XNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 52,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 529
+        },
+        "url": "",
+        "username": "Aurvsnow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨顺南🍥|| \n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 137,
+          "like_count": 6463,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 2538
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰｜现在的名字不像假账号了👊｜🇯🇵🏳️‍⚧️｜微查成分回fo(真的很微)🥺没回就是100%没看到😭｜小号@tsurumi_37400 欢迎关注喵｜魔裁/F1(CL16)/MC/天际线｜最好的伙伴 @tomo9487｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "tomo9487"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/da4B7bSnC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/da4B7bSnC",
+                "start": 0,
+                "url": "https://t.co/QrtZ8v9W7F"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "location": "滋賀県",
+        "name": "中井鶴見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 603,
+          "like_count": 85890,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 2598
+        },
+        "url": "https://t.co/QrtZ8v9W7F",
+        "username": "unitedly_37400",
+        "verified": true
+      }
+    ]
+  }
+}
