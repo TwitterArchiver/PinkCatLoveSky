@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2088676584085725298",
+    "created_at": "2026-08-15T18:15:09.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T19:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088690974826590239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2036168375932739584",
+          "start": 0,
+          "username": "AJCP99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088690974826590239",
+    "in_reply_to_user_id": "2036168375932739584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088690820748898711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AJCP99 ？其它人都說正常欸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088676584085725298",
+        "created_at": "2026-08-15T18:15:09.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088690974826590239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2036168375932739584",
+              "start": 0,
+              "username": "AJCP99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088690974826590239",
+        "in_reply_to_user_id": "2036168375932739584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088690820748898711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AJCP99 ？其它人都說正常欸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036168375932739584",
+        "conversation_id": "2088676584085725298",
+        "created_at": "2026-08-15T18:14:32.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088690820748898711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088690820748898711",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088676584085725298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 不是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2088690974826590239",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 2276,
+          "like_count": 79053,
+          "listed_count": 2,
+          "media_count": 327,
+          "tweet_count": 5880
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T19:49:16.000Z",
+        "description": "24小时全网冲浪🏄什么都懂\nqq群：2155037554\n飞机：@nb_btc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "nb_btc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nb_btc",
+                "end": 23,
+                "expanded_url": "https://t.me/nb_btc",
+                "start": 0,
+                "url": "https://t.co/IhF7aBxCzi"
+              }
+            ]
+          }
+        },
+        "id": "2036168375932739584",
+        "is_identity_verified": false,
+        "location": "合作联系tg",
+        "most_recent_tweet_id": "2088690965842415665",
+        "name": "阿鸡（100+全网付费博主聚合策略群）",
+        "pinned_tweet_id": "2088324641949618442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036168375932739584/1774516125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038451709400502272/UIYwyKsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 142,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/IhF7aBxCzi",
+        "username": "AJCP99",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

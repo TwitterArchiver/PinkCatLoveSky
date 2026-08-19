@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2085660793430008239",
+    "created_at": "2026-08-07T09:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T10:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085661022107717863"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085661022107717863",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085660793430008239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的包容度是不是太高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2085660793430008239",
+        "created_at": "2026-08-07T09:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085661022107717863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085661022107717863",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085660793430008239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的包容度是不是太高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2085660793430008239",
+        "created_at": "2026-08-07T09:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085660793430008239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085660793430008239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我氣拿鐵的原因是他的對象不會被告知拿鐵同時有其他關係\n要是知道了還和他談我也只能祝他們幸福美滿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /(曾)兩個人格共存/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 2180,
+          "like_count": 70841,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 5009
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      }
+    ]
+  }
+}

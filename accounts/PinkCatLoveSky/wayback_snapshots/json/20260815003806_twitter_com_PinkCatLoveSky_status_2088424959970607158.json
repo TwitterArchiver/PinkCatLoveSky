@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2088346248638353669",
+    "created_at": "2026-08-15T00:38:06.000Z",
+    "display_text_range": [
+      21,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T01:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088424959970607158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2077122468276588544",
+          "start": 0,
+          "username": "RD0326"
+        },
+        {
+          "end": 20,
+          "id": "2062190491991744512",
+          "start": 8,
+          "username": "Sypshenlipu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088424959970607158",
+    "in_reply_to_user_id": "2077122468276588544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088404100450812066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RD0326 @Sypshenlipu 何意為"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088346248638353669",
+        "created_at": "2026-08-15T00:38:06.000Z",
+        "display_text_range": [
+          21,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088424959970607158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2077122468276588544",
+              "start": 0,
+              "username": "RD0326"
+            },
+            {
+              "end": 20,
+              "id": "2062190491991744512",
+              "start": 8,
+              "username": "Sypshenlipu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088424959970607158",
+        "in_reply_to_user_id": "2077122468276588544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088404100450812066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RD0326 @Sypshenlipu 何意為"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077122468276588544",
+        "conversation_id": "2088346248638353669",
+        "created_at": "2026-08-14T23:15:12.000Z",
+        "display_text_range": [
+          13,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088404100450812066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062190491991744512",
+              "start": 0,
+              "username": "Sypshenlipu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088404100450812066",
+        "in_reply_to_user_id": "2062190491991744512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088346248638353669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sypshenlipu 傻逼东西手起刀落直接剁了吧，你这辈子能把你性别和下半身研究明白就行了别研究网络了🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2088424959970607158",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 2261,
+          "like_count": 77664,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 5635
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T20:07:30.000Z",
+        "description": "翻墙出来睁眼看世界终于撅醒了😭😭😭，原来网上有这么多被大殖子带着节奏跑的傻逼😂😂😂",
+        "id": "2077122468276588544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088406251667423637",
+        "name": "R代",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077122468276588544/1784470444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086184802596556802/iv6OolNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 35,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "RD0326",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T15:13:20.000Z",
+        "description": "照片是我家小貓，他叫玉米\n我是MTF\n照片是貓\n我不是男的\n照片裡也不是肥豬",
+        "id": "2062190491991744512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088403651245273416",
+        "name": "Li pu Shen🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062190491991744512/1785166163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081762845772201984/NPuHvnRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 270,
+          "like_count": 41866,
+          "listed_count": 5,
+          "media_count": 118,
+          "tweet_count": 1282
+        },
+        "url": "",
+        "username": "Sypshenlipu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

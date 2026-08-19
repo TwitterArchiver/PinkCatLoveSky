@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2088676584085725298",
+    "created_at": "2026-08-15T22:35:00.000Z",
+    "display_text_range": [
+      17,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T23:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088756369969352856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064695612021596160",
+          "start": 0,
+          "username": "858366721zmjjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088756369969352856",
+    "in_reply_to_user_id": "2064695612021596160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088719331249263079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@858366721zmjjkk 測試看看罷了 昨天在電腦上看到的字體有點奇怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088676584085725298",
+        "created_at": "2026-08-15T22:35:00.000Z",
+        "display_text_range": [
+          17,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T23:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088756369969352856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064695612021596160",
+              "start": 0,
+              "username": "858366721zmjjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088756369969352856",
+        "in_reply_to_user_id": "2064695612021596160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088719331249263079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@858366721zmjjkk 測試看看罷了 昨天在電腦上看到的字體有點奇怪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064695612021596160",
+        "conversation_id": "2088676584085725298",
+        "created_at": "2026-08-15T20:07:49.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088719331249263079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088719331249263079",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088676584085725298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 难道不应该是吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2088756369969352856",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 2276,
+          "like_count": 79137,
+          "listed_count": 2,
+          "media_count": 327,
+          "tweet_count": 5890
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-10T13:07:40.000Z",
+        "description": "",
+        "id": "2064695612021596160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088732252062777525",
+        "name": "ZM Jjkk",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064695612021596160/1781099034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064705115333038080/x3nevjk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "858366721zmjjkk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

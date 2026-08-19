@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2088635721703936185",
+    "created_at": "2026-08-15T15:25:53.000Z",
+    "display_text_range": [
+      14,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088648378448269374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1407946975127883777",
+          "start": 0,
+          "username": "brandon94623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088648378448269374",
+    "in_reply_to_user_id": "1407946975127883777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088648002533818752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brandon94623 那還是別去載脆了（\n保護自己很重要喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088635721703936185",
+        "created_at": "2026-08-15T15:25:53.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088648378448269374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1407946975127883777",
+              "start": 0,
+              "username": "brandon94623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088648378448269374",
+        "in_reply_to_user_id": "1407946975127883777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088648002533818752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brandon94623 那還是別去載脆了（\n保護自己很重要喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407946975127883777",
+        "conversation_id": "2088635721703936185",
+        "created_at": "2026-08-15T15:24:23.000Z",
+        "display_text_range": [
+          16,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088648002533818752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088648002533818752",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088646060793307281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 挺容易的\n而且聽說演算法會故意推這種\n看了幾個朋友傳的我的獻忠魂有點燒起來"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2088648378448269374",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 2274,
+          "like_count": 78747,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 5826
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-24T06:21:42.000Z",
+        "description": "台灣人，歡迎互fo或私訊\nDc重度使用者",
+        "id": "1407946975127883777",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2088648321686790638",
+        "name": "榨甘蔗救台灣🇹🇼",
+        "pinned_tweet_id": "1949869235158601807",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850879781572866048/C4t9EMan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 310,
+          "like_count": 12169,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 5470
+        },
+        "url": "",
+        "username": "brandon94623",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

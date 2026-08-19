@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2088256530659647893",
+    "created_at": "2026-08-14T14:59:27.000Z",
+    "display_text_range": [
+      37,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088279339028861191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        },
+        {
+          "end": 25,
+          "id": "1948364171160227840",
+          "start": 14,
+          "username": "Mak1287267"
+        },
+        {
+          "end": 36,
+          "id": "1865811054892347392",
+          "start": 26,
+          "username": "YaoieLoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088279339028861191",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088278895506411806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 @Mak1287267 @YaoieLoop 嗚哇別誤會喵 窩沒有要搶走泥的哥哥喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088278895506411806].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088278895506411806",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2088278895506411806"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088256530659647893",
+        "created_at": "2026-08-14T14:59:27.000Z",
+        "display_text_range": [
+          37,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088279339028861191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            },
+            {
+              "end": 25,
+              "id": "1948364171160227840",
+              "start": 14,
+              "username": "Mak1287267"
+            },
+            {
+              "end": 36,
+              "id": "1865811054892347392",
+              "start": 26,
+              "username": "YaoieLoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088279339028861191",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088278895506411806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 @Mak1287267 @YaoieLoop 嗚哇別誤會喵 窩沒有要搶走泥的哥哥喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2088279339028861191",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 2254,
+          "like_count": 77283,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 5582
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 54kg |北京昌平🇨🇳| 主要繁體🇹🇼 簡體🉑 |是mtx喵|日語🇯🇵 朝鮮語🇰🇷也會一點 | LGBT友好 |留長髮中| 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！永遠最好的哥哥/戀人：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "Mak1287267"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "is_identity_verified": false,
+        "location": "琉球國首里城",
+        "most_recent_tweet_id": "2087401271351292085",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519649212736049152/1784974138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1892,
+          "like_count": 42033,
+          "listed_count": 5,
+          "media_count": 580,
+          "tweet_count": 9456
+        },
+        "url": "",
+        "username": "Mark67358226",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T12:46:46.000Z",
+        "description": "🇨🇳10高二\n大号@mmrnadna2\n🔑号@lhnjanwoainimen\n希望和大家能多多聊天🥺\nDM什么的请随意不用拘谨\n无言关注真是抱歉了\n永远最好最可爱的弟弟🥰永远爱你@Mark67358226\n永远最好最可爱的妹妹🥰永远爱你@XiyangMinzhiXiy\n最香草的入@YaoieLoop😻😍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "mmrnadna2"
+              },
+              {
+                "end": 38,
+                "start": 22,
+                "username": "lhnjanwoainimen"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "Mark67358226"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "XiyangMinzhiXiy"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "YaoieLoop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=ebf878…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=ebf87838-64ac-4aeb-86ec-fcfe7518097e",
+                "start": 0,
+                "url": "https://t.co/lsiXEDgSC7"
+              }
+            ]
+          }
+        },
+        "id": "1948364171160227840",
+        "is_identity_verified": false,
+        "location": "Utopia😽",
+        "most_recent_tweet_id": "2088269990906745247",
+        "name": "断桥边看雨",
+        "pinned_tweet_id": "2078836679255933328",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948364171160227840/1784988765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079164753587712000/PiX4152k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 0,
+          "like_count": 7440,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/lsiXEDgSC7",
+        "username": "Mak1287267",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-08T17:30:10.000Z",
+        "description": "耀夜 | 环路耀夜 | 社恐🥲 | 友跨 |\n洛天依 @hn_luotianyi712 | 每一个 fo ❤️ |\nMinecraft | Left 4 Dead 2 | EPL (MU) | NFL (Bengals) |\nK-On! | School-Live!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "hn_luotianyi712"
+              }
+            ]
+          }
+        },
+        "id": "1865811054892347392",
+        "is_identity_verified": false,
+        "location": "瓦纳海姆",
+        "most_recent_tweet_id": "2088271727784849640",
+        "name": "yaoie",
+        "pinned_tweet_id": "2081411600695939224",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865811054892347392/1781453240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075915292111462400/uZfJlWJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 274,
+          "like_count": 17269,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1479
+        },
+        "url": "",
+        "username": "YaoieLoop",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2084639538010538146",
+    "created_at": "2026-08-04T14:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084640844850884843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084640844850884843",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084639538010538146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 🩷🩵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2338,
+        "media_key": "3_2084639281642102784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4gYbsaYAAptAE.jpg",
+        "width": 3600
+      },
+      {
+        "height": 2338,
+        "media_key": "3_2084639311153205248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4gaJoaEAAI3pr.jpg",
+        "width": 3600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2084639538010538146",
+        "created_at": "2026-08-04T14:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084640844850884843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084640844850884843",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084639538010538146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 🩷🩵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084639281642102784",
+            "3_2084639311153205248"
+          ]
+        },
+        "author_id": "1676572709742944259",
+        "conversation_id": "2084639538010538146",
+        "created_at": "2026-08-04T13:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084639538010538146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t83L7HVrrp",
+              "end": 47,
+              "expanded_url": "https://x.com/Technology80420/status/2084639538010538146/photo/1",
+              "media_key": "3_2084639281642102784",
+              "start": 24,
+              "url": "https://t.co/t83L7HVrrp"
+            },
+            {
+              "display_url": "pic.x.com/t83L7HVrrp",
+              "end": 47,
+              "expanded_url": "https://x.com/Technology80420/status/2084639538010538146/photo/1",
+              "media_key": "3_2084639311153205248",
+              "start": 24,
+              "url": "https://t.co/t83L7HVrrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084639538010538146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DLOGM🤝EDIT\n进行一个今天拍的的色的调 https://t.co/t83L7HVrrp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx/貓/友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 2157,
+          "like_count": 68762,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 4757
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her🏳️‍⚧️\n\n小号：@tinyspacefomomo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "tinyspacefomomo"
+              }
+            ]
+          }
+        },
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 3242,
+          "like_count": 90385,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 7587
+        },
+        "url": "",
+        "username": "Technology80420",
+        "verified": false
+      }
+    ]
+  }
+}

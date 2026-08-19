@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2087562314421833835",
+    "created_at": "2026-08-12T15:52:45.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T16:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087567978045001881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "qtbrmdh19120101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087567978045001881",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087562314421833835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtbrmdh19120101 寶寶🩵\n要開心🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2087562314421833835",
+        "created_at": "2026-08-12T15:52:45.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087567978045001881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "qtbrmdh19120101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087567978045001881",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087562314421833835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtbrmdh19120101 寶寶🩵\n要開心🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776142720056385537",
+        "conversation_id": "2087562314421833835",
+        "created_at": "2026-08-12T15:30:15.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087562314421833835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qtbrmdh1912010…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/qtbrmdh19120101/status/2086429679461028024",
+              "start": 12,
+              "url": "https://t.co/i4c7C6xYgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087562314421833835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086429679461028024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "受不了了我要回來玩手機 https://t.co/i4c7C6xYgi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2087567978045001881",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 2223,
+          "like_count": 74773,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 5382
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "青天白日の名において\n青天白日滿山河\n君主派，民主派，自由派，共産派，雅俗共賞\n蔣公夢癡😍😍😍\n等待代號@canton_ss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "canton_ss"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "is_identity_verified": false,
+        "location": "中華民國福建省金門縣 寶寶@zhngjing322708",
+        "most_recent_tweet_id": "2087565717449351620",
+        "name": "李延卿🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776142720056385537/1781376657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077843912895635456/6IkTfIZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 157,
+          "like_count": 13186,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 4254
+        },
+        "url": "",
+        "username": "qtbrmdh19120101",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Counseling & Psychotherapy",
+          "id": "920758761370746880",
+          "name": "Counseling and psychotherapy"
+        }
+      }
+    ],
+    "conversation_id": "2084971579726041551",
+    "created_at": "2026-08-05T11:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084971579726041551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kiriu07/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kiriu07/status/2084966743353827649",
+          "start": 5,
+          "url": "https://t.co/Um0mHqVTFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084971579726041551",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084966743353827649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羨慕被電 https://t.co/Um0mHqVTFL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Counseling & Psychotherapy",
+              "id": "920758761370746880",
+              "name": "Counseling and psychotherapy"
+            }
+          }
+        ],
+        "conversation_id": "2084971579726041551",
+        "created_at": "2026-08-05T11:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084971579726041551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiriu07/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kiriu07/status/2084966743353827649",
+              "start": 5,
+              "url": "https://t.co/Um0mHqVTFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084971579726041551",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084966743353827649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羨慕被電 https://t.co/Um0mHqVTFL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724348868585013248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Counseling & Psychotherapy",
+              "id": "920758761370746880",
+              "name": "Counseling and psychotherapy"
+            }
+          }
+        ],
+        "conversation_id": "2084966743353827649",
+        "created_at": "2026-08-05T11:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084966743353827649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "什麼是郊狼3.0電擊心理療法？ 在 DBSM（泛指 BDSM 或特定的感官支配社群）語境中，所謂的「心理電擊療法」通常是指透過電刺激（E-stim, Electrical Stimulation）帶來強烈的感官體驗。 對於部分參與者而言，這種控制與被控制的過程，以及由酥麻感或輕微痛覺轉化而來的感官刺激，能夠促進大腦分泌腦內啡（Endorphin），從而協助轉移日常焦慮、達到心理上的釋放、解壓，或進入特定的心理放鬆狀態（如 Subspace）。 這裡的「普通部位」通常是指避開了高危險區域（如心臟周圍、頸部以上），針對四肢或軀幹等相對安全的部位所進行的電刺激活動。 核心設備介紹：郊狼 3.0 (DG-Lab Coyote 3.0) 條目中提到的 「郊狼 3.0」（Coyote 3.0），是目前在社群中非常知名且廣泛使用的智慧型電刺激主機（Power Box）。 設備特色： App 智慧控制： 郊狼 3.0 支援藍牙連線，可透過專屬手機 App（DG-Lab）進行精準的強度與頻率控制，介面直覺且便於操作。 多樣化波形： 內建多種不同的電流波形模組（如：脈衝、連續、漸強等），甚至可以透過 App 根據環境音、音樂節奏或自定義畫線來輸出電流，提供豐富且不可預測的心理預期與生理刺激。 雙通道獨立輸出： 具備 A/B 兩個獨立的輸出通道，可同時連接多個配件（如電擊貼片、導電環等），並分別控制兩邊的運作強度。 心理與感官層面的作用 這類體驗被部分人群視為一種「心理釋放機制」，其主要作用包含： 1. 感官轉移（Grounding）： 透過強烈且明確的物理刺激，將注意力從日常的精神內耗或心理壓力中強制抽離，使精神完全專注於當下的感官。 2. 信任與放鬆： 在知情同意的前提下，將身體感覺的控制權交給伴侶或交由設備隨機控制，藉由交出控制權來獲得心理上的卸載與依賴感。 3. 生理回饋： 在刺激結束後的放鬆期（Aftercare），身體常會伴隨著深度的平靜與舒緩感。 ⚠️ 安全與注意事項（極度重要） 進行任何形式的電刺激活動都具有一定的潛在風險，請務必嚴格遵守以下安全守則： 絕對避開致命部位： 嚴禁將電極貼片跨越心臟（例如胸腔左右各貼一片，會導致電流穿過心臟）、嚴禁放置於頸部（頸動脈竇）、頭部或有開放性傷口的皮膚上。 循序漸進： 測試時必須從最低強度（如 App 上的強度 1 或 2）開始，確",
+              "display_url": "trans.kiriyo.link/wiki/dbsm-dg-3…",
+              "end": 44,
+              "expanded_url": "http://trans.kiriyo.link/wiki/dbsm-dg-3-h",
+              "start": 21,
+              "status": 200,
+              "title": "DBSM 普通部位電擊心理療法 | 台灣跨圈聯盟",
+              "unwound_url": "https://trans.kiriyo.link/wiki/dbsm-dg-3-h/",
+              "url": "https://t.co/Tq6ruOKrdM"
+            },
+            {
+              "description": "World.Kiriyo.Link所屬之官方DISCORD社群。這裡將會是有史以來最包容友善的台灣繁中社群。 | 7 位成員",
+              "display_url": "discord.gg/ZhGxGtHVJf",
+              "end": 73,
+              "expanded_url": "http://discord.gg/ZhGxGtHVJf",
+              "images": [
+                {
+                  "height": 288,
+                  "url": "https://pbs.twimg.com/news_img/2082742779382571008/8M70Psip?format=jpg&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082742779382571008/8M70Psip?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "加入 KiriyoX World Discord 伺服器！",
+              "unwound_url": "https://discord.com/invite/ZhGxGtHVJf",
+              "url": "https://t.co/h3pIEQYdxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084966743353827649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "DBSM 普通部位電擊心理療法\n介紹文檔：https://t.co/Tq6ruOKrdM\n加入社群：https://t.co/h3pIEQYdxd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx/貓/友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 2163,
+          "like_count": 69141,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 4820
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 主帳號系統已進入警急狀態並去世(🍥) / 一切以網站為主 / 重度依戀，永遠愛著大家 / 自殺干預緊急應變小組 / 開發者兼企業家兼夢想家 / 雙北面面 / 165,46kg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "world.kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://world.kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/HyV8DwWeDV"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "location": "Taiwan Taipei",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021740981062971393/0ODalPMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 84,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/HyV8DwWeDV",
+        "username": "kiriu07",
+        "verified": false
+      }
+    ]
+  }
+}

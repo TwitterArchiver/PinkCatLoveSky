@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2088470751003447553",
+    "created_at": "2026-08-15T07:04:51.000Z",
+    "display_text_range": [
+      8,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088522290992656742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1808161753559453697",
+          "start": 0,
+          "username": "swctqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088522290992656742",
+    "in_reply_to_user_id": "1808161753559453697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088521989598371861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swctqw 隊友撐前期 後期成型就沒他事了\n相互成就喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088470751003447553",
+        "created_at": "2026-08-15T07:04:51.000Z",
+        "display_text_range": [
+          8,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088522290992656742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1808161753559453697",
+              "start": 0,
+              "username": "swctqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088522290992656742",
+        "in_reply_to_user_id": "1808161753559453697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088521989598371861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swctqw 隊友撐前期 後期成型就沒他事了\n相互成就喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808161753559453697",
+        "conversation_id": "2088470751003447553",
+        "created_at": "2026-08-15T07:03:39.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088521989598371861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088521989598371861",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088470751003447553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 启动成功"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2088522290992656742",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 2271,
+          "like_count": 78257,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 5767
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-02T15:32:42.000Z",
+        "description": "应该算男的吧，不太爱吃甜的，纯爱主义者(纯爱棒)，有问必回，随机时间上线\n原168，现164cm/51kg/肩宽38/家长不太管党/严重焦虑与内耗/严重缺爱/抗压中/Mtf",
+        "id": "1808161753559453697",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088522155789275233",
+        "name": "若水awa🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087032228698357760/pBNZoZoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 49,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "swctqw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

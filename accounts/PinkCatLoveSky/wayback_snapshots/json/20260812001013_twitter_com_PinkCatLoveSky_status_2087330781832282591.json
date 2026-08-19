@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087330750089846784"
+      ]
+    },
+    "author_id": "1320354023451496450",
+    "conversation_id": "2087233485966880930",
+    "created_at": "2026-08-12T00:10:13.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T01:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087330781832282591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "616537873",
+          "start": 0,
+          "username": "aaarjkkmiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y0uxKHfFXE",
+          "end": 46,
+          "expanded_url": "https://x.com/PinkCatLoveSky/status/2087330781832282591/photo/1",
+          "media_key": "3_2087330750089846784",
+          "start": 23,
+          "url": "https://t.co/Y0uxKHfFXE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087330781832282591",
+    "in_reply_to_user_id": "616537873",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087330750089846784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087233485966880930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkkmiao 被影子封禁了... https://t.co/Y0uxKHfFXE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2131,
+        "media_key": "3_2087330750089846784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPewQg_a4AAOSis.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087330750089846784"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "conversation_id": "2087233485966880930",
+        "created_at": "2026-08-12T00:10:13.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087330781832282591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "616537873",
+              "start": 0,
+              "username": "aaarjkkmiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0uxKHfFXE",
+              "end": 46,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2087330781832282591/photo/1",
+              "media_key": "3_2087330750089846784",
+              "start": 23,
+              "url": "https://t.co/Y0uxKHfFXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087330781832282591",
+        "in_reply_to_user_id": "616537873",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087330750089846784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087233485966880930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkkmiao 被影子封禁了... https://t.co/Y0uxKHfFXE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "616537873",
+        "conversation_id": "2087233485966880930",
+        "created_at": "2026-08-11T17:43:36.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087233485966880930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a0bRJKk/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/a0bRJKk/status/2087214590828609800",
+              "start": 17,
+              "url": "https://t.co/04qYVJv4Ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087233485966880930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087214590828609800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "次账号作为新大号#aaarjkk https://t.co/04qYVJv4Ri"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2087330781832282591",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 2203,
+          "like_count": 73916,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5321
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Followers卡进后室\n寻回互Fo🩷\n\n10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": false,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念",
+        "most_recent_tweet_id": "2087326514878857285",
+        "name": "咪！😶‍🌫️--aaarjkk二世 寻回互Fo🩷",
+        "pinned_tweet_id": "2087233485966880930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1785807059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087264183859707904/5AFefKAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 68,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "aaarjkkmiao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

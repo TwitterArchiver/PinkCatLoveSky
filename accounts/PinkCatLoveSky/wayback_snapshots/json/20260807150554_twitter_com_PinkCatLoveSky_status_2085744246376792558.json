@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2085743147783749827",
+    "created_at": "2026-08-07T15:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085744246376792558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        },
+        {
+          "end": 22,
+          "id": "1891722301584048128",
+          "start": 11,
+          "username": "8964shrimp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085744246376792558",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085743809112220035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 @8964shrimp 會不會被晶了oxo 喵還記得他之前有挑釁別人..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2085743147783749827",
+        "created_at": "2026-08-07T15:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085744246376792558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            },
+            {
+              "end": 22,
+              "id": "1891722301584048128",
+              "start": 11,
+              "username": "8964shrimp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085744246376792558",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085743809112220035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 @8964shrimp 會不會被晶了oxo 喵還記得他之前有挑釁別人..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956958284310818816",
+        "conversation_id": "2085743147783749827",
+        "created_at": "2026-08-07T15:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085743809112220035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            },
+            {
+              "end": 27,
+              "id": "1891722301584048128",
+              "start": 16,
+              "username": "8964shrimp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085743809112220035",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085743147783749827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky @8964shrimp 🦐虾虾酱怎么不见了喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /兩個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 2181,
+          "like_count": 71060,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 5066
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "一只友跨泛性恋小男娘，人称代词随意\n发图专用分身@qian68069 简中/繁中/EN\n不ban真人 互联网攻受可切的触手娘\n姐姐@LianQiNian2\n学习🎹ing，爱鱼韵、回春丹，研究各种电子软硬件\n\n愛所有人，但永遠學不会愛人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "qian68069"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "LianQiNian2"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "location": "你的浴缸🛁",
+        "name": "Qian触手娘小千🏳️‍🌈",
+        "pinned_tweet_id": "2084993641219838417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 1309,
+          "like_count": 9950,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 3485
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-18T05:32:05.000Z",
+        "description": "最愛的雨夏老婆：@xiyu86｜友順mtx/f？|自殺干預｜蝦的精神狀態基本穩定 難受了可以找我聊天｜持證含糖：2025.3.12｜單車佬｜雙向｜酸民退散｜政治立場❌政治迷因🉑選擇性互fo\n發癲帳號：@RainKawaii8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "xiyu86"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "RainKawaii8964"
+              }
+            ]
+          }
+        },
+        "id": "1891722301584048128",
+        "location": "月球",
+        "name": "蝦蝦醬🏳️‍⚧️",
+        "pinned_tweet_id": "2076900555994349722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062537785681362944/QpoDPa-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 664,
+          "like_count": 14302,
+          "listed_count": 3,
+          "media_count": 460,
+          "tweet_count": 2801
+        },
+        "url": "",
+        "username": "8964shrimp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2084175245129531827",
+    "created_at": "2026-08-03T07:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084181151422271909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1865811054892347392",
+          "start": 0,
+          "username": "YaoieLoop"
+        },
+        {
+          "end": 28,
+          "id": "1865811054892347392",
+          "start": 18,
+          "username": "YaoieLoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084181151422271909",
+    "in_reply_to_user_id": "1865811054892347392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084180876272030185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaoieLoop 大王我喜歡你 @YaoieLoop"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2084175245129531827",
+        "created_at": "2026-08-03T07:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084181151422271909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1865811054892347392",
+              "start": 0,
+              "username": "YaoieLoop"
+            },
+            {
+              "end": 28,
+              "id": "1865811054892347392",
+              "start": 18,
+              "username": "YaoieLoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084181151422271909",
+        "in_reply_to_user_id": "1865811054892347392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084180876272030185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaoieLoop 大王我喜歡你 @YaoieLoop"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865811054892347392",
+        "conversation_id": "2084175245129531827",
+        "created_at": "2026-08-03T07:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084180876272030185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084180876272030185",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084175245129531827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 水仙好诶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx/貓/友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶:@TrashcanCats 🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 2131,
+          "like_count": 67270,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 4572
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-08T17:30:10.000Z",
+        "description": "耀夜 | 环路耀夜 | 社恐🥲 | 友跨 |\n洛天依 @hn_luotianyi712 | 每一个 fo ❤️ |\nMinecraft | Left 4 Dead 2 | EPL (MU) | NFL (Bengals) |\nK-On! | School-Live!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "hn_luotianyi712"
+              }
+            ]
+          }
+        },
+        "id": "1865811054892347392",
+        "location": "瓦纳海姆",
+        "name": "yaoie",
+        "pinned_tweet_id": "2081411600695939224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075915292111462400/uZfJlWJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 242,
+          "like_count": 11156,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1049
+        },
+        "url": "",
+        "username": "YaoieLoop",
+        "verified": true
+      }
+    ]
+  }
+}

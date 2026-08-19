@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2086429679461028024",
+    "created_at": "2026-08-09T22:28:25.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T23:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086580386277298240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "qtbrmdh19120101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086580386277298240",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086429679461028024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtbrmdh19120101 摸摸）\n加油喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2086429646837710848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPR8tZybAAA_2dM.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2086429666236338176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPR8uiDakAAyk2o.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2086429679461028024",
+        "created_at": "2026-08-09T22:28:25.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T23:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086580386277298240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "qtbrmdh19120101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086580386277298240",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086429679461028024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtbrmdh19120101 摸摸）\n加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086429646837710848",
+            "3_2086429666236338176"
+          ]
+        },
+        "author_id": "1776142720056385537",
+        "conversation_id": "2086429679461028024",
+        "created_at": "2026-08-09T12:29:34.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086429679461028024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iITQkFCurY",
+              "end": 170,
+              "expanded_url": "https://x.com/qtbrmdh19120101/status/2086429679461028024/photo/1",
+              "media_key": "3_2086429646837710848",
+              "start": 147,
+              "url": "https://t.co/iITQkFCurY"
+            },
+            {
+              "display_url": "pic.x.com/iITQkFCurY",
+              "end": 170,
+              "expanded_url": "https://x.com/qtbrmdh19120101/status/2086429679461028024/photo/1",
+              "media_key": "3_2086429666236338176",
+              "start": 147,
+              "url": "https://t.co/iITQkFCurY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086429679461028024",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086429646837710848"
+          },
+          {
+            "media_key": "3_2086429666236338176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 103,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "通知一件事情:\n從明天開始(明天時間不固定)我會暫停登入所有社交帳號時間一年,偶爾會忍不住手機上來看看,但總體還是沒有時間的,在一定情況下我會將部分帳號交由宋岑代為管理,這件事情在6月份決定,早有規劃😋因為休學的關係學業落下的很多所以想要補起來,接下來的時間我將會閉關讀書,提前同各位一聲道別 https://t.co/iITQkFCurY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /兩個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km        在台       問喵問題！➡",
+        "most_recent_tweet_id": "2086580386277298240",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 2188,
+          "like_count": 72253,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 5182
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "青天白日の名において\n青天白日滿山河\n君主派，民主派，自由派，共産派，雅俗共賞\n蔣公夢癡😍😍😍",
+        "id": "1776142720056385537",
+        "is_identity_verified": false,
+        "location": "中華民國福建省金門縣 寶寶@zhngjing322708",
+        "most_recent_tweet_id": "2086507483716297109",
+        "name": "李延卿🇹🇼",
+        "pinned_tweet_id": "2086429679461028024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776142720056385537/1781376657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077843912895635456/6IkTfIZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 158,
+          "like_count": 13170,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 4246
+        },
+        "url": "",
+        "username": "qtbrmdh19120101",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2084654530113974561",
+    "created_at": "2026-08-04T14:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084655334598348867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "qtbrmdh19120101"
+        },
+        {
+          "end": 27,
+          "id": "1512456859776851972",
+          "start": 17,
+          "username": "wanliyan3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084655334598348867",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084655128389517432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtbrmdh19120101 @wanliyan3 目前已知他有line discord 推特 微信\n不知道脆 ig qq有沒有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2084654530113974561",
+        "created_at": "2026-08-04T14:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084655334598348867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "qtbrmdh19120101"
+            },
+            {
+              "end": 27,
+              "id": "1512456859776851972",
+              "start": 17,
+              "username": "wanliyan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084655334598348867",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084655128389517432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtbrmdh19120101 @wanliyan3 目前已知他有line discord 推特 微信\n不知道脆 ig qq有沒有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776142720056385537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2084654530113974561",
+        "created_at": "2026-08-04T14:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084655128389517432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            },
+            {
+              "end": 26,
+              "id": "1512456859776851972",
+              "start": 16,
+              "username": "wanliyan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084655128389517432",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084654530113974561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky @wanliyan3 不是,一般情況下也用不上wechat啊😨不用LINE他就只能是為了達成我一個固定用特定的APP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx/貓/友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 2157,
+          "like_count": 68826,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 4768
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "青天白日の名において\n青天白日滿山河\n君主派，民主派，自由派，共産派，雅俗共賞\n蔣公夢癡😍😍😍",
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣 寶寶@zhngjing322708",
+        "name": "李延卿🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077843912895635456/6IkTfIZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 164,
+          "like_count": 12960,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 4141
+        },
+        "url": "",
+        "username": "qtbrmdh19120101",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "高雄",
+        "id": "1512456859776851972",
+        "name": "拿鐵組長🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083830760793133056/tlQj-Rk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 364,
+          "like_count": 1550,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1043
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false
+      }
+    ]
+  }
+}

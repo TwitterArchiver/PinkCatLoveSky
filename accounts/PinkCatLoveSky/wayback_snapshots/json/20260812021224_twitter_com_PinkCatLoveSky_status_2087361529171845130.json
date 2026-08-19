@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2087291138088874446",
+    "created_at": "2026-08-12T02:12:24.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T03:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087361529171845130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885529810942009344",
+          "start": 0,
+          "username": "NEO_NA45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087361529171845130",
+    "in_reply_to_user_id": "1885529810942009344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087361301173641489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEO_NA45 早安安安安安安！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2087291138088874446",
+        "created_at": "2026-08-12T02:12:24.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087361529171845130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885529810942009344",
+              "start": 0,
+              "username": "NEO_NA45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087361529171845130",
+        "in_reply_to_user_id": "1885529810942009344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087361301173641489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEO_NA45 早安安安安安安！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885529810942009344",
+        "conversation_id": "2087291138088874446",
+        "created_at": "2026-08-12T02:11:30.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087361301173641489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087361301173641489",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087291138088874446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 早安~"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2087361529171845130",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 2209,
+          "like_count": 74178,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 5351
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "互fo喵 | 主要產出：🏎️ F1｜📱 Android｜📷 Photography｜⛏️Minecraft  | 分享生活碎片與一些想法 | F1相關長文 | 夜間出沒 | 日常小號@NEO_Lris45 | ❤️ @Lingfor0620\n👑GOAT:@LewisHamilton #WeRaceAsOne",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 142,
+                "tag": "WeRaceAsOne"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "start": 91,
+                "username": "NEO_Lris45"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "Lingfor0620"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "LewisHamilton"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NEO_NA45s_Chan…",
+                "end": 23,
+                "expanded_url": "https://t.me/NEO_NA45s_Channel",
+                "start": 0,
+                "url": "https://t.co/rS411XNlcO"
+              }
+            ]
+          }
+        },
+        "id": "1885529810942009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087361301173641489",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2085738633450094827",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885529810942009344/1786380453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 715,
+          "like_count": 5690,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/rS411XNlcO",
+        "username": "NEO_NA45",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
