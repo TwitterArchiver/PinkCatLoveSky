@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2088680335718699134",
+    "created_at": "2026-08-15T17:49:30.000Z",
+    "display_text_range": [
+      9,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T18:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088684522477085165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2077657557523640320",
+          "start": 0,
+          "username": "SepMiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088684522477085165",
+    "in_reply_to_user_id": "2077657557523640320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088684281006829698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SepMiao 他有和其他人互fo（例如我\n有其他人也被騙了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088680335718699134",
+        "created_at": "2026-08-15T17:49:30.000Z",
+        "display_text_range": [
+          9,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088684522477085165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2077657557523640320",
+              "start": 0,
+              "username": "SepMiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088684522477085165",
+        "in_reply_to_user_id": "2077657557523640320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088684281006829698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SepMiao 他有和其他人互fo（例如我\n有其他人也被騙了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077657557523640320",
+        "conversation_id": "2088680335718699134",
+        "created_at": "2026-08-15T17:48:33.000Z",
+        "display_text_range": [
+          16,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088684281006829698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088684281006829698",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088680335718699134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 对我来说无效，私信我不是聊天和互fo的，开头说不清楚的，一律按照bot处理"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2088684522477085165",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 2276,
+          "like_count": 78985,
+          "listed_count": 2,
+          "media_count": 327,
+          "tweet_count": 5861
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T07:32:42.000Z",
+        "description": "「人生在世 一半烟火一半闲」\n蓝V互fo中/友跨🏳️‍⚧️\n一只大二猫猫，叫我九猫就好啦\n爱社交but社恐 | 分享一些生活&科技&股市\n科技/IT/电脑/Python/Java/可倾诉/可泄愤/心理委员/爱听放松治愈音乐\n背景图From @nyunyu0210\n头像图From @ASivainu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "nyunyu0210"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "ASivainu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "3words.ngl.link/sepmiao",
+                "end": 23,
+                "expanded_url": "https://3words.ngl.link/sepmiao",
+                "start": 0,
+                "url": "https://t.co/NgEBuxQMBZ"
+              }
+            ]
+          }
+        },
+        "id": "2077657557523640320",
+        "is_identity_verified": true,
+        "location": "温州 / 嘉兴",
+        "most_recent_tweet_id": "2088684281006829698",
+        "name": "SepMiao",
+        "pinned_tweet_id": "2088476638170513521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077657557523640320/1785772581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084427836442763264/1XCOKLO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 140,
+          "like_count": 739,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/NgEBuxQMBZ",
+        "username": "SepMiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

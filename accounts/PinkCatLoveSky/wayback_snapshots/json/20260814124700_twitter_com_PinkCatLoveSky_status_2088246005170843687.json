@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2088244266380530097",
+    "created_at": "2026-08-14T12:47:00.000Z",
+    "display_text_range": [
+      26,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088246005170843687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948796811654955009",
+          "start": 0,
+          "username": "gwine1145141919"
+        },
+        {
+          "end": 25,
+          "id": "1979582195271667712",
+          "start": 17,
+          "username": "Roygw67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088246005170843687",
+    "in_reply_to_user_id": "1948796811654955009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088244266380530097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gwine1145141919 @Roygw67 看一眼橫幅被逗笑了w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088244266380530097",
+        "created_at": "2026-08-14T12:47:00.000Z",
+        "display_text_range": [
+          26,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088246005170843687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948796811654955009",
+              "start": 0,
+              "username": "gwine1145141919"
+            },
+            {
+              "end": 25,
+              "id": "1979582195271667712",
+              "start": 17,
+              "username": "Roygw67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088246005170843687",
+        "in_reply_to_user_id": "1948796811654955009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088244266380530097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gwine1145141919 @Roygw67 看一眼橫幅被逗笑了w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948796811654955009",
+        "conversation_id": "2088244266380530097",
+        "created_at": "2026-08-14T12:40:05.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088244266380530097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979582195271667712",
+              "start": 6,
+              "username": "Roygw67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088244266380530097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘里推指路@Roygw67 \n这两天会临时放点人\\(//∇//)\\\n会审核，只过熟人和有眼缘的小兽太～\n空推、锁推、品客请不要关注我…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2088246005170843687",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 2252,
+          "like_count": 77033,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 5529
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-25T17:25:54.000Z",
+        "description": "💫 Film ｜Photography ｜Furry｜Nゲージ \n🎞️是学电影的小男孩 📷鉄道と風景が好き\n🚃特にJR西日本と東海だ(≧∇≦)\n💬中文｜日本語｜English🆗\n🌍📍関西在住～ 🔜わからない\n旧垢:@Gwine1727199",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Gwine1727199"
+              }
+            ]
+          }
+        },
+        "id": "1948796811654955009",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2088244266380530097",
+        "name": "緑酒ﾘｮｸｼｭ🍵",
+        "pinned_tweet_id": "2068947713392361523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948796811654955009/1782497118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053291600252633089/8-7v08K8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 432,
+          "like_count": 24524,
+          "listed_count": 5,
+          "media_count": 331,
+          "tweet_count": 2210
+        },
+        "url": "",
+        "username": "gwine1145141919",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-18T16:17:01.000Z",
+        "description": "@gwine1145141919 发野兽先辈用的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "gwine1145141919"
+              }
+            ]
+          }
+        },
+        "id": "1979582195271667712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2082135704822563314",
+        "name": "下北沢李田所酒",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979582195271667712/1780059971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060329011386138624/ZliIV5I__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 198,
+          "like_count": 1125,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "Roygw67",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

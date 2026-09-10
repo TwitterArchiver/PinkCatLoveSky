@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2088261272982691886",
+    "created_at": "2026-08-14T15:54:12.000Z",
+    "display_text_range": [
+      29,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088293118156374201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774264719773409280",
+          "start": 0,
+          "username": "KissaHsgsta1106"
+        },
+        {
+          "end": 28,
+          "id": "1894375325934784517",
+          "start": 17,
+          "username": "sword_1003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088293118156374201",
+    "in_reply_to_user_id": "1774264719773409280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088292250379792806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KissaHsgsta1106 @sword_1003 Omg這簡直就是我（有時候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088261272982691886",
+        "created_at": "2026-08-14T15:54:12.000Z",
+        "display_text_range": [
+          29,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088293118156374201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774264719773409280",
+              "start": 0,
+              "username": "KissaHsgsta1106"
+            },
+            {
+              "end": 28,
+              "id": "1894375325934784517",
+              "start": 17,
+              "username": "sword_1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088293118156374201",
+        "in_reply_to_user_id": "1774264719773409280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088292250379792806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KissaHsgsta1106 @sword_1003 Omg這簡直就是我（有時候"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774264719773409280",
+        "conversation_id": "2088261272982691886",
+        "created_at": "2026-08-14T15:50:45.000Z",
+        "display_text_range": [
+          28,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088292250379792806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            },
+            {
+              "end": 27,
+              "id": "1894375325934784517",
+              "start": 16,
+              "username": "sword_1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088292250379792806",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088290749712666746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky @sword_1003 emm我其实也不太清楚怎样是ADHD，不过就我个人来说的话，差不多就是生理性的严重分心吧。看yt玩游戏这些放松娱乐的事都完全做不下去，一定会被莫名其妙打断。做感兴趣的是也差不多。\n还有就是超级严重的启动困难"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2088293118156374201",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 2262,
+          "like_count": 77478,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 5604
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-31T02:37:37.000Z",
+        "description": "",
+        "id": "1774264719773409280",
+        "is_identity_verified": false,
+        "location": "乌茨约基，拉普兰",
+        "most_recent_tweet_id": "2088292250379792806",
+        "name": "赫尔辛基的猫",
+        "pinned_tweet_id": "1835918114938290560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774264719773409280/1785575324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082035815387955200/6yr37V9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 807,
+          "like_count": 47574,
+          "listed_count": 4,
+          "media_count": 389,
+          "tweet_count": 2465
+        },
+        "url": "",
+        "username": "KissaHsgsta1106",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "姓名：夜鸟 | 个人特征：MTX/BPD/ADHD/双相 | 主要关注：公共交通/垂直交通/建筑文化/美学 | 品牌偏好：麦当劳/Apple/徕卡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gE80d"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "is_identity_verified": false,
+        "location": "公元前",
+        "most_recent_tweet_id": "2088286253053870377",
+        "name": "HongSword",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894375325934784517/1786584787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087440179388878848/4l-vZiII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 485,
+          "like_count": 37176,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 8392
+        },
+        "url": "https://t.co/Y9Zk1gE80d",
+        "username": "sword_1003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

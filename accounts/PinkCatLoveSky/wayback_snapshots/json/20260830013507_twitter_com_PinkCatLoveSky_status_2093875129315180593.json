@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2093851732103328248",
+    "created_at": "2026-08-30T01:35:07.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T02:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093875129315180593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2089883967810109440",
+          "start": 0,
+          "username": "8bituuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093875129315180593",
+    "in_reply_to_user_id": "2089883967810109440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093874759285035133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8bituuu 喵再點一份給你喵🩷🩵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 873,
+        "media_key": "3_2093874750208507904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7v_dJWgAAweJG.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2093851732103328248",
+        "created_at": "2026-08-30T01:35:07.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093875129315180593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2089883967810109440",
+              "start": 0,
+              "username": "8bituuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093875129315180593",
+        "in_reply_to_user_id": "2089883967810109440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093874759285035133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8bituuu 喵再點一份給你喵🩷🩵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093874750208507904"
+          ]
+        },
+        "author_id": "2089883967810109440",
+        "conversation_id": "2093851732103328248",
+        "created_at": "2026-08-30T01:33:39.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093874759285035133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOjiup5TNC",
+              "end": 45,
+              "expanded_url": "https://x.com/8bituuu/status/2093874759285035133/photo/1",
+              "media_key": "3_2093874750208507904",
+              "start": 22,
+              "url": "https://t.co/YOjiup5TNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093874759285035133",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093874750208507904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093851732103328248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 我也要吃！ https://t.co/YOjiup5TNC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "如同行屍走肉般在這腐爛的世界中做著無用功\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2093875129315180593",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 2425,
+          "like_count": 97344,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 7572
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T01:17:51.000Z",
+        "description": "https://t.co/Tndhnpuq5Y 匿名问答\nhttps://t.co/WtmGHcwRAg tg\n__8bit⬅️wx 加我备注推特昵称 陌生人说明来意\n3664867295🐧同上 可以叫我kk或者小由 lgbtq+友好",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/8bituuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/8bituuu",
+                "start": 0,
+                "url": "https://t.co/Tndhnpuq5Y"
+              },
+              {
+                "display_url": "t.me/uuu8bit",
+                "end": 52,
+                "expanded_url": "https://t.me/uuu8bit",
+                "start": 29,
+                "url": "https://t.co/WtmGHcwRAg"
+              }
+            ]
+          }
+        },
+        "id": "2089883967810109440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093874759285035133",
+        "name": "kk",
+        "pinned_tweet_id": "2092763977520419119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093343635089854464/mJ6ieuOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 87,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "8bituuu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

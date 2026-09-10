@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2092612569592897880",
+    "created_at": "2026-08-26T17:33:37.000Z",
+    "display_text_range": [
+      11,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092666792569418039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055228634710065152",
+          "start": 0,
+          "username": "Ruai_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092666792569418039",
+    "in_reply_to_user_id": "2055228634710065152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092665474291290351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruai_0324 嗚哇妳還貼心換成繁體了\n但我能看懂簡體 沒關係的ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2092612569592897880",
+        "created_at": "2026-08-26T17:33:37.000Z",
+        "display_text_range": [
+          11,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092666792569418039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055228634710065152",
+              "start": 0,
+              "username": "Ruai_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092666792569418039",
+        "in_reply_to_user_id": "2055228634710065152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092665474291290351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruai_0324 嗚哇妳還貼心換成繁體了\n但我能看懂簡體 沒關係的ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055228634710065152",
+        "conversation_id": "2092612569592897880",
+        "created_at": "2026-08-26T17:28:23.000Z",
+        "display_text_range": [
+          16,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092665474291290351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092665474291290351",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092664226188083350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 我甚至感覺有點榮幸😧😧\n不過看著體內都是雌二醇 確實很爽就是了 親身體會過（ ）\n雖然但是 寶寶小心頭痛呀 記得吃布洛芬\n還有不要弄的頻繁😱😱😱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "如同行屍走肉般在這腐爛的世界中做著無用功\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2092666792569418039",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 2391,
+          "like_count": 93255,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 7225
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T10:08:54.000Z",
+        "description": "@Xiaoyi_0324\n簡体字・繁体字どちらもOK｜日本語は翻訳ソフトやChatGPTを使用しています｜重度のうつ+中等度の不安｜双極性障害の疑いあり｜ODをやめて、もう自殺もしません｜少しのネガティブな感情と独り言中心、閲覧は自己責任でお願いします｜質問箱はプロフィール冒頭に記載しているアカウントで返信します",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Xiaoyi_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/mApcFzkB2O"
+              }
+            ]
+          }
+        },
+        "id": "2055228634710065152",
+        "is_identity_verified": false,
+        "location": "質問箱で遊ぼうよ😭",
+        "most_recent_tweet_id": "2092665474291290351",
+        "name": "Ruai_🍥",
+        "pinned_tweet_id": "2077303624611557386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055228634710065152/1786813026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055229295052935168/EYY7LEmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 99,
+          "like_count": 100,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 301
+        },
+        "url": "https://t.co/mApcFzkB2O",
+        "username": "Ruai_0324",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

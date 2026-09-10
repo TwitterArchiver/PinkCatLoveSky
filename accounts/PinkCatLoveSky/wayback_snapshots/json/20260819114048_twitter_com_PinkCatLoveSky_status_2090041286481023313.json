@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2090001428232155570",
+    "created_at": "2026-08-19T11:40:48.000Z",
+    "display_text_range": [
+      25,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090041286481023313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_1003"
+        },
+        {
+          "end": 24,
+          "id": "2193559340",
+          "start": 12,
+          "username": "Evf_Trotsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090041286481023313",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "今天的一个谘询\n\n一个中年妇女找到我，她的儿子（已成年）在小区7楼楼道的窗户跳楼自杀了，早上被发现的时候已经死亡。\n她提出物业公司的巡查标准里每隔1小时要有一次巡查，但是一整晚物业公司根本没有巡查过，监控显示由凌晨2:47坠楼到早上5:52被发现，没有任何物业巡逻人员出现过。认为物业没有按要求进行巡查，应负有赔偿责任。\n\n我提出的观点是，跳楼属于自我决定的危险行为，后果直接来源于跳楼行为本身。但是这里有一个核心的事实分界。即「直接坠楼至死」和「坠楼后存活，失救至死」。\n前者物业巡逻不到位不作为与死亡无任何因果关系，物业原则上是无责的。即便能通过尸检，认定后者的情况，可以认定物业有一部份的责任，可以获得的赔偿也相当有限。因为自杀是损害发生的根本原因，物业仅仅系「对延误救助扩大损害」承担次要过错责任。大部份情况下只会有25%以下的人道主义赔偿金。\n\n沟通到这，这个中年妇女可能因为认为我不帮她，突然开始哭哭啼啼，随后向我抱怨。并且对我讲「连你都不帮我了，我不如去找我个仔」、「我老公走了，现在连儿子也抛下我，剩下我一个人」之类的话。\n我听到这些说话之后，忍着怒气对她安慰和解释，告诉她我并不是不帮她，而是现有的材料证据根本没有办法证明「坠楼后失救」的情况，需要做尸检和司法鉴定。其次对方话可能以「即便及时发现，也不代表一定能抢救回来」进行抗辩。这个是举证的难点。\n\n然后她突然似乎就疯了，说什么「不是要钱，只是要个公道」、「我已经什么都没有了」、「你不帮我，我还不如今晚就去找我儿子算了」之类的。\n这个时候我也火起来了，我招谁惹谁了，我叫她赶快去自杀，去跳楼，不要浪费时间浪费粮食，遗书上记得写我的名字，写最大号的，写我逼死你，写在手臂上面，免得别人看不见。\n其实在前面的沟通里，我笃定她不可能自杀，也不会自杀。她完全不觉得她儿子自杀这件事和她自己有任何关系，她向我怪罪她的前夫、她儿子的同事、她儿子的朋友、她儿子的心理承受程度差，但是完全不认为自己有任何责任。像她这种人不可能，也没有勇气真的去自杀。\n\n最后我留下一句「如果你非要打这个官司你就联系我，如果你要讲九不搭八的话就不要来烦我。」，然后我就走了。\n说实话这个谘询我真的挺气的，我明白我不应该带着情绪和她沟通，但是她说的那些话真的⋯⋯\n\n现在我连喝了两杯咖啡才缓过气来⋯⋯"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090003455683514398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_1003 @Evf_Trotsky 今天的一个谘询\n\n一个中年妇女找到我，她的儿子（已成年）在小区7楼楼道的窗户跳楼自杀了，早上被发现的时候已经死亡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2090001428232155570",
+        "created_at": "2026-08-19T11:40:48.000Z",
+        "display_text_range": [
+          25,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090041286481023313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            },
+            {
+              "end": 24,
+              "id": "2193559340",
+              "start": 12,
+              "username": "Evf_Trotsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090041286481023313",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天的一个谘询\n\n一个中年妇女找到我，她的儿子（已成年）在小区7楼楼道的窗户跳楼自杀了，早上被发现的时候已经死亡。\n她提出物业公司的巡查标准里每隔1小时要有一次巡查，但是一整晚物业公司根本没有巡查过，监控显示由凌晨2:47坠楼到早上5:52被发现，没有任何物业巡逻人员出现过。认为物业没有按要求进行巡查，应负有赔偿责任。\n\n我提出的观点是，跳楼属于自我决定的危险行为，后果直接来源于跳楼行为本身。但是这里有一个核心的事实分界。即「直接坠楼至死」和「坠楼后存活，失救至死」。\n前者物业巡逻不到位不作为与死亡无任何因果关系，物业原则上是无责的。即便能通过尸检，认定后者的情况，可以认定物业有一部份的责任，可以获得的赔偿也相当有限。因为自杀是损害发生的根本原因，物业仅仅系「对延误救助扩大损害」承担次要过错责任。大部份情况下只会有25%以下的人道主义赔偿金。\n\n沟通到这，这个中年妇女可能因为认为我不帮她，突然开始哭哭啼啼，随后向我抱怨。并且对我讲「连你都不帮我了，我不如去找我个仔」、「我老公走了，现在连儿子也抛下我，剩下我一个人」之类的话。\n我听到这些说话之后，忍着怒气对她安慰和解释，告诉她我并不是不帮她，而是现有的材料证据根本没有办法证明「坠楼后失救」的情况，需要做尸检和司法鉴定。其次对方话可能以「即便及时发现，也不代表一定能抢救回来」进行抗辩。这个是举证的难点。\n\n然后她突然似乎就疯了，说什么「不是要钱，只是要个公道」、「我已经什么都没有了」、「你不帮我，我还不如今晚就去找我儿子算了」之类的。\n这个时候我也火起来了，我招谁惹谁了，我叫她赶快去自杀，去跳楼，不要浪费时间浪费粮食，遗书上记得写我的名字，写最大号的，写我逼死你，写在手臂上面，免得别人看不见。\n其实在前面的沟通里，我笃定她不可能自杀，也不会自杀。她完全不觉得她儿子自杀这件事和她自己有任何关系，她向我怪罪她的前夫、她儿子的同事、她儿子的朋友、她儿子的心理承受程度差，但是完全不认为自己有任何责任。像她这种人不可能，也没有勇气真的去自杀。\n\n最后我留下一句「如果你非要打这个官司你就联系我，如果你要讲九不搭八的话就不要来烦我。」，然后我就走了。\n说实话这个谘询我真的挺气的，我明白我不应该带着情绪和她沟通，但是她说的那些话真的⋯⋯\n\n现在我连喝了两杯咖啡才缓过气来⋯⋯"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090003455683514398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 @Evf_Trotsky 今天的一个谘询\n\n一个中年妇女找到我，她的儿子（已成年）在小区7楼楼道的窗户跳楼自杀了，早上被发现的时候已经死亡。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "2090001428232155570",
+        "created_at": "2026-08-19T09:10:28.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090003455683514398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2193559340",
+              "start": 0,
+              "username": "Evf_Trotsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090003455683514398",
+        "in_reply_to_user_id": "2193559340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090003017286230459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evf_Trotsky 不能，因为我系统语言是繁体"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2090041286481023313",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 2305,
+          "like_count": 84361,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 6457
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "姓名：夜鸟 | 个人特征：MTX/BPD/ADHD/双相 | 主要关注：公共交通/垂直交通/建筑文化/美学 | 品牌偏好：麦当劳/Apple/徕卡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gE80d"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "is_identity_verified": false,
+        "location": "公元前",
+        "most_recent_tweet_id": "2090040846393692456",
+        "name": "HongSword",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894375325934784517/1786584787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088853611782737920/CuymVfe2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 483,
+          "like_count": 38232,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 8854
+        },
+        "url": "https://t.co/Y9Zk1gE80d",
+        "username": "sword_1003",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-11-14T05:13:45.000Z",
+        "description": "國際主義民革托派\n烏克蘭閒散人士\n飛天拉麵神教中國教區修女\n德涅斯特河沿岸摩爾達維亞共和國駐華大使",
+        "id": "2193559340",
+        "is_identity_verified": true,
+        "location": "Одеса,Україна",
+        "most_recent_tweet_id": "2090040649479332320",
+        "name": "EvfrosiniaTC",
+        "pinned_tweet_id": "2055243923728347367",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2193559340/1578922022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026014401980174336/BpS1kZKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 148,
+          "like_count": 3011,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 4646
+        },
+        "url": "",
+        "username": "Evf_Trotsky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

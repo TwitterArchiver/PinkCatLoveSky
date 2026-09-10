@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2097193066188951642",
+    "created_at": "2026-09-09T02:47:22.000Z",
+    "display_text_range": [
+      43,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T03:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097517187749777873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1926327950493790208",
+          "start": 0,
+          "username": "haozhe18169"
+        },
+        {
+          "end": 29,
+          "id": "1774264719773409280",
+          "start": 13,
+          "username": "KissaHsgsta1106"
+        },
+        {
+          "end": 42,
+          "id": "1880979169297022976",
+          "start": 30,
+          "username": "Wesley10032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097517187749777873",
+    "in_reply_to_user_id": "1926327950493790208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097517121215582484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@haozhe18169 @KissaHsgsta1106 @Wesley10032 是應該做的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2097193066188951642",
+        "created_at": "2026-09-09T02:47:22.000Z",
+        "display_text_range": [
+          43,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097517187749777873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926327950493790208",
+              "start": 0,
+              "username": "haozhe18169"
+            },
+            {
+              "end": 29,
+              "id": "1774264719773409280",
+              "start": 13,
+              "username": "KissaHsgsta1106"
+            },
+            {
+              "end": 42,
+              "id": "1880979169297022976",
+              "start": 30,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097517187749777873",
+        "in_reply_to_user_id": "1926327950493790208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097517121215582484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@haozhe18169 @KissaHsgsta1106 @Wesley10032 是應該做的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926327950493790208",
+        "conversation_id": "2097193066188951642",
+        "created_at": "2026-09-09T02:47:06.000Z",
+        "display_text_range": [
+          46,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097517121215582484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            },
+            {
+              "end": 32,
+              "id": "1774264719773409280",
+              "start": 16,
+              "username": "KissaHsgsta1106"
+            },
+            {
+              "end": 45,
+              "id": "1880979169297022976",
+              "start": 33,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097517121215582484",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097516968727511156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@PinkCatLoveSky @KissaHsgsta1106 @Wesley10032 是对的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 似乎有多重人格🤔 \n確診:重度憂鬱\n垃圾桶:@TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2097517187749777873",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 2525,
+          "like_count": 105736,
+          "listed_count": 2,
+          "media_count": 394,
+          "tweet_count": 8286
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-24T17:22:49.000Z",
+        "description": "unhuhmomomomo......",
+        "id": "1926327950493790208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097517121215582484",
+        "name": "momomomo...",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089045449353166848/Ahu-tUAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 235,
+          "like_count": 926,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "haozhe18169",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-31T02:37:37.000Z",
+        "description": "",
+        "id": "1774264719773409280",
+        "is_identity_verified": false,
+        "location": "乌茨约基，拉普兰",
+        "most_recent_tweet_id": "2097514546604945585",
+        "name": "赫尔辛基的猫",
+        "pinned_tweet_id": "1835918114938290560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774264719773409280/1787154730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082035815387955200/6yr37V9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 823,
+          "like_count": 51581,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 3053
+        },
+        "url": "",
+        "username": "KissaHsgsta1106",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2097452804080390213",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 1842,
+          "like_count": 26359,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 3964
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

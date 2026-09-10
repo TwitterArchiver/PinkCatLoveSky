@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2091842109854859279",
+    "created_at": "2026-08-24T10:56:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T11:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091842109854859279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091842109854859279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091833858564272366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: 2026年以来 仅推特中文圈上的不完全统计\n亚硝酸钠自杀事件就有整整27例\n不管TA们是不是跨性别，这都足以警示各位。\n活下来的人里，有人进过 ICU，有人事后明确劝过：\n不要用这种方法。\n愿逝者安息，我们能做的只有三件事：\n提高危险化学品的售卖和寄…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2091833510961291265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQevfsYbIAE0lbW.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2091842109854859279",
+        "created_at": "2026-08-24T10:56:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091842109854859279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091842109854859279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091833858564272366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: 2026年以来 仅推特中文圈上的不完全统计\n亚硝酸钠自杀事件就有整整27例\n不管TA们是不是跨性别，这都足以警示各位。\n活下来的人里，有人进过 ICU，有人事后明确劝过：\n不要用这种方法。\n愿逝者安息，我们能做的只有三件事：\n提高危险化学品的售卖和寄…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091833510961291265"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "conversation_id": "2091833858564272366",
+        "created_at": "2026-08-24T10:23:50.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091833858564272366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wPOkwbTZE",
+              "end": 165,
+              "expanded_url": "https://x.com/KiraMyao/status/2091833858564272366/photo/1",
+              "media_key": "3_2091833510961291265",
+              "start": 142,
+              "url": "https://t.co/8wPOkwbTZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091833858564272366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091833510961291265"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 190,
+                "id": "1585145286598483968",
+                "start": 178,
+                "username": "lianyiganyu"
+              }
+            ]
+          },
+          "text": "2026年以来 仅推特中文圈上的不完全统计\n亚硝酸钠自杀事件就有整整27例\n不管TA们是不是跨性别，这都足以警示各位。\n活下来的人里，有人进过 ICU，有人事后明确劝过：\n不要用这种方法。\n愿逝者安息，我们能做的只有三件事：\n提高危险化学品的售卖和寄送门槛；\n遇到自杀事件及时干预；\n不盲从，愿你找到活下去的希望。\n\n如需立刻帮助：请拨打当地 110 / @lianyiganyu"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "2026年以来 仅推特中文圈上的不完全统计\n亚硝酸钠自杀事件就有整整27例\n不管TA们是不是跨性别，这都足以警示各位。\n活下来的人里，有人进过 ICU，有人事后明确劝过：\n不要用这种方法。\n愿逝者安息，我们能做的只有三件事：\n提高危险化学品的售卖和寄送门槛；\n遇到自杀事件及时干预； https://t.co/8wPOkwbTZE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "如同行屍走肉般在這腐爛的世界中做著無用功\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2091842109854859279",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 2373,
+          "like_count": 90258,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 7004
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiramyao.com",
+                "end": 23,
+                "expanded_url": "https://kiramyao.com/",
+                "start": 0,
+                "url": "https://t.co/NVGsHKEdLi"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2091836282381172963",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2088478447643578384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811265295849598976/1772529789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 372,
+          "like_count": 10407,
+          "listed_count": 7,
+          "media_count": 430,
+          "tweet_count": 1931
+        },
+        "url": "https://t.co/NVGsHKEdLi",
+        "username": "KiraMyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

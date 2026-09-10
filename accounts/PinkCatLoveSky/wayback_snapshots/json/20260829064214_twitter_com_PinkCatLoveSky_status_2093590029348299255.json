@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2093588356605390940",
+    "created_at": "2026-08-29T06:42:14.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T07:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093590029348299255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2082467261110222848",
+          "start": 0,
+          "username": "Irosas_MtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093590029348299255",
+    "in_reply_to_user_id": "2082467261110222848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093588356605390940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_MtF 嗚嗚QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_2093588350670430208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3rgzubYAA0nk_.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2093588356605390940",
+        "created_at": "2026-08-29T06:42:14.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093590029348299255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2082467261110222848",
+              "start": 0,
+              "username": "Irosas_MtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093590029348299255",
+        "in_reply_to_user_id": "2082467261110222848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093588356605390940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_MtF 嗚嗚QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093588350670430208"
+          ]
+        },
+        "author_id": "2082467261110222848",
+        "conversation_id": "2093588356605390940",
+        "created_at": "2026-08-29T06:35:35.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093588356605390940"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcZlXQb68f",
+              "end": 55,
+              "expanded_url": "https://x.com/Irosas_MtF/status/2093588356605390940/photo/1",
+              "media_key": "3_2093588350670430208",
+              "start": 32,
+              "url": "https://t.co/rcZlXQb68f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093588356605390940",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093588350670430208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報\n账号冻结\n一凣🏳️‍⚧️\n_Malinorne https://t.co/rcZlXQb68f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "如同行屍走肉般在這腐爛的世界中做著無用功\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2093590029348299255",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 2418,
+          "like_count": 95781,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 7490
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T14:05:14.000Z",
+        "description": "@Irosas_sub 锁推期间，这个账号发布评论\n友跨跨女@Irosasmeow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Irosas_sub"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Irosasmeow"
+              }
+            ]
+          }
+        },
+        "id": "2082467261110222848",
+        "is_identity_verified": false,
+        "location": "雌二醇星球",
+        "most_recent_tweet_id": "2093588356605390940",
+        "name": "Irosas🍥🏳️‍⚧️3.0",
+        "pinned_tweet_id": "2091910819642843434",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082467261110222848/1785385875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090737594162446336/3XbMhQkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 89,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "Irosas_MtF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

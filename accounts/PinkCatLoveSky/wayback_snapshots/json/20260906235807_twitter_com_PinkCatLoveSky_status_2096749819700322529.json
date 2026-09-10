@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2096571348223156239",
+    "created_at": "2026-09-06T23:58:07.000Z",
+    "display_text_range": [
+      35,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T00:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096749819700322529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733692753899569152",
+          "start": 0,
+          "username": "AmiyaArk0106"
+        },
+        {
+          "end": 23,
+          "id": "1724348868585013248",
+          "start": 14,
+          "username": "KiriyoXX"
+        },
+        {
+          "end": 34,
+          "id": "1512456859776851972",
+          "start": 24,
+          "username": "wanliyan3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096749819700322529",
+    "in_reply_to_user_id": "1733692753899569152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096595081323307369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmiyaArk0106 @KiriyoXX @wanliyan3 已轉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2096571348223156239",
+        "created_at": "2026-09-06T23:58:07.000Z",
+        "display_text_range": [
+          35,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096749819700322529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733692753899569152",
+              "start": 0,
+              "username": "AmiyaArk0106"
+            },
+            {
+              "end": 23,
+              "id": "1724348868585013248",
+              "start": 14,
+              "username": "KiriyoXX"
+            },
+            {
+              "end": 34,
+              "id": "1512456859776851972",
+              "start": 24,
+              "username": "wanliyan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096749819700322529",
+        "in_reply_to_user_id": "1733692753899569152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096595081323307369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmiyaArk0106 @KiriyoXX @wanliyan3 已轉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733692753899569152",
+        "conversation_id": "2096571348223156239",
+        "created_at": "2026-09-06T13:43:14.000Z",
+        "display_text_range": [
+          37,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096595081323307369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            },
+            {
+              "end": 25,
+              "id": "1724348868585013248",
+              "start": 16,
+              "username": "KiriyoXX"
+            },
+            {
+              "end": 36,
+              "id": "1512456859776851972",
+              "start": 26,
+              "username": "wanliyan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096595081323307369",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096593448694624741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky @KiriyoXX @wanliyan3 能帮我转一下我置顶的推文吗，求求粉猫了🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 似乎有多重人格🤔\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2096749819700322529",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 2498,
+          "like_count": 104979,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 8128
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T03:39:55.000Z",
+        "description": "“爱具体的人，不要爱抽象的人；\n  爱生活本身，胜于爱生活的意义”\n                                               ——陀思妥耶夫斯基\n点击给我发匿名消息喵↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amiyaark01061",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amiyaark01061",
+                "start": 0,
+                "url": "https://t.co/Y5nxNE2lG9"
+              }
+            ]
+          }
+        },
+        "id": "1733692753899569152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096644978512736430",
+        "name": "社恐猫猫Ark🐱",
+        "pinned_tweet_id": "2096591088379465911",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733692753899569152/1788339807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096076431847747584/zj_ncPlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 405,
+          "like_count": 7276,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 3044
+        },
+        "url": "https://t.co/Y5nxNE2lG9",
+        "username": "AmiyaArk0106",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 台灣跨圈聯盟(https://t.co/deAyJObD6j) 召集人 / 重度依戀，永遠愛著大家 / 自殺干預緊急應變小組 / 開發者兼企業家兼夢想家 / 雙北面面 / 165,46kg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trans.kiriyo.link",
+                "end": 36,
+                "expanded_url": "http://trans.kiriyo.link",
+                "start": 13,
+                "url": "https://t.co/deAyJObD6j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "world.kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://world.kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/HyV8DwVGOn"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "is_identity_verified": false,
+        "location": "Taiwan Taipei",
+        "most_recent_tweet_id": "2096526916270645420",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724348868585013248/1771069604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086693685950054400/aqvzC4Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 85,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/HyV8DwVGOn",
+        "username": "KiriyoXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "不知为啥，脑内突然激发很多想象力\n這裡是想像力頻道\n\n拿鐵醬頻道👉🏻@y30105\n\n@qian67068 干~~~~~！😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 34,
+                "username": "y30105"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "qian67068"
+              }
+            ]
+          }
+        },
+        "id": "1512456859776851972",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2096612863414874198",
+        "name": "拿铁导演🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512456859776851972/1785590479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087593497545314304/wEcOHAkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 424,
+          "like_count": 1907,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1369
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

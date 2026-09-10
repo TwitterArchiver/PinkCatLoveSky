@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2092658558097903678",
+    "created_at": "2026-08-26T17:14:34.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092661995485192507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057831680308920320",
+          "start": 0,
+          "username": "Wrin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092661995485192507",
+    "in_reply_to_user_id": "2057831680308920320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092658758271082697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wrin520 香菜也是這樣想嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2092658558097903678",
+        "created_at": "2026-08-26T17:14:34.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092661995485192507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057831680308920320",
+              "start": 0,
+              "username": "Wrin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092661995485192507",
+        "in_reply_to_user_id": "2057831680308920320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092658758271082697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wrin520 香菜也是這樣想嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057831680308920320",
+        "conversation_id": "2092658558097903678",
+        "created_at": "2026-08-26T17:01:42.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092658758271082697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092658758271082697",
+        "in_reply_to_user_id": "2057831680308920320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092658558097903678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "计划但我真的看不到我的未来我不知道我这样下去未来还会有多少困难我不想再面对了我真的好痛苦我在做什么我要做什么我什么都不知道我只想结束痛苦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "如同行屍走肉般在這腐爛的世界中做著無用功\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2092661995485192507",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 2391,
+          "like_count": 93251,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 7220
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:31:45.000Z",
+        "description": "简介不知道写什么喵\n我是Wrin\n纯日常帖\n希望得到关心谢谢喵",
+        "id": "2057831680308920320",
+        "is_identity_verified": false,
+        "location": "NY",
+        "most_recent_tweet_id": "2092658758271082697",
+        "name": "Wrin🍥✝️❤️🔞🚾0️⃣🩸💊💣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057831680308920320/1781621617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074642025744662528/Fk9dt44z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 332,
+          "like_count": 260,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "Wrin520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

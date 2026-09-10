@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2093642126680875342",
+    "created_at": "2026-08-29T10:11:53.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T11:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093642788491641039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076897141830844416",
+          "start": 0,
+          "username": "GunandJason"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093642788491641039",
+    "in_reply_to_user_id": "2076897141830844416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093642126680875342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GunandJason 🩵🩷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2093642114441879553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4caRYbIAEomGE.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2093642126680875342",
+        "created_at": "2026-08-29T10:11:53.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T11:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093642788491641039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076897141830844416",
+              "start": 0,
+              "username": "GunandJason"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093642788491641039",
+        "in_reply_to_user_id": "2076897141830844416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093642126680875342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GunandJason 🩵🩷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093642114441879553"
+          ]
+        },
+        "author_id": "2076897141830844416",
+        "conversation_id": "2093642126680875342",
+        "created_at": "2026-08-29T10:09:15.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T11:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093642126680875342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FgihCcn5pn",
+              "end": 46,
+              "expanded_url": "https://x.com/GunandJason/status/2093642126680875342/photo/1",
+              "media_key": "3_2093642114441879553",
+              "start": 23,
+              "url": "https://t.co/FgihCcn5pn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093642126680875342",
+        "lang": "it",
+        "media_metadata": [
+          {
+            "media_key": "3_2093642114441879553"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非 aigc\ndevice：xiaomi15 https://t.co/FgihCcn5pn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "如同行屍走肉般在這腐爛的世界中做著無用功\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2093642788491641039",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 2420,
+          "like_count": 96151,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 7520
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T05:11:45.000Z",
+        "description": "Release Date：02/14/2011\nenfp 不💊不🔪  爱看刀子\n要 fo 所有木桶饭\n| mc | 摄影 | 忙 | 拼音不好 | 同类互 fo | 中度拖延 | 地下党 |练声ing | 非典型 mtf gf？ |被迫接受男生身份 | 害怕精卫因而深柜 | 圆脸 | 曾经 m 如今 s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/gunand…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/gunandjason.bsky.social",
+                "start": 0,
+                "url": "https://t.co/a3iAtHSMew"
+              }
+            ]
+          }
+        },
+        "id": "2076897141830844416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093642355991822557",
+        "name": "高氯锂LiClO₄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076897141830844416/1787163180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091137805904932864/wGuvMV_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 503,
+          "like_count": 3031,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 866
+        },
+        "url": "https://t.co/a3iAtHSMew",
+        "username": "GunandJason",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

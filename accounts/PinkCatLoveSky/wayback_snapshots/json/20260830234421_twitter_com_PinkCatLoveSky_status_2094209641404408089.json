@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2094042371281568199",
+    "created_at": "2026-08-30T23:44:21.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T00:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094209641404408089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2083406819964420096",
+          "start": 0,
+          "username": "OukaroMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094209641404408089",
+    "in_reply_to_user_id": "2083406819964420096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094195886763155819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OukaroMF 不知道是好事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2094042371281568199",
+        "created_at": "2026-08-30T23:44:21.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T00:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094209641404408089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2083406819964420096",
+              "start": 0,
+              "username": "OukaroMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094209641404408089",
+        "in_reply_to_user_id": "2083406819964420096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094195886763155819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OukaroMF 不知道是好事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083406819964420096",
+        "conversation_id": "2094042371281568199",
+        "created_at": "2026-08-30T22:49:42.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094195886763155819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094195886763155819",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094042371281568199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 啥呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2094209641404408089",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 2438,
+          "like_count": 99019,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 7667
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T04:18:41.000Z",
+        "description": "Member/Junior-Designer of https://t.co/3SSh9WcTze\nAuDHD CG/MG 电子高速宏波炉 算是美工 但不是开发者 来自深圳 现居广州 性别已被占用 🍥HRT230609 🌭RLE250326 ❌NeverSRS\n banner by @kangaroo_sande",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "kangaroo_sande"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "SukiSU.org",
+                "end": 49,
+                "expanded_url": "http://SukiSU.org",
+                "start": 26,
+                "url": "https://t.co/3SSh9WcTze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro/MF",
+                "end": 23,
+                "expanded_url": "http://ouka.ro/MF",
+                "start": 0,
+                "url": "https://t.co/GsQxfQb72s"
+              }
+            ]
+          }
+        },
+        "id": "2083406819964420096",
+        "is_identity_verified": true,
+        "location": "请输入文本",
+        "most_recent_tweet_id": "2094208165743378594",
+        "name": "OukaroMF",
+        "pinned_tweet_id": "2088972032776266216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083406819964420096/1785674814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083434459630882816/NZ4BOxV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 596,
+          "like_count": 6352,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 5012
+        },
+        "url": "https://t.co/GsQxfQb72s",
+        "username": "OukaroMF",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2088678495824368113",
+    "created_at": "2026-08-16T06:15:06.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088872157870993643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2073000442796343296",
+          "start": 0,
+          "username": "Awaiting316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088872157870993643",
+    "in_reply_to_user_id": "2073000442796343296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088871770891989006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Awaiting316 棒棒喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088871754987171840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0pyzlbcAAUtHG.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088871754987126784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0pyzlawAANZoD.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088871755335237633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0py04agAEGOD8.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088871754982924288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0pyzkaoAAdD9S.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088678495824368113",
+        "created_at": "2026-08-16T06:15:06.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088872157870993643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2073000442796343296",
+              "start": 0,
+              "username": "Awaiting316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088872157870993643",
+        "in_reply_to_user_id": "2073000442796343296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088871770891989006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Awaiting316 棒棒喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088871754987171840",
+            "3_2088871754987126784",
+            "3_2088871755335237633",
+            "3_2088871754982924288"
+          ]
+        },
+        "author_id": "2073000442796343296",
+        "conversation_id": "2088678495824368113",
+        "created_at": "2026-08-16T06:13:34.000Z",
+        "display_text_range": [
+          16,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088871770891989006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AF4m4kegt",
+              "end": 65,
+              "expanded_url": "https://x.com/Awaiting316/status/2088871770891989006/photo/1",
+              "media_key": "3_2088871754987171840",
+              "start": 42,
+              "url": "https://t.co/7AF4m4kegt"
+            },
+            {
+              "display_url": "pic.x.com/7AF4m4kegt",
+              "end": 65,
+              "expanded_url": "https://x.com/Awaiting316/status/2088871770891989006/photo/1",
+              "media_key": "3_2088871754987126784",
+              "start": 42,
+              "url": "https://t.co/7AF4m4kegt"
+            },
+            {
+              "display_url": "pic.x.com/7AF4m4kegt",
+              "end": 65,
+              "expanded_url": "https://x.com/Awaiting316/status/2088871770891989006/photo/1",
+              "media_key": "3_2088871755335237633",
+              "start": 42,
+              "url": "https://t.co/7AF4m4kegt"
+            },
+            {
+              "display_url": "pic.x.com/7AF4m4kegt",
+              "end": 65,
+              "expanded_url": "https://x.com/Awaiting316/status/2088871770891989006/photo/1",
+              "media_key": "3_2088871754982924288",
+              "start": 42,
+              "url": "https://t.co/7AF4m4kegt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088871770891989006",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088871754987171840"
+          },
+          {
+            "media_key": "3_2088871754987126784"
+          },
+          {
+            "media_key": "3_2088871755335237633"
+          },
+          {
+            "media_key": "3_2088871754982924288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088678495824368113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 遇到了喵，不过还好Lina有外置大脑GPT喵^ ^ https://t.co/7AF4m4kegt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2088872157870993643",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 2279,
+          "like_count": 79633,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 6023
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-03T11:08:51.000Z",
+        "description": "叫咱Lina喵/是女孩子是小药娘哦\nCreated 2009.3.16/无证🍥2026.7.12\n同类互fo喵！/好想认识朋友……\n疑似小蝴蝶/高二/≈独居/未出柜\n保质期3年以上…大概……\n学英语＆画画＆伪音ing/业余摄影/HiFi\n❗️莫名其妙的人立刻block",
+        "id": "2073000442796343296",
+        "is_identity_verified": false,
+        "location": "深圳/济南……？",
+        "most_recent_tweet_id": "2088871770891989006",
+        "name": "有糖可乐Lina🏳️‍🌈 🏳️‍⚧️",
+        "pinned_tweet_id": "2085776473236103416",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073000442796343296/1783797651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073001323684036608/uuw4MxX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 580,
+          "like_count": 5334,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "Awaiting316",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2092973978268618784",
+    "created_at": "2026-08-27T14:16:22.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092979538577813928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2092076122825744384",
+          "start": 0,
+          "username": "scarymp7g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092979538577813928",
+    "in_reply_to_user_id": "2092076122825744384",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092978064871637054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scarymp7g ("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2092973978268618784",
+        "created_at": "2026-08-27T14:16:22.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092979538577813928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2092076122825744384",
+              "start": 0,
+              "username": "scarymp7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092979538577813928",
+        "in_reply_to_user_id": "2092076122825744384",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092978064871637054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scarymp7g ("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092076122825744384",
+        "conversation_id": "2092973978268618784",
+        "created_at": "2026-08-27T14:10:30.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092978064871637054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092978064871637054",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092973978268618784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky hyw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "如同行屍走肉般在這腐爛的世界中做著無用功\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2092979538577813928",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 2418,
+          "like_count": 94265,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 7384
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-08-25T02:30:07.000Z",
+        "description": "大号: @scarymq69\n为应对晶格，老师审查及同学忘本，特此创建此号\n这个号需建造一个完全不同的推流，but也需要部分原推流\n同时大部分会发布与 和平精英 and PUBG M有关的，见证极少数出现\n已屏蔽大号黑名单人员和发布恶意揣测他人帖子的账号\n点开下面的链接可以了解我\n希望不被 Ghost ban 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "scarymq69"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/share/c2hhcmQt…",
+                "end": 23,
+                "expanded_url": "https://grok.com/share/c2hhcmQtMg_b33ad843-ba7e-4b4f-a461-1f17724fe765",
+                "start": 0,
+                "url": "https://t.co/Qj2STcNi0U"
+              }
+            ]
+          }
+        },
+        "id": "2092076122825744384",
+        "is_identity_verified": false,
+        "location": "Taipei",
+        "most_recent_tweet_id": "2092978064871637054",
+        "name": "Farmer Fai",
+        "pinned_tweet_id": "2092627446499795252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092076122825744384/1787639894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092138858788106240/nEEzH9vL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 38,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/Qj2STcNi0U",
+        "username": "scarymp7g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

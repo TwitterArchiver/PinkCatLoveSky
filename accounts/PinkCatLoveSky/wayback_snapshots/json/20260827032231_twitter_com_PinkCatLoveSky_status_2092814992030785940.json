@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2092814992030785940",
+    "created_at": "2026-08-27T03:22:31.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T04:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092814992030785940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kiriu07/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/kiriu07/status/2092814802435678706",
+          "start": 9,
+          "url": "https://t.co/gmpjjbgigz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092814992030785940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092814802435678706",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "面了騷貓貓和人類 https://t.co/gmpjjbgigz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1110,
+        "media_key": "3_2092814796723011584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsr-CtbQAAEObr.jpg",
+        "width": 1474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2092814992030785940",
+        "created_at": "2026-08-27T03:22:31.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092814992030785940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiriu07/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kiriu07/status/2092814802435678706",
+              "start": 9,
+              "url": "https://t.co/gmpjjbgigz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092814992030785940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092814802435678706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "面了騷貓貓和人類 https://t.co/gmpjjbgigz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092814796723011584"
+          ]
+        },
+        "author_id": "1724348868585013248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092814802435678706",
+        "created_at": "2026-08-27T03:21:46.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092814802435678706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063066427465297920",
+              "start": 0,
+              "username": "ouo99017"
+            },
+            {
+              "end": 25,
+              "id": "1320354023451496450",
+              "start": 10,
+              "username": "PinkCatLoveSky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ciq8mH8sKP",
+              "end": 52,
+              "expanded_url": "https://x.com/kiriu07/status/2092814802435678706/photo/1",
+              "media_key": "3_2092814796723011584",
+              "start": 29,
+              "url": "https://t.co/Ciq8mH8sKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092814802435678706",
+        "in_reply_to_user_id": "2063066427465297920",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092814796723011584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ouo99017 @PinkCatLoveSky 喵喵 https://t.co/Ciq8mH8sKP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "如同行屍走肉般在這腐爛的世界中做著無用功\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2092814992030785940",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 2404,
+          "like_count": 93521,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 7292
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 台灣跨圈聯盟(https://t.co/deAyJObD6j) 召集人 / 重度依戀，永遠愛著大家 / 自殺干預緊急應變小組 / 開發者兼企業家兼夢想家 / 雙北面面 / 165,46kg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trans.kiriyo.link",
+                "end": 36,
+                "expanded_url": "http://trans.kiriyo.link",
+                "start": 13,
+                "url": "https://t.co/deAyJObD6j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "world.kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://world.kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/HyV8DwVGOn"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "is_identity_verified": false,
+        "location": "Taiwan Taipei",
+        "most_recent_tweet_id": "2092814802435678706",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724348868585013248/1771069604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086693685950054400/aqvzC4Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 82,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/HyV8DwVGOn",
+        "username": "kiriu07",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T01:13:52.000Z",
+        "description": "花火激推!!!˶ᗜ - ᗜ˶\n偶爾發瘋~\n玻璃心qwq\n刪刪發發~\n很賤的人類就是我哇",
+        "id": "2063066427465297920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092802014434717784",
+        "name": "人類",
+        "pinned_tweet_id": "2091541950373765154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063066427465297920/1787493411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091525074507689985/Sseb4iNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 19,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "ouo99017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

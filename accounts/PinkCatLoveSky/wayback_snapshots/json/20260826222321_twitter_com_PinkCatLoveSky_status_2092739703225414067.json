@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2092606959556137366",
+    "created_at": "2026-08-26T22:23:21.000Z",
+    "display_text_range": [
+      31,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T23:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092739703225414067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048331424504463360",
+          "start": 0,
+          "username": "Com0loquieras"
+        },
+        {
+          "end": 30,
+          "id": "2051367892416114688",
+          "start": 15,
+          "username": "RezaSeyed58543"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092739703225414067",
+    "in_reply_to_user_id": "2048331424504463360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092678181128204635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Com0loquieras @RezaSeyed58543 何意為"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2092606959556137366",
+        "created_at": "2026-08-26T22:23:21.000Z",
+        "display_text_range": [
+          31,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092739703225414067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048331424504463360",
+              "start": 0,
+              "username": "Com0loquieras"
+            },
+            {
+              "end": 30,
+              "id": "2051367892416114688",
+              "start": 15,
+              "username": "RezaSeyed58543"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092739703225414067",
+        "in_reply_to_user_id": "2048331424504463360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092678181128204635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Com0loquieras @RezaSeyed58543 何意為"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048331424504463360",
+        "conversation_id": "2092606959556137366",
+        "created_at": "2026-08-26T18:18:53.000Z",
+        "display_text_range": [
+          16,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092678181128204635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2051367892416114688",
+              "start": 0,
+              "username": "RezaSeyed58543"
+            },
+            {
+              "end": 31,
+              "id": "1320354023451496450",
+              "start": 16,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092678181128204635",
+        "in_reply_to_user_id": "2051367892416114688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092606959556137366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RezaSeyed58543 @PinkCatLoveSky\n以物易物环节"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "如同行屍走肉般在這腐爛的世界中做著無用功\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2092739703225414067",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 2392,
+          "like_count": 93261,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 7238
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10 180cm/81kg\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,internet,español CEFR A1\n性格特点：直球 拉美大手子 大男娘 梦到什么说什么 谈崩专家不善言辞 身体不好 性压抑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "867678.xyz",
+                "end": 23,
+                "expanded_url": "https://867678.xyz",
+                "start": 0,
+                "url": "https://t.co/S3HBBI7wbC"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "is_identity_verified": false,
+        "location": "San Juan, Porto Rico",
+        "most_recent_tweet_id": "2092690334400872912",
+        "name": "Claro🇪🇸🇲🇽🇨🇴🇵🇪🇦🇷🇨🇱",
+        "pinned_tweet_id": "2092647315920281733",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048331424504463360/1786365601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087076529792823296/UCJJ1nGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 280,
+          "like_count": 12519,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 5784
+        },
+        "url": "https://t.co/S3HBBI7wbC",
+        "username": "Com0loquieras",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-04T18:28:03.000Z",
+        "description": "中华第二帝国主席、中国国家法西斯党中央委员会第一书记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/sareza…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/sarezacortika.bsky.social",
+                "start": 0,
+                "url": "https://t.co/daEpzWDLcs"
+              }
+            ]
+          }
+        },
+        "id": "2051367892416114688",
+        "is_identity_verified": false,
+        "location": "中华第二帝国 天津市 河东区 中山门地铁站C口",
+        "most_recent_tweet_id": "2092627969588232345",
+        "name": "Seyed Abbas Reza Cortika",
+        "pinned_tweet_id": "2091482434802258328",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051367892416114688/1779977303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054578084830224385/PNI50NYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 534,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/daEpzWDLcs",
+        "username": "RezaSeyed58543",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

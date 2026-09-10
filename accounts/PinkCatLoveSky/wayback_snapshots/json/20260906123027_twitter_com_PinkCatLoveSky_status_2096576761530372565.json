@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2096576761530372565",
+    "created_at": "2026-09-06T12:30:27.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096576761530372565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1320354023451496450",
+          "start": 3,
+          "username": "PinkCatLoveSky"
+        },
+        {
+          "end": 48,
+          "id": "1724348868585013248",
+          "start": 39,
+          "username": "KiriyoXX"
+        },
+        {
+          "end": 110,
+          "id": "1512456859776851972",
+          "start": 100,
+          "username": "wanliyan3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096576761530372565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096571348223156239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PinkCatLoveSky: 沒忍住好奇心看了一下拿鐵的推文\n我跟 @KiriyoXX 是真心相愛的 還沒一起洗過澡的 還沒口過對方的 還沒有過性行為的 開房的三個小時只有貼貼抱抱\n而拿鐵 @wanliyan3 你呢 用情感勒索逼別人口交 用花言巧語騙人上床最愛 找到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2096576761530372565",
+        "created_at": "2026-09-06T12:30:27.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096576761530372565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1320354023451496450",
+              "start": 3,
+              "username": "PinkCatLoveSky"
+            },
+            {
+              "end": 48,
+              "id": "1724348868585013248",
+              "start": 39,
+              "username": "KiriyoXX"
+            },
+            {
+              "end": 110,
+              "id": "1512456859776851972",
+              "start": 100,
+              "username": "wanliyan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096576761530372565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096571348223156239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PinkCatLoveSky: 沒忍住好奇心看了一下拿鐵的推文\n我跟 @KiriyoXX 是真心相愛的 還沒一起洗過澡的 還沒口過對方的 還沒有過性行為的 開房的三個小時只有貼貼抱抱\n而拿鐵 @wanliyan3 你呢 用情感勒索逼別人口交 用花言巧語騙人上床最愛 找到…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2096571348223156239",
+        "created_at": "2026-09-06T12:08:56.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096571348223156239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1724348868585013248",
+              "start": 19,
+              "username": "KiriyoXX"
+            },
+            {
+              "end": 90,
+              "id": "1512456859776851972",
+              "start": 80,
+              "username": "wanliyan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096571348223156239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 28,
+                "id": "1724348868585013248",
+                "start": 19,
+                "username": "KiriyoXX"
+              },
+              {
+                "end": 90,
+                "id": "1512456859776851972",
+                "start": 80,
+                "username": "wanliyan3"
+              }
+            ]
+          },
+          "text": "沒忍住好奇心看了一下拿鐵的推文\n我跟 @KiriyoXX 是真心相愛的 還沒一起洗過澡的 還沒口過對方的 還沒有過性行為的 開房的三個小時只有貼貼抱抱\n而拿鐵 @wanliyan3 你呢 用情感勒索逼別人口交 用花言巧語騙人上床最愛 找到新歡舊的就隨意丟棄 甚至被新歡丟了還想找以前的人複合 這段時間還一直在物色新的目標 我就問你你什麼時候死媽的只會發情的猴子"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "沒忍住好奇心看了一下拿鐵的推文\n我跟 @KiriyoXX 是真心相愛的 還沒一起洗過澡的 還沒口過對方的 還沒有過性行為的 開房的三個小時只有貼貼抱抱\n而拿鐵 @wanliyan3 你呢 用情感勒索逼別人口交 用花言巧語騙人上床最愛 找到新歡舊的就隨意丟棄 甚至被新歡丟了還想找以前的人複合"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 似乎有多重人格🤔\n\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2096576761530372565",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 2497,
+          "like_count": 104952,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 8115
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 台灣跨圈聯盟(https://t.co/deAyJObD6j) 召集人 / 重度依戀，永遠愛著大家 / 自殺干預緊急應變小組 / 開發者兼企業家兼夢想家 / 雙北面面 / 165,46kg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trans.kiriyo.link",
+                "end": 36,
+                "expanded_url": "http://trans.kiriyo.link",
+                "start": 13,
+                "url": "https://t.co/deAyJObD6j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "world.kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://world.kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/HyV8DwVGOn"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "is_identity_verified": false,
+        "location": "Taiwan Taipei",
+        "most_recent_tweet_id": "2096526916270645420",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724348868585013248/1771069604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086693685950054400/aqvzC4Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 85,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/HyV8DwVGOn",
+        "username": "KiriyoXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "不知为啥，脑内突然激发很多想象力\n這裡是想像力頻道\n\n拿鐵醬頻道👉🏻@y30105\n\n@qian67068 干~~~~~！😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 34,
+                "username": "y30105"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "qian67068"
+              }
+            ]
+          }
+        },
+        "id": "1512456859776851972",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2096493721835733333",
+        "name": "拿铁导演🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512456859776851972/1785590479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087593497545314304/wEcOHAkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 422,
+          "like_count": 1900,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1368
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

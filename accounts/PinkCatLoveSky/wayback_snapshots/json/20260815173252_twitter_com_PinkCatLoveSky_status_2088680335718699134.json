@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2088680335718699134",
+    "created_at": "2026-08-15T17:32:52.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T18:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088680335718699134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PinkCatLoveSky…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2088678495824368113",
+          "start": 38,
+          "url": "https://t.co/TAAGwBprLT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088680335718699134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088678495824368113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我打錯了一個字👿\n肯定是輸入法的鍋👿 不怪我👿\nLog日誌前面 傳打成垂了 https://t.co/TAAGwBprLT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_2088678489193095168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPx6BQZaoAAtusk.jpg",
+        "width": 775
+      },
+      {
+        "height": 575,
+        "media_key": "3_2088678487427289088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPx6BJ0akAA9_IL.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2088678489209843712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPx6BQdaMAAcMMC.jpg",
+        "width": 614
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2088678487452504064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPx6BJ6bUAAiiWB.jpg",
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088680335718699134",
+        "created_at": "2026-08-15T17:32:52.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088680335718699134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2088678495824368113",
+              "start": 38,
+              "url": "https://t.co/TAAGwBprLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088680335718699134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088678495824368113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我打錯了一個字👿\n肯定是輸入法的鍋👿 不怪我👿\nLog日誌前面 傳打成垂了 https://t.co/TAAGwBprLT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088678489193095168",
+            "3_2088678487427289088",
+            "3_2088678489209843712",
+            "3_2088678487452504064"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "conversation_id": "2088678495824368113",
+        "created_at": "2026-08-15T17:25:33.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088678495824368113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WD61K92XIq",
+              "end": 29,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2088678495824368113/photo/1",
+              "media_key": "3_2088678489193095168",
+              "start": 6,
+              "url": "https://t.co/WD61K92XIq"
+            },
+            {
+              "display_url": "pic.x.com/WD61K92XIq",
+              "end": 29,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2088678495824368113/photo/1",
+              "media_key": "3_2088678487427289088",
+              "start": 6,
+              "url": "https://t.co/WD61K92XIq"
+            },
+            {
+              "display_url": "pic.x.com/WD61K92XIq",
+              "end": 29,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2088678495824368113/photo/1",
+              "media_key": "3_2088678489209843712",
+              "start": 6,
+              "url": "https://t.co/WD61K92XIq"
+            },
+            {
+              "display_url": "pic.x.com/WD61K92XIq",
+              "end": 29,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2088678495824368113/photo/1",
+              "media_key": "3_2088678487452504064",
+              "start": 6,
+              "url": "https://t.co/WD61K92XIq"
+            },
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2088651756507177259",
+              "start": 30,
+              "url": "https://t.co/Fohs4FHhSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088678495824368113",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088678489193095168"
+          },
+          {
+            "media_key": "3_2088678487427289088"
+          },
+          {
+            "media_key": "3_2088678489209843712"
+          },
+          {
+            "media_key": "3_2088678487452504064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "警惕盗号：\n盗号者会用盗来的号先找你私信说你用小号发了假的premium+的连结(图1），然后他说因为他因为这个所谓的小号发的连结差点被盗号了，他好不容易找回帐号后，搜这个小号搜不到，只能搜到你的主号，搜到你的主号后大量举报了你的主号，理由是盗号/诈骗，他后来发现自己搞错了之后来找你道歉，说收到了X support的一封信(图2），然后就会叫你去和另一位自称是推特工作人员的人私信以防止你的主号被停用/封禁。\n这个工作人员会先让你提供你和盗号者的私信，确认状况后会要你提供你的主号的用户名、生日、信箱和国家(图3），用来查询是不是真的有被误报的情况，要到资讯后垂一张log日誌(是这样叫吗 我也不知道）的图，说确有此事。\n⚠️⚠️⚠️最后一步⚠️⚠️⚠️\n他会要你把帐号的信箱改成他所谓的「官方信箱」以确保你的帐号不会被停用，还会问你需不需要提供验证码(图4）。如果你给他加入了，恭喜，你的号就要被盗啦！他后面还会叫你加他的dc，用来拖延时间盗你的号！\n\n各位自己注意分辨喵"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088651756507177259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警惕盗号： https://t.co/WD61K92XIq https://t.co/Fohs4FHhSj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx(@grok:ftx)/貓/友善/矛盾/健忘/水仙 (?) /已知4個人格共存(粉貓很可愛!)/不見證\n垃圾桶:@TrashcanCats\n🥵:@HornyYellowCat1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "grok"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "TrashcanCats"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "HornyYellowCat1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台              問喵問題！➡️",
+        "most_recent_tweet_id": "2088680335718699134",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 2276,
+          "like_count": 78967,
+          "listed_count": 2,
+          "media_count": 327,
+          "tweet_count": 5852
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
