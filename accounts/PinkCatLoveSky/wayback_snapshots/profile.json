@@ -1,8 +1,8 @@
 {
   "name": "粉天藍貓☀️☁️🌙",
   "username": "@PinkCatLoveSky",
-  "bio": "抑鬱好不舒服😖 似乎有多重人格🤔 \n確診:重度憂鬱\n垃圾桶:@TrashcanCats",
-  "location": "0.1km  在台灣             問喵問題！➡️",
+  "bio": "藍貓主導型系統 粉貓次之 偶爾有炸毛貓(會罵人)出現 還有更多未知人格喵\n確診:重度憂鬱\n直播小號@trashcancats\n——————————\n面基無傷人紀錄(自己根本不帶刀）多數時候是在照顧人 自己偶爾也會抑鬱相似 還會到處切換人格、解離 還會失去記憶 不好受😿",
+  "location": "你的附近       在台灣         問喵問題！➡️",
   "link": "https://ngl.link/pinkcatouo1",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
@@ -10,9 +10,9 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 43,
-        "start": 30,
-        "username": "TrashcanCats"
+        "end": 62,
+        "start": 49,
+        "username": "trashcancats"
       }
     ]
   },
