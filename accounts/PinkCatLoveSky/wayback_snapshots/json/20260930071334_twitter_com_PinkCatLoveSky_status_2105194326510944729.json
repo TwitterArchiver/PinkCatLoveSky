@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2105127218016096560",
+    "created_at": "2026-09-30T07:13:34.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T08:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105194326510944729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1686284307319738368",
+          "start": 0,
+          "username": "Liearmer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105194326510944729",
+    "in_reply_to_user_id": "1686284307319738368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105187672126058571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liearmer 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2105127218016096560",
+        "created_at": "2026-09-30T07:13:34.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105194326510944729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1686284307319738368",
+              "start": 0,
+              "username": "Liearmer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105194326510944729",
+        "in_reply_to_user_id": "1686284307319738368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105187672126058571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liearmer 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686284307319738368",
+        "conversation_id": "2105127218016096560",
+        "created_at": "2026-09-30T06:47:08.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105187672126058571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105187672126058571",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105127218016096560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 话说现在你们蓝粉记忆是一起的吗……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "藍貓主導型系統 粉貓次之 偶爾有炸毛貓(會罵人)出現 還有更多未知人格喵\n確診:重度憂鬱\n直播小號@trashcancats\n——————————\n面基無傷人紀錄(自己根本不帶刀）多數時候是在照顧人 自己偶爾也會抑鬱相似 還會到處切換人格、解離 還會失去記憶 不好受😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "trashcancats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "你的附近       在台灣         問喵問題！➡️",
+        "most_recent_tweet_id": "2105194326510944729",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 2630,
+          "like_count": 109534,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 9138
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-01T07:54:48.000Z",
+        "description": "温和地有立场，克制地有坚持。\nGentle yet principled, restrained yet resolute.\nA blogger, own https://t.co/ti9Uphi5tp.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "101application.com",
+                "end": 101,
+                "expanded_url": "http://101application.com",
+                "start": 78,
+                "url": "https://t.co/ti9Uphi5tp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "earmer.top",
+                "end": 23,
+                "expanded_url": "https://www.earmer.top",
+                "start": 0,
+                "url": "https://t.co/gs0Bzr7tkK"
+              }
+            ]
+          }
+        },
+        "id": "1686284307319738368",
+        "is_identity_verified": false,
+        "location": "须弥·须弥城·净善宫",
+        "most_recent_tweet_id": "2105187672126058571",
+        "name": "Earmer Carey",
+        "pinned_tweet_id": "1897208525027467704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686284307319738368/1781019327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686284402165469184/OUsqEhxO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 87,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1654
+        },
+        "url": "https://t.co/gs0Bzr7tkK",
+        "username": "Liearmer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

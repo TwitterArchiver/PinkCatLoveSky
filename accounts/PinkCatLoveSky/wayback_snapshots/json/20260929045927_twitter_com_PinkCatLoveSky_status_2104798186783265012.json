@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2104798186783265012",
+    "created_at": "2026-09-29T04:59:27.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T05:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104798186783265012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PinkCatLoveSky…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2104791311270183402",
+          "start": 19,
+          "url": "https://t.co/l1MkClaY22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104798186783265012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104791311270183402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沒有慾望可能是抑鬱害的吧 我也不知道 https://t.co/l1MkClaY22"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2104798186783265012",
+        "created_at": "2026-09-29T04:59:27.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104798186783265012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2104791311270183402",
+              "start": 19,
+              "url": "https://t.co/l1MkClaY22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104798186783265012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104791311270183402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒有慾望可能是抑鬱害的吧 我也不知道 https://t.co/l1MkClaY22"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2104791311270183402",
+        "created_at": "2026-09-29T04:32:08.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104791311270183402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2104647434916032687",
+              "start": 23,
+              "url": "https://t.co/tb19BKv66W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104791311270183402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104647434916032687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因為我自己沒有什麼喜好和慾望\n我不需要這些錢 https://t.co/tb19BKv66W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "想死\n確診:重度憂鬱\n直播小號@trashcancats\n——————————\n面基無傷人紀錄(自己根本不帶刀）多數時候是在照顧人 自己偶爾也會抑鬱相似 還會到處切換人格、解離 還會失去記憶 不好受😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "trashcancats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "你的附近       在台灣         問喵問題！➡️",
+        "most_recent_tweet_id": "2104798186783265012",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2615,
+          "like_count": 108795,
+          "listed_count": 1,
+          "media_count": 437,
+          "tweet_count": 9027
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

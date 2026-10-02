@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2104850789785391424",
+    "created_at": "2026-09-29T08:28:29.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T09:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104850789785391424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1724348868585013248",
+          "start": 7,
+          "username": "KiriyoXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104850789785391424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我還是不明白 @KiriyoXX 為什麼找上我而不是其他人 就是不明白 我明明沒做什麼事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2104850789785391424",
+        "created_at": "2026-09-29T08:28:29.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T09:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104850789785391424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724348868585013248",
+              "start": 7,
+              "username": "KiriyoXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104850789785391424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我還是不明白 @KiriyoXX 為什麼找上我而不是其他人 就是不明白 我明明沒做什麼事"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "藍貓主導型系統 粉貓次之 偶爾有炸毛貓(會罵人)出現 還有更多未知人格喵\n確診:重度憂鬱\n直播小號@trashcancats\n——————————\n面基無傷人紀錄(自己根本不帶刀）多數時候是在照顧人 自己偶爾也會抑鬱相似 還會到處切換人格、解離 還會失去記憶 不好受😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "trashcancats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "你的附近       在台灣         問喵問題！➡️",
+        "most_recent_tweet_id": "2104850789785391424",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 2618,
+          "like_count": 108991,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 9059
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 台灣跨圈聯盟(https://t.co/deAyJObD6j) 召集人 / 重度依戀，台灣不抽象之藥娘王 / 自殺干預緊急應變小組 / 開發者兼企業家兼夢想家 / 全台接圓角 / 165、46kg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trans.kiriyo.link",
+                "end": 36,
+                "expanded_url": "http://trans.kiriyo.link",
+                "start": 13,
+                "url": "https://t.co/deAyJObD6j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "world.kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://world.kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/HyV8DwVGOn"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "is_identity_verified": false,
+        "location": "Taiwan Taipei",
+        "most_recent_tweet_id": "2104186073555640484",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724348868585013248/1771069604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086693685950054400/aqvzC4Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 93,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/HyV8DwVGOn",
+        "username": "KiriyoXX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

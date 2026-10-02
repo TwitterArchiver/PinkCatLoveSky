@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2102708460572008825",
+    "created_at": "2026-09-23T11:28:09.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T12:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102721679457931339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PinkCatLoveSky…",
+          "end": 23,
+          "expanded_url": "https://x.com/PinkCatLoveSky/status/2102487687538323955",
+          "start": 0,
+          "url": "https://t.co/aIJmEf5hvE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102721679457931339",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102487687538323955",
+        "type": "quoted"
+      },
+      {
+        "id": "2102708460572008825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/aIJmEf5hvE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102708460572008825",
+        "created_at": "2026-09-23T11:28:09.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102721679457931339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 23,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2102487687538323955",
+              "start": 0,
+              "url": "https://t.co/aIJmEf5hvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102721679457931339",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102487687538323955",
+            "type": "quoted"
+          },
+          {
+            "id": "2102708460572008825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/aIJmEf5hvE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102708460572008825",
+        "created_at": "2026-09-23T10:35:38.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102708460572008825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "粉天藍貓☀️☁️🌙's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1DGle…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1DGleVdlQNjJL",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2102708462396612608/ae7o6Avg?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102708462396612608/ae7o6Avg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 重開一次 / X",
+              "unwound_url": "https://x.com/i/spaces/1DGleVdlQNjJL",
+              "url": "https://t.co/0YUHdrwl0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102708460572008825",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0YUHdrwl0L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102487687538323955",
+        "created_at": "2026-09-22T19:58:21.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T20:58:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102487602704392649",
+          "2102487687538323955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2102486530459918689",
+              "start": 22,
+              "url": "https://t.co/UMeSIUzmEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102487687538323955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1015,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102486530459918689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "對了 我還拿艾斯妥凝膠塗了全半身 感覺不錯 https://t.co/UMeSIUzmEo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "想死\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2102721679457931339",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 2587,
+          "like_count": 108150,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 8845
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

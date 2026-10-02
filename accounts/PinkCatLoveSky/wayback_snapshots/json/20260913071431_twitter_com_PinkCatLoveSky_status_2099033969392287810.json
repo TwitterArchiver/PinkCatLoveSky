@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098325641250922496"
+      ],
+      "media_source_tweet_id": [
+        "2098325656102732283"
+      ]
+    },
+    "author_id": "1320354023451496450",
+    "conversation_id": "2099033969392287810",
+    "created_at": "2026-09-13T07:14:31.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T08:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099033969392287810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1320354023451496450",
+          "start": 3,
+          "username": "PinkCatLoveSky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PsUHcxQtiq",
+          "end": 47,
+          "expanded_url": "https://x.com/PinkCatLoveSky/status/2098325656102732283/photo/1",
+          "media_key": "3_2098325641250922496",
+          "start": 24,
+          "url": "https://t.co/PsUHcxQtiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099033969392287810",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098325641250922496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098325656102732283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PinkCatLoveSky: 彈藥庫 https://t.co/PsUHcxQtiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2098325641250922496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7ADaXa4AAY_LP.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098325641250922496"
+          ],
+          "media_source_tweet_id": [
+            "2098325656102732283"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "conversation_id": "2099033969392287810",
+        "created_at": "2026-09-13T07:14:31.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099033969392287810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1320354023451496450",
+              "start": 3,
+              "username": "PinkCatLoveSky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PsUHcxQtiq",
+              "end": 47,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2098325656102732283/photo/1",
+              "media_key": "3_2098325641250922496",
+              "start": 24,
+              "url": "https://t.co/PsUHcxQtiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099033969392287810",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098325641250922496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098325656102732283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PinkCatLoveSky: 彈藥庫 https://t.co/PsUHcxQtiq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098325641250922496"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "conversation_id": "2098325656102732283",
+        "created_at": "2026-09-11T08:19:56.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098325656102732283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PsUHcxQtiq",
+              "end": 27,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2098325656102732283/photo/1",
+              "media_key": "3_2098325641250922496",
+              "start": 4,
+              "url": "https://t.co/PsUHcxQtiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098325656102732283",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098325641250922496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 908,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彈藥庫 https://t.co/PsUHcxQtiq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 有多重人格🥺 常駐躁狂ing\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2099033969392287810",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 2549,
+          "like_count": 106517,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 8501
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

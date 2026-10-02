@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2098687485811528095",
+    "created_at": "2026-09-12T11:57:50.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T12:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098742880563311004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499922683982614531",
+          "start": 0,
+          "username": "Leelalo6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098742880563311004",
+    "in_reply_to_user_id": "1499922683982614531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098740884892483933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leelalo6 做不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2098687485811528095",
+        "created_at": "2026-09-12T11:57:50.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098742880563311004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499922683982614531",
+              "start": 0,
+              "username": "Leelalo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098742880563311004",
+        "in_reply_to_user_id": "1499922683982614531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098740884892483933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leelalo6 做不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499922683982614531",
+        "conversation_id": "2098687485811528095",
+        "created_at": "2026-09-12T11:49:54.000Z",
+        "display_text_range": [
+          16,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098740884892483933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098740884892483933",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098730238289305861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 唉...辛苦了。我怕我講話可能很多餘，也不太確定妳的症狀(畢竟不是專業的醫生)，但如果真的很焦躁或是想哭，試著抓抓玩偶或枕頭，不要傷害皮膚好嗎🥺。妳已經很勇敢面對這一切了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 有多重人格🥺 常駐躁狂ing\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2098742880563311004",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 2537,
+          "like_count": 105951,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 8438
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-05T01:40:38.000Z",
+        "description": "我的女裝不好看 一個對自己外貌始終沒什麼自信的人 什麼感覺都無所謂了 活著只是自己還沒死而已",
+        "id": "1499922683982614531",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098740884892483933",
+        "name": "qwweewso🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948643034645889029/RNu0ol6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Leelalo6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

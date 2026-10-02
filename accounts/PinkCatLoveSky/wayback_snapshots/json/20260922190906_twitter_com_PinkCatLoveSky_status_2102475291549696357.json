@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2102233732480639347",
+    "created_at": "2026-09-22T19:09:06.000Z",
+    "display_text_range": [
+      17,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T20:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102475291549696357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "qtbrmdh19120101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102475291549696357",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102475031251218752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtbrmdh19120101 我很認真的 我知道你很好 我不想跟你討論我想死這件事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2102475014612357120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS194usakAArTvN.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102233732480639347",
+        "created_at": "2026-09-22T19:09:06.000Z",
+        "display_text_range": [
+          17,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T20:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102475291549696357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "qtbrmdh19120101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102475291549696357",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102475031251218752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtbrmdh19120101 我很認真的 我知道你很好 我不想跟你討論我想死這件事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102475014612357120"
+          ]
+        },
+        "author_id": "1776142720056385537",
+        "conversation_id": "2102233732480639347",
+        "created_at": "2026-09-22T19:08:04.000Z",
+        "display_text_range": [
+          15,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T20:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102475031251218752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jnb7rTyFru",
+              "end": 39,
+              "expanded_url": "https://x.com/qtbrmdh19120101/status/2102475031251218752/photo/1",
+              "media_key": "3_2102475014612357120",
+              "start": 16,
+              "url": "https://t.co/Jnb7rTyFru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102475031251218752",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2102475014612357120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102474599661547898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky https://t.co/Jnb7rTyFru"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "想死\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2102475291549696357",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 2577,
+          "like_count": 107956,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 8775
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "青天白日の名において\n青天白日滿山河🇹🇼\n君主派，民主派，自由派，共産派，雅俗共賞\n蔣公夢癡😍😍😍  正在學習🇭🇰🇯🇵互fo私訊告知  給我發消息https://t.co/3XqFgw9HzM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link",
+                "end": 96,
+                "expanded_url": "https://ngl.link/",
+                "start": 73,
+                "url": "https://t.co/3XqFgw9HzM"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "is_identity_verified": false,
+        "location": "中華民國(R.O.C)寶寶@zhngjing322708",
+        "most_recent_tweet_id": "2102475031251218752",
+        "name": "李延卿🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776142720056385537/1781376657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099182221039149056/-pWQMVPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 159,
+          "like_count": 13732,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 4492
+        },
+        "url": "",
+        "username": "qtbrmdh19120101",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

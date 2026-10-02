@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2102667787680543183",
+    "created_at": "2026-09-24T04:32:12.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T05:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102979390355423626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2094128030973403136",
+          "start": 0,
+          "username": "AmanomiyaSakuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102979390355423626",
+    "in_reply_to_user_id": "2094128030973403136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102667787680543183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmanomiyaSakuya 或許改成1天半12.5？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2102667787680543183].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2102667787680543183",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2102667787680543183"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102667787680543183",
+        "created_at": "2026-09-24T04:32:12.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T05:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102979390355423626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2094128030973403136",
+              "start": 0,
+              "username": "AmanomiyaSakuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102979390355423626",
+        "in_reply_to_user_id": "2094128030973403136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102667787680543183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmanomiyaSakuya 或許改成1天半12.5？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "想死\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2102979390355423626",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 2598,
+          "like_count": 108304,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 8878
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T18:20:43.000Z",
+        "description": "此前，你见过那只红色的兔子了吗？\n性别女🏳️‍⚧️ || 全性恋 || GAHT：7.10.2026🍥 || 体重63kg 身高178cm || 爱哭鬼🪻 || 性冷淡(?)🫧 || 神经衰弱🥀 || 尝试重新点燃自己心中的热情❤️‍🔥",
+        "id": "2094128030973403136",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2102824513742467559",
+        "name": "天ノ宮朔夜",
+        "pinned_tweet_id": "2096184015732822507",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099520351525056512/Y-ahOArE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 131,
+          "like_count": 1160,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "AmanomiyaSakuya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

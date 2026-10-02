@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2104796567119200735",
+    "created_at": "2026-09-29T04:53:01.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T05:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104796567119200735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Qingning_321/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Qingning_321/status/2104584694042165388",
+          "start": 31,
+          "url": "https://t.co/C3mne86kFD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104796567119200735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104584694042165388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我對歌手od都是這樣的看法\n都只是在和疾病抗爭 想活下來罷了 https://t.co/C3mne86kFD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2104796567119200735",
+        "created_at": "2026-09-29T04:53:01.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104796567119200735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Qingning_321/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Qingning_321/status/2104584694042165388",
+              "start": 31,
+              "url": "https://t.co/C3mne86kFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104796567119200735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104584694042165388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我對歌手od都是這樣的看法\n都只是在和疾病抗爭 想活下來罷了 https://t.co/C3mne86kFD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988955310481096704",
+        "conversation_id": "2104584694042165388",
+        "created_at": "2026-09-28T14:51:07.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104584694042165388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104584694042165388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2369,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我割手臂不是因为想死\n是因为我要用仅存的那点理智把自己平静下来\n除了那些鲜红的液体，也没有什么更能让我冷静的了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "想死\n確診:重度憂鬱\n直播小號@trashcancats\n——————————\n面基無傷人紀錄(自己根本不帶刀）多數時候是在照顧人 自己偶爾也會抑鬱相似 還會到處切換人格、解離 還會失去記憶 不好受😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "trashcancats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "你的附近       在台灣         問喵問題！➡️",
+        "most_recent_tweet_id": "2104796567119200735",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2615,
+          "like_count": 108782,
+          "listed_count": 1,
+          "media_count": 437,
+          "tweet_count": 9021
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-13T13:02:01.000Z",
+        "description": "INFP/双相/抑郁/割腕/深柜/亚文化/MyGO/理想主义/社民/164cm/51kg/生产日期2013.5.27/13岁初中废柴/容貌焦虑/留发中/长三角小县城挣扎/抖m/三角洲/音游/二次元/死宅/hrt(未来)/上学中/狱般的原生家庭/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qingning_321",
+                "end": 23,
+                "expanded_url": "http://t.me/qingning_321",
+                "start": 0,
+                "url": "https://t.co/OXJWROu53g"
+              }
+            ]
+          }
+        },
+        "id": "1988955310481096704",
+        "is_identity_verified": false,
+        "location": "Jiang Su,China,East Asia",
+        "most_recent_tweet_id": "2104696557002170732",
+        "name": "青柠好苦喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988955310481096704/1789289146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101655669115920384/ECJJH-vs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 774,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/OXJWROu53g",
+        "username": "Qingning_321",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

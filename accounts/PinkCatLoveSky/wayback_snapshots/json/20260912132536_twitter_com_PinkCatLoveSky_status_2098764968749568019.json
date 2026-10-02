@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2098759089954361810",
+    "created_at": "2026-09-12T13:25:36.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098764968749568019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2090037143972593664",
+          "start": 0,
+          "username": "Acetaffyismymom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098764968749568019",
+    "in_reply_to_user_id": "2090037143972593664",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098761440157151257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acetaffyismymom ..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2098759089954361810",
+        "created_at": "2026-09-12T13:25:36.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098764968749568019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090037143972593664",
+              "start": 0,
+              "username": "Acetaffyismymom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098764968749568019",
+        "in_reply_to_user_id": "2090037143972593664",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098761440157151257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acetaffyismymom ..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090037143972593664",
+        "conversation_id": "2098759089954361810",
+        "created_at": "2026-09-12T13:11:35.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098761440157151257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098761440157151257",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098759089954361810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 你也要多關心自己呀喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 有多重人格🥺 常駐躁狂ing\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2098764968749568019",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 2536,
+          "like_count": 105966,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 8446
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:29:21.000Z",
+        "description": "雛草姬/普高理科做題家/INTJ/🍺輕度依賴/不o/🔪🤚🏻🩸/身心不大健康 只反對一些立場錯誤的極端羣體，對大部分人都友好 已老實版\n一代已隕落:@Acetaffyismydad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Acetaffyismydad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/acetaffyismydad",
+                "end": 23,
+                "expanded_url": "https://ngl.link/acetaffyismydad",
+                "start": 0,
+                "url": "https://t.co/szTYSvKGYp"
+              }
+            ]
+          }
+        },
+        "id": "2090037143972593664",
+        "is_identity_verified": false,
+        "location": "永雛塔菲生產基地",
+        "most_recent_tweet_id": "2098761440157151257",
+        "name": "塔菲是我疊二代機",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090037143972593664/1787139514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090040489114513408/Vp9HDaFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 258,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/szTYSvKGYp",
+        "username": "Acetaffyismymom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

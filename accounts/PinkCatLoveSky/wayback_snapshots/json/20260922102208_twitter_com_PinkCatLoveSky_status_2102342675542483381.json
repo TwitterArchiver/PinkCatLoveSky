@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2102341616476582064",
+    "created_at": "2026-09-22T10:22:08.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T11:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102342675542483381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2101253898568966144",
+          "start": 0,
+          "username": "Snowthaw_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102342675542483381",
+    "in_reply_to_user_id": "2101253898568966144",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102341616476582064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowthaw_qwq QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102341616476582064",
+        "created_at": "2026-09-22T10:22:08.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102342675542483381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2101253898568966144",
+              "start": 0,
+              "username": "Snowthaw_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102342675542483381",
+        "in_reply_to_user_id": "2101253898568966144",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102341616476582064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowthaw_qwq QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2101253898568966144",
+        "conversation_id": "2102341616476582064",
+        "created_at": "2026-09-22T10:17:55.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102341616476582064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102341616476582064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的上肢快变成粉猫手臂的样子了🫠不然清醒不了，上课会犯困🫠🫠🫠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 有多重人格🥺 常駐躁狂ing\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2102342675542483381",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 2578,
+          "like_count": 107909,
+          "listed_count": 3,
+          "media_count": 424,
+          "tweet_count": 8751
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-19T10:18:28.000Z",
+        "description": "等待死亡中……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurvsnow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurvsnow",
+                "start": 0,
+                "url": "https://t.co/2G0nRQQJVh"
+              }
+            ]
+          }
+        },
+        "id": "2101253898568966144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102341616476582064",
+        "name": "落雪藏绪4.0",
+        "pinned_tweet_id": "2102275311304118521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101253898568966144/1789813302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101255283519733760/4bHmQYNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 114,
+          "like_count": 370,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/2G0nRQQJVh",
+        "username": "Snowthaw_qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

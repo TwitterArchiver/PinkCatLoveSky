@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2102228419195068895",
+    "created_at": "2026-09-22T04:10:58.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T05:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102249271810777121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804764703891361792",
+          "start": 0,
+          "username": "tangsunny_1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102249271810777121",
+    "in_reply_to_user_id": "1804764703891361792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102228419195068895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangsunny_1225 本來就是這樣的啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_2102228411544666112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSydmiragAAV6yc.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102228419195068895",
+        "created_at": "2026-09-22T04:10:58.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102249271810777121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804764703891361792",
+              "start": 0,
+              "username": "tangsunny_1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102249271810777121",
+        "in_reply_to_user_id": "1804764703891361792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102228419195068895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangsunny_1225 本來就是這樣的啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102228411544666112"
+          ]
+        },
+        "author_id": "1804764703891361792",
+        "conversation_id": "2102228419195068895",
+        "created_at": "2026-09-22T02:48:07.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T03:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102228419195068895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tktbFIeF5I",
+              "end": 32,
+              "expanded_url": "https://x.com/tangsunny_1225/status/2102228419195068895/photo/1",
+              "media_key": "3_2102228411544666112",
+              "start": 9,
+              "url": "https://t.co/tktbFIeF5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102228419195068895",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102228411544666112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看來我走錯地方了 https://t.co/tktbFIeF5I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 有多重人格🥺 常駐躁狂ing\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2102249271810777121",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 2567,
+          "like_count": 107717,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 8697
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T06:33:43.000Z",
+        "description": "一個港澳推主中文圈的綜合食瓜族｜日本語上手&勉強中 広東語、中国語、英語OK｜佛系更新，分享日常生活&外國行",
+        "id": "1804764703891361792",
+        "is_identity_verified": false,
+        "location": "虛擬澳門區部門",
+        "most_recent_tweet_id": "2102240579484860466",
+        "name": "SunnyTang（废话摸鱼小推友）",
+        "pinned_tweet_id": "2090070220060938706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804764703891361792/1764645137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995692460371300352/yF48Zthp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 121,
+          "like_count": 2780,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1466
+        },
+        "url": "",
+        "username": "tangsunny_1225",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

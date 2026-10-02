@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2101921664770736588",
+    "created_at": "2026-09-21T06:29:11.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T07:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101921664770736588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PinkCatLoveSky…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2101917332079784248",
+          "start": 22,
+          "url": "https://t.co/8bY0A2p8nC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101921664770736588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101917332079784248",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喔對 自述順直男 吃跨 笑死我了哈哈哈哈哈 https://t.co/8bY0A2p8nC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2101921664770736588",
+        "created_at": "2026-09-21T06:29:11.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101921664770736588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2101917332079784248",
+              "start": 22,
+              "url": "https://t.co/8bY0A2p8nC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101921664770736588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101917332079784248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喔對 自述順直男 吃跨 笑死我了哈哈哈哈哈 https://t.co/8bY0A2p8nC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2101917332079784248",
+        "created_at": "2026-09-21T06:11:58.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:08:18.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101916408594739572",
+          "2101916737210102199",
+          "2101917332079784248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1512456859776851972",
+              "start": 57,
+              "username": "wanliyan3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wanliyan3/stat…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/wanliyan3/status/2101545591910383732",
+              "start": 96,
+              "url": "https://t.co/GW1uE2MFKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101917332079784248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101545591910383732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的大王回來了 傻逼\n\n有沒有又反跨又吃跨還騷擾未成年, 要別人私密照, 腳踏多條船還pua對象的人啊 \n都是你欸@wanliyan3\n\n你他媽還差點害一個人自殺 你到底有多畜生大家應該都懂 https://t.co/GW1uE2MFKc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 有多重人格🥺 常駐躁狂ing\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2101921664770736588",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 2551,
+          "like_count": 107440,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 8652
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

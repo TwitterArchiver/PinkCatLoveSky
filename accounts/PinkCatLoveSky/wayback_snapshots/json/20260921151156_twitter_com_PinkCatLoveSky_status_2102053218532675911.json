@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2102005335682949316",
+    "created_at": "2026-09-21T15:11:56.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102053218532675911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1578261775799271425",
+          "start": 0,
+          "username": "zwjyydst41881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102053218532675911",
+    "in_reply_to_user_id": "1578261775799271425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102043695604482544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwjyydst41881 這也不錯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102005335682949316",
+        "created_at": "2026-09-21T15:11:56.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102053218532675911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1578261775799271425",
+              "start": 0,
+              "username": "zwjyydst41881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102053218532675911",
+        "in_reply_to_user_id": "1578261775799271425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102043695604482544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwjyydst41881 這也不錯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578261775799271425",
+        "conversation_id": "2102005335682949316",
+        "created_at": "2026-09-21T14:34:05.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102043695604482544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102043695604482544",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102005335682949316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 你牛没了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 有多重人格🥺 常駐躁狂ing\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2102053218532675911",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 2564,
+          "like_count": 107590,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 8675
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-07T05:52:00.000Z",
+        "description": "你要自杀我就拦住你，但是我要自杀你不要拦我，谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/momo68197",
+                "end": 23,
+                "expanded_url": "https://ngl.link/momo68197",
+                "start": 0,
+                "url": "https://t.co/qR7nWCArQm"
+              }
+            ]
+          }
+        },
+        "id": "1578261775799271425",
+        "is_identity_verified": false,
+        "location": "成都                    问我问题？→",
+        "most_recent_tweet_id": "2102043695604482544",
+        "name": "莫莫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1578261775799271425/1769282094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013208021556486144/bpicnfKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 252,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/qR7nWCArQm",
+        "username": "zwjyydst41881",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

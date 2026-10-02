@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2102486530459918689",
+    "created_at": "2026-09-23T10:12:58.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T11:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102702758017323243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1650143990984097792",
+          "start": 0,
+          "username": "fawm1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102702758017323243",
+    "in_reply_to_user_id": "1650143990984097792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102700682692456754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawm1234 神經病用量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102486530459918689",
+        "created_at": "2026-09-23T10:12:58.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102702758017323243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1650143990984097792",
+              "start": 0,
+              "username": "fawm1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102702758017323243",
+        "in_reply_to_user_id": "1650143990984097792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102700682692456754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawm1234 神經病用量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650143990984097792",
+        "conversation_id": "2102486530459918689",
+        "created_at": "2026-09-23T10:04:43.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102700682692456754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102700682692456754",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102486530459918689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 这是什么惊人量 一天吃三十粒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "想死\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2102702758017323243",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 2585,
+          "like_count": 108134,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 8839
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-23T14:26:21.000Z",
+        "description": "Welcome To New York\n FreeDom250\n Can Speak🇺🇲🇯🇵🇸🇬🇹🇼\nUnited States of America\nI Will Not Close The Account Unless Necessary.\nLet's Follow Each Other.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hololivepro.com/en/",
+                "end": 23,
+                "expanded_url": "https://hololivepro.com/en/",
+                "start": 0,
+                "url": "https://t.co/zkX2wQMiWs"
+              }
+            ]
+          }
+        },
+        "id": "1650143990984097792",
+        "is_identity_verified": false,
+        "location": "Republic Of Taiwan",
+        "most_recent_tweet_id": "2102700682692456754",
+        "name": "Yousa▶X🇺🇲🇺🇲🇺🇲",
+        "pinned_tweet_id": "2101603657976521126",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650143990984097792/1790103476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083234305845940224/bmhi5hUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 361,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/zkX2wQMiWs",
+        "username": "fawm1234",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

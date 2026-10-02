@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2103337001865122196",
+    "created_at": "2026-09-26T09:46:32.000Z",
+    "display_text_range": [
+      11,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T10:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103783267627610152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1512456859776851972",
+          "start": 0,
+          "username": "wanliyan3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103783267627610152",
+    "in_reply_to_user_id": "1512456859776851972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103337001865122196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanliyan3 憂鬱症是我從小就有的喔 不怪你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2103337001865122196",
+        "created_at": "2026-09-26T09:46:32.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103783267627610152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1512456859776851972",
+              "start": 0,
+              "username": "wanliyan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103783267627610152",
+        "in_reply_to_user_id": "1512456859776851972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103337001865122196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanliyan3 憂鬱症是我從小就有的喔 不怪你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512456859776851972",
+        "conversation_id": "2103337001865122196",
+        "created_at": "2026-09-25T04:13:14.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103337001865122196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103337001865122196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讓你得憂鬱症的是我，想讓你死的也是我，全世界都在阻止你自殺，關心你的時候，只有我想讓你離開人世，憂鬱症是第一步，讓你永遠消失是第二步，這個願望可以幫你實現"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "想死\n確診:重度憂鬱\n@trashcancats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "trashcancats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2103783267627610152",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 2601,
+          "like_count": 108392,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 8899
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "這裡是組長拿鐵",
+        "id": "1512456859776851972",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2103783121405743522",
+        "name": "拿铁🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512456859776851972/1785590479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098415298408017920/C1BSicbH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 589,
+          "like_count": 2350,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1856
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

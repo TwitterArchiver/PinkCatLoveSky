@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2102487687538323955",
+    "created_at": "2026-09-23T20:47:15.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T21:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102862378904002874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1911292539505930240",
+          "start": 0,
+          "username": "1ciRhMUybV28235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102862378904002874",
+    "in_reply_to_user_id": "1911292539505930240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102781530578063778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ciRhMUybV28235 抱歉..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102487687538323955",
+        "created_at": "2026-09-23T20:47:15.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T21:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102862378904002874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1911292539505930240",
+              "start": 0,
+              "username": "1ciRhMUybV28235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102862378904002874",
+        "in_reply_to_user_id": "1911292539505930240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102781530578063778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ciRhMUybV28235 抱歉..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911292539505930240",
+        "conversation_id": "2102487687538323955",
+        "created_at": "2026-09-23T15:25:59.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102781530578063778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102781530578063778",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102487687538323955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 不要浪费药品啊喂！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "想死\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2102862378904002874",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 2599,
+          "like_count": 108188,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 8850
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-13T05:37:26.000Z",
+        "description": "MTF🏳️‍⚧️ | 十七歳 | ホルモン使う2026.4.12💊 | 診断書ある | うつ病（中）と不安障害（重）とocd| 全性愛者✨ | 目標イラストレータ | od禁止 | 自傷🔪(私を勉強するな!!!) |  infp-t | 本命サカナクション | キモチでフォロバ|自己封閉中(눈‸눈)",
+        "id": "1911292539505930240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102813973641150902",
+        "name": "銀輝烈焔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911292539505930240/1777867158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924351906442252288/xc4EUxLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 267,
+          "like_count": 767,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "1ciRhMUybV28235",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

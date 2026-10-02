@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2102002171890090398",
+    "created_at": "2026-09-21T11:49:05.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T12:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102002171890090398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PinkCatLoveSky…",
+          "end": 23,
+          "expanded_url": "https://x.com/PinkCatLoveSky/status/2101917332079784248",
+          "start": 0,
+          "url": "https://t.co/wsMTEs555A"
+        },
+        {
+          "display_url": "x.com/wanliyan3/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/wanliyan3/status/2101994977119367354",
+          "start": 30,
+          "url": "https://t.co/hgR3iv2M5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102002171890090398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101994977119367354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/wsMTEs555A\n活該 傻逼 https://t.co/hgR3iv2M5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1503,
+        "media_key": "3_2101994964158939136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvJSHZagAA3KMu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1630,
+        "media_key": "3_2101994971222159360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvJShtasAAWFmU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102002171890090398",
+        "created_at": "2026-09-21T11:49:05.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102002171890090398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 23,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2101917332079784248",
+              "start": 0,
+              "url": "https://t.co/wsMTEs555A"
+            },
+            {
+              "display_url": "x.com/wanliyan3/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/wanliyan3/status/2101994977119367354",
+              "start": 30,
+              "url": "https://t.co/hgR3iv2M5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102002171890090398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101994977119367354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/wsMTEs555A\n活該 傻逼 https://t.co/hgR3iv2M5d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101994964158939136",
+            "3_2101994971222159360"
+          ]
+        },
+        "author_id": "1512456859776851972",
+        "conversation_id": "2101994977119367354",
+        "created_at": "2026-09-21T11:20:30.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101994977119367354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bn2hlgBnX",
+              "end": 144,
+              "expanded_url": "https://x.com/wanliyan3/status/2101994977119367354/photo/1",
+              "media_key": "3_2101994964158939136",
+              "start": 121,
+              "url": "https://t.co/2bn2hlgBnX"
+            },
+            {
+              "display_url": "pic.x.com/2bn2hlgBnX",
+              "end": 144,
+              "expanded_url": "https://x.com/wanliyan3/status/2101994977119367354/photo/1",
+              "media_key": "3_2101994971222159360",
+              "start": 121,
+              "url": "https://t.co/2bn2hlgBnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101994977119367354",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101994964158939136"
+          },
+          {
+            "media_key": "3_2101994971222159360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大網紅就是人見人愛，你各位看一下差距😒我沒說錯吧，這樣還有啥理由不走，全世界都喜歡他，就我是人人喊打喊殺😂我累了好不...我累了！老子不想在這裡繼續當你們的出氣筒，不幹了~消失到他真死，我再回來唄🫤\n\n即將再度註銷帳號倒數中\n\n（右圖是我） https://t.co/2bn2hlgBnX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 有多重人格🥺 常駐躁狂ing\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2102002171890090398",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 2560,
+          "like_count": 107576,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 8664
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "這裡是組長拿鐵",
+        "id": "1512456859776851972",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2101994977119367354",
+        "name": "拿铁🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512456859776851972/1785590479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098415298408017920/C1BSicbH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 487,
+          "like_count": 2090,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1556
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

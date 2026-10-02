@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1320354023451496450",
+    "conversation_id": "2102288176308236394",
+    "created_at": "2026-09-22T06:45:34.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T07:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102288176308236394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1487318664797831170",
+          "start": 3,
+          "username": "oneamong_us"
+        }
+      ],
+      "urls": [
+        {
+          "description": "> 这里记录着一些经历与回忆，却也有一个可能缺失了再也补不全的故事。 > > 我们是生息在不健全世界上的不健全的人，不可能用尺子测量长度，或者用分度器测量角度，如同银行存款般那样毫厘不爽地生活，对吧...",
+          "display_url": "one-among.us/profile/execut…",
+          "end": 103,
+          "expanded_url": "https://one-among.us/profile/execute_darker",
+          "images": [
+            {
+              "height": 628,
+              "url": "https://pbs.twimg.com/news_img/2100229556913225728/KBRtvZpw?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2100229556913225728/KBRtvZpw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 80,
+          "status": 200,
+          "title": "那些秋叶 - One Among Us",
+          "unwound_url": "https://one-among.us/profile/execute_darker/",
+          "url": "https://t.co/eAE7MgAn25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102288176308236394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100229514181640219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oneamong_us: 今天是Darker喵的生日，她相比同伴倾城梦有些任性执着、却也讨人喜欢呢。\n那些她们经历的日常，满载欢声笑语，温暖而幸福。 \nhttps://t.co/eAE7MgAn25"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2102288176308236394",
+        "created_at": "2026-09-22T06:45:34.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102288176308236394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1487318664797831170",
+              "start": 3,
+              "username": "oneamong_us"
+            }
+          ],
+          "urls": [
+            {
+              "description": "> 这里记录着一些经历与回忆，却也有一个可能缺失了再也补不全的故事。 > > 我们是生息在不健全世界上的不健全的人，不可能用尺子测量长度，或者用分度器测量角度，如同银行存款般那样毫厘不爽地生活，对吧...",
+              "display_url": "one-among.us/profile/execut…",
+              "end": 103,
+              "expanded_url": "https://one-among.us/profile/execute_darker",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2100229556913225728/KBRtvZpw?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2100229556913225728/KBRtvZpw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "那些秋叶 - One Among Us",
+              "unwound_url": "https://one-among.us/profile/execute_darker/",
+              "url": "https://t.co/eAE7MgAn25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102288176308236394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100229514181640219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oneamong_us: 今天是Darker喵的生日，她相比同伴倾城梦有些任性执着、却也讨人喜欢呢。\n那些她们经历的日常，满载欢声笑语，温暖而幸福。 \nhttps://t.co/eAE7MgAn25"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487318664797831170",
+        "conversation_id": "2100229514181640219",
+        "created_at": "2026-09-16T14:25:11.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100229514181640219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "> 这里记录着一些经历与回忆，却也有一个可能缺失了再也补不全的故事。 > > 我们是生息在不健全世界上的不健全的人，不可能用尺子测量长度，或者用分度器测量角度，如同银行存款般那样毫厘不爽地生活，对吧...",
+              "display_url": "one-among.us/profile/execut…",
+              "end": 86,
+              "expanded_url": "https://one-among.us/profile/execute_darker",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2100229556913225728/KBRtvZpw?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2100229556913225728/KBRtvZpw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "那些秋叶 - One Among Us",
+              "unwound_url": "https://one-among.us/profile/execute_darker/",
+              "url": "https://t.co/eAE7MgAn25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100229514181640219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1936,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天是Darker喵的生日，她相比同伴倾城梦有些任性执着、却也讨人喜欢呢。\n那些她们经历的日常，满载欢声笑语，温暖而幸福。 \nhttps://t.co/eAE7MgAn25"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 有多重人格🥺 常駐躁狂ing\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2102288176308236394",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 2577,
+          "like_count": 107863,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 8742
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-29T06:56:27.000Z",
+        "description": "A memorial website for transgender individuals and allies passed away.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "one-among.us",
+                "end": 23,
+                "expanded_url": "http://one-among.us",
+                "start": 0,
+                "url": "https://t.co/XJtgxbaPrH"
+              }
+            ]
+          }
+        },
+        "id": "1487318664797831170",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101697312787419148",
+        "name": "那些秋叶 One Among Us",
+        "pinned_tweet_id": "2049039749411721538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487318664797831170/1671914997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603840942682869771/hvXZoAeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3962,
+          "following_count": 8,
+          "like_count": 59,
+          "listed_count": 15,
+          "media_count": 20,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/XJtgxbaPrH",
+        "username": "oneamong_us",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
